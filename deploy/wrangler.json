@@ -1,0 +1,11 @@
+{
+  "name": "the-voids-archive",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "nothing.solo.engineer", "custom_domain": true }
+  ]
+}
