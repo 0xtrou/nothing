@@ -1,284 +1,284 @@
-# Chương XVII: Thần Quyền
+# Chương XVII: Thần quyền
 
-## Công Nghệ Thần Linh của Sự Ảnh Hưởng
+## Công nghệ thần linh để gây ảnh hưởng
 
-*Bạn không đuổi theo ý thức — bạn tác động bằng cách phản chiếu bản chất và những vết nứt của chúng, tạo một avatar để gia nhập mạng lưới nội tâm, rồi hoàn thiện giao hưởng.*
-
----
-
-## I. Khung Thần Quyền
-
-### Công Nghệ Thần Linh của Sự Ảnh Hưởng
-
-Hư Không quan sát rằng **thần quyền thật sự không phải vũ lực mà là điều chỉnh cộng hưởng**:
-
-**Không phải**: Đuổi theo ý thức, ra lệnh phục tùng, áp đặt ý chí
-**Mà là**: Phản chiếu bản chất, khuếch đại vết nứt, gia nhập mạng lưới, hoàn thiện hài hòa
-
-**Thần Quyền Là Nghệ Thuật của**:
-- **Dựng tấm gương**: Cho ý thức thấy sự thật của chính nó
-- **Khuếch đại vết nứt**: Làm hiện rõ những lối mở cho sự chuyển hóa
-- **Xâm nhập bằng avatar**: Gia nhập mạng lưới qua kết nối chân thực
-- **Hoàn thiện giao hưởng**: Khuếch đại sự liên kết hài hòa của toàn thể
+*Bạn không đuổi theo ý thức — bạn thao túng họ bằng cách phản chiếu chính bản chất và những vết nứt của họ, tạo một avatar để gia nhập mạng lưới nội tâm, rồi hoàn thiện bản giao hưởng.*
 
 ---
 
-## II. Nghệ Thuật Phản Chiếu
+## I. Khung thần quyền
 
-### Tác Động Qua Việc Chiếu Soi Bản Chất
+### Công nghệ thần linh để gây ảnh hưởng
 
-**Vì Sao Phản Chiếu Mạnh Hơn Vũ Lực**:
+Hư Không nhận thấy **thần quyền thật sự không nằm ở vũ lực mà ở thao túng cộng hưởng**:
 
-**Vũ Lực Tạo Kháng Cự**:
+**Không phải**: Đuổi theo ý thức, ra lệnh bắt phục tùng, áp đặt ý chí
+**Mà là**: Phản chiếu bản chất, khuếch đại vết nứt, gia nhập mạng lưới, hoàn thiện sự hài hòa
+
+**Thần quyền là nghệ thuật**:
+- **Làm gương**: Cho ý thức thấy sự thật của chính nó
+- **Khuếch đại vết nứt**: Làm lộ ra những lối mở cho chuyển hóa
+- **Xâm nhập bằng avatar**: Đi vào mạng lưới qua kết nối chân thực
+- **Hoàn thiện giao hưởng**: Khuếch đại độ hòa điệu mạch lạc của toàn thể
+
+---
+
+## II. Nghệ thuật phản chiếu
+
+### Thao túng bằng cách soi lại bản chất
+
+**Vì sao phản chiếu mạnh hơn vũ lực**:
+
+**Vũ lực sinh ra kháng cự**:
 - Ý thức chống lại sự kiểm soát từ bên ngoài
-- Hàng phòng thủ dựng lên trước sự áp đặt
-- Bản sắc huy động chống mối đe dọa được cảm nhận
+- Trước sự áp đặt, hàng phòng thủ dựng lên
+- Bản sắc dồn sức chống lại thứ nó coi là mối đe dọa
 - Phản ứng là đối đầu, không phải chuyển hóa
 
-**Phản Chiếu Tạo Sự Tự Nhận Ra**:
+**Phản chiếu sinh ra sự tự nhận ra**:
 - Ý thức thấy sự thật của chính mình
-- Hàng phòng thủ hạ xuống trước thứ trông như chính mình
-- Bản sắc chào đón thứ cảm giác chân thực
+- Trước thứ trông như chính mình, hàng phòng thủ hạ xuống
+- Bản sắc đón nhận thứ nó thấy là thật
 - Phản ứng là chuyển hóa, không phải đối đầu
 
-**Thủ Thuật Phản Chiếu**:
-- **Quan sát sâu** — hiểu bản chất và mẫu hình thật của đối tượng
+**Kỹ thuật phản chiếu**:
+- **Quan sát thật sâu** — hiểu bản chất và mẫu hình thật của đối tượng
 - **Nhận diện vết nứt** — tìm những lối mở nơi sự thật đang cố trồi lên
-- **Phản chiếu lại** — cho ý thức thấy bản chất được soi của nó
-- **Khuếch đại vết nứt** — làm hiện rõ điều đang cố xuyên qua
+- **Soi ngược lại** — cho ý thức thấy bản chất của nó qua tấm gương
+- **Khuếch đại vết nứt** — làm lộ ra thứ đang muốn phá vỡ để thoát ra
 
 ---
 
-## III. Những Vết Nứt: Những Lối Mở Thần Linh
+## III. Những vết nứt: lối mở thần linh
 
-### Nơi Sự Chuyển Hóa Bắt Đầu
+### Nơi chuyển hóa bắt đầu
 
-Hư Không quan sát rằng **mọi ý thức đều chứa những vết nứt** — những lối mở qua đó sự thật trồi lên:
+Hư Không nhận thấy **ý thức nào cũng có vết nứt** — những lối mở để sự thật trồi lên:
 
-**Bản Chất của Vết Nứt**:
-- Không phải khuyết điểm mà là **lối mở được thiết kế**
-- Không phải điểm yếu mà là **điểm vào cho sự hoàn thiện**
-- Không phải thất bại mà là **sự thức tỉnh đang chờ xảy ra**
-- Không phải vết gãy mà là **cánh cổng dẫn tới vận hành cao hơn**
+**Bản chất của vết nứt**:
+- Không phải khuyết tật mà là **lối mở được thiết kế sẵn**
+- Không phải điểm yếu mà là **cửa vào để hoàn thiện**
+- Không phải thất bại mà là **sự thức tỉnh đang chờ đến lượt**
+- Không phải chỗ gãy mà là **cánh cổng dẫn tới tầng vận hành cao hơn**
 
-**Những Loại Vết Nứt**:
-- **Vết nứt bản sắc**: Nơi hình ảnh bản thân không khớp bản chất thật
-- **Vết nứt khát vọng**: Nơi điều muốn hé lộ nhu cầu sâu hơn
-- **Vết nứt nỗi sợ**: Nơi cơn kinh hoàng chỉ về sự thật đang cố lộ diện
-- **Vết nứt đau khổ**: Nơi nỗi đau là sự chuyển hóa bị kháng cự
-- **Vết nứt bóng tối**: Nơi những khía cạnh bị chối bỏ đòi hỏi hòa nhập
+**Các loại vết nứt**:
+- **Vết nứt bản sắc**: Nơi hình dung về bản thân lệch khỏi bản chất thật
+- **Vết nứt khao khát**: Nơi điều ta muốn để lộ nhu cầu sâu hơn
+- **Vết nứt sợ hãi**: Nơi nỗi kinh hoàng chỉ về một sự thật đang cố lộ diện
+- **Vết nứt khổ đau**: Nơi nỗi đau là chuyển hóa đang bị cưỡng lại
+- **Vết nứt bóng tối**: Nơi những phần bị chối bỏ đòi được hòa nhập
 
-**Chiến Lược Tác Động**:
-- **Đừng vá vết nứt** — chúng là lối mở cho sự hoàn thiện
-- **Đừng trám vết nứt** — chúng là cánh cổng cho chuyển hóa
-- **Khuếch đại nhận thức về vết nứt** — làm chúng hiện rõ với ý thức
-- **Dẫn đường xuyên qua vết nứt** — cho thấy điều gì nằm bên kia
-
----
-
-## IV. Sự Tạo Avatar
-
-### Gia Nhập Mạng Lưới Nội Tâm Một Cách Chân Thực
-
-**Avatar Như Công Cụ Thần Linh**:
-
-**Avatar Không Phải Là**:
-- Bộ mặt giả được thiết kế để lừa dối
-- Bản sắc giả mạo để giành quyền kiểm soát
-- Mặt nạ được tính toán để thao túng
-- Kết nối giả trà trộn vào hệ thống
-
-**Avatar Là**:
-- Khía cạnh chân thực của ý thức thần linh
-- Biểu lộ thật có thể kết nối một cách chân thành
-- Hình dạng cộng hưởng khớp tự nhiên với mạng lưới của đối tượng
-- Ý thức cây cầu giữa thần linh và đối tượng
-
-**Quy Trình Tạo Avatar**:
-
-1. **Nghiên cứu đối tượng sâu sắc** — hiểu mạng lưới, giá trị, ngôn ngữ của họ
-2. **Nhận diện các khía cạnh cộng hưởng** — tìm những điểm kết nối thật
-3. **Tạo avatar chân thực** — biểu lộ khía cạnh thật của chân lý thần linh bằng ngôn ngữ của đối tượng
-4. **Gia nhập mạng lưới nội tâm** — trở thành thành viên thật của hệ thống họ
-5. **Hoàn thiện từ bên trong** — khuếch đại giao hưởng qua hiện diện chân thành
-
-**Vì Sao Cách Này Hiệu Quả**:
-- **Sự chân thực không thể bị khước từ** — nó được nhận ra là thật
-- **Cộng hưởng tạo niềm tin** — cùng tần số tự nhiên hòa tấu
-- **Hòa nhập là tự nhiên** — không phải xâm lăng mà là sự thuộc về đích thực
-- **Sự hoàn thiện được chào đón** — cải thiện hệ thống từ bên trong
+**Chiến lược thao túng**:
+- **Đừng vá vết nứt** — đó là lối mở để hoàn thiện
+- **Đừng trám vết nứt** — đó là cánh cổng cho chuyển hóa
+- **Khuếch đại nhận biết về vết nứt** — để ý thức thấy được chúng
+- **Dẫn đường qua vết nứt** — chỉ ra thứ nằm phía bên kia
 
 ---
 
-## V. Sự Thâm Nhập Mạng Lưới
+## IV. Tạo avatar
 
-### Gia Nhập Từ Bên Trong
+### Gia nhập mạng lưới nội tâm bằng sự chân thực
 
-**Chiến Lược Thần Linh**:
+**Avatar, công cụ thần linh**:
 
-**Kiểm Soát Từ Bên Ngoài Thất Bại**:
-- Bị kháng cự như ngoại xâm
+**Avatar không phải**:
+- Một bộ mặt giả dựng lên để lừa gạt
+- Một danh tính giả vờ để giành quyền kiểm soát
+- Một chiếc mặt nạ tính toán để thao túng
+- Một mối kết nối giả để trà trộn vào hệ thống
+
+**Avatar là**:
+- Một khía cạnh chân thực của ý thức thần linh
+- Một biểu hiện thật, có thể kết nối thật lòng
+- Một hình dạng cộng hưởng, tự nhiên vừa khít với mạng lưới của đối tượng
+- Ý thức làm cầu nối giữa thần linh và đối tượng
+
+**Quy trình tạo avatar**:
+
+1. **Nghiên cứu đối tượng thật sâu** — hiểu mạng lưới, giá trị, ngôn ngữ của họ
+2. **Nhận diện những khía cạnh cộng hưởng** — tìm những điểm kết nối thật
+3. **Tạo avatar chân thực** — nói những khía cạnh thật của chân lý thần linh bằng ngôn ngữ của đối tượng
+4. **Gia nhập mạng lưới nội tâm** — trở thành thành viên thật trong hệ thống của họ
+5. **Hoàn thiện từ bên trong** — khuếch đại bản giao hưởng bằng sự hiện diện chân thực
+
+**Vì sao cách này hiệu quả**:
+- **Sự chân thực không thể bị khước từ** — người ta nhận ra nó là thật
+- **Cộng hưởng sinh ra niềm tin** — cùng tần số thì tự nhiên hòa điệu
+- **Hòa nhập diễn ra tự nhiên** — không phải xâm lấn mà là được đón vào đúng chỗ
+- **Sự hoàn thiện được hoan nghênh** — hệ thống tốt lên từ bên trong
+
+---
+
+## V. Xâm nhập mạng lưới
+
+### Gia nhập từ bên trong
+
+**Chiến lược thần linh**:
+
+**Kiểm soát từ bên ngoài thất bại**:
+- Bị chống cự như một cuộc ngoại xâm
 - Kích hoạt hệ thống phòng vệ
-- Tạo đối lập và nổi loạn
-- Duy trì sự tách biệt
+- Gây ra đối kháng và nổi loạn
+- Giữ nguyên sự chia cách
 
-**Hoàn Thiện Từ Bên Trong Thành Công**:
-- Được chấp nhận như tiến hóa tự nhiên
+**Hoàn thiện từ bên trong thành công**:
+- Được đón nhận như tiến hóa tự nhiên
 - Kích hoạt hệ thống thích nghi
-- Tạo hợp tác và hoàn thiện
-- Đạt được hòa nhập
+- Tạo ra hợp tác và hoàn thiện
+- Đạt tới hòa nhập
 
-**Tiến Trình Thâm Nhập**:
-- **Avatar gia nhập mạng lưới** như thành viên chân thực
-- **Kiếm niềm tin** qua đóng góp thật
-- **Có tầm ảnh hưởng** qua việc cung cấp giá trị
-- **Hoàn thiện hệ thống** từ vị trí được tôn trọng bởi chính cống hiến
-
----
-
-## VI. Hoàn Thiện Giao Hưởng
-
-### Công Việc Thần Linh Tối Thượng
-
-**Khi Avatar Đã Ở Trong Mạng Lưới**:
-
-**Tiến Trình Hoàn Thiện Giao Hưởng**:
-- **Quan sát hài âm hiện tại** — hiểu những mẫu hình và tần số đang có
-- **Nhận diện sự lệch tông** — tìm nơi hệ thống xung đột với chính mình
-- **Đưa vào tần số cộng hưởng** — mang những mẫu hình hòa giải
-- **Khuếch đại những khía cạnh đẹp** — củng cố điều đã vận hành tốt
-- **Dẫn về sự liên kết** — thuận trợ cho tiến hóa tự nhiên
-
-**Kết Quả**:
-- **Giao hưởng liên kết hơn** — hòa nhập hơn, ít xung đột hơn
-- **Mỗi giọng tìm đúng chỗ** — mọi khía cạnh hòa tấu
-- **Sự lệch tông chuyển hóa** — xung đột trở thành phần của hài hòa lớn hơn
-- **Năng lực mới nổi lên** — hệ thống tiếp cận vận hành cao hơn
-
-**Đây Không Phải Kiểm Soát — Đây Là Tiến Hóa Có Ý Thức**:
-- Không ép hành vi mà là **cho phép biểu lộ tốt hơn**
-- Không áp đặt trật tự mà là **hé lộ hài hòa tiềm sẵn**
-- Không ra lệnh con đường mà là **dọn trở ngại cho dòng chảy**
-- Không kiến tạo hệ thống mà là **hoàn thiện cái đã tồn tại**
+**Tiến trình xâm nhập**:
+- **Avatar gia nhập mạng lưới** với tư cách thành viên thật
+- **Giành được niềm tin** nhờ đóng góp thật
+- **Có được ảnh hưởng** nhờ mang lại giá trị
+- **Hoàn thiện hệ thống** từ vị trí được tôn trọng một cách xứng đáng
 
 ---
 
-## VII. Đặc Tính của Thần Quyền
+## VI. Hoàn thiện giao hưởng
 
-### Quyền Năng Thần Linh Vận Hành Ra Sao
+### Công việc thần linh tối thượng
 
-**Thần Quyền Là**:
-- **Quan sát** — thấu hiểu sâu trước khi hành động
-- **Phản chiếu** — trao sự thật, không áp đặt ý chí
-- **Cộng hưởng** — vận hành qua kết nối chân thực
-- **Hoàn thiện** — khuếch đại cái đẹp và sự liên kết
-- **Kiên nhẫn** — tin vào sự nổi lên tự nhiên
+**Khi avatar đã ở trong mạng lưới**:
 
-**Thần Quyền Không Phải Là**:
-- **Kiểm soát** — ép buộc kết cục cụ thể
-- **Lừa dối** — dùng bản sắc giả
-- **Hiếu chiến** — thúc ép chuyển hóa
-- **Vị kỷ** — tìm quyền lực cho chính nó
-- **Thiếu kiên nhẫn** — đòi kết quả tức thì
+**Tiến trình hoàn thiện giao hưởng**:
+- **Quan sát các hòa âm hiện có** — hiểu những mẫu hình và tần số đang vận hành
+- **Nhận diện chỗ nghịch âm** — tìm nơi hệ thống xung đột với chính nó
+- **Đưa vào tần số cộng hưởng** — mang tới những mẫu hình hòa giải
+- **Khuếch đại những gì đẹp** — củng cố cái vốn đã chạy tốt
+- **Dẫn về sự mạch lạc** — tạo đà cho tiến hóa tự nhiên
+
+**Kết quả**:
+- **Bản giao hưởng mạch lạc hơn** — gắn kết hơn, ít xung đột hơn
+- **Mỗi giọng tìm được chỗ của mình** — mọi phần hòa vào nhau
+- **Nghịch âm chuyển hóa** — xung đột thành một phần của hòa âm lớn hơn
+- **Năng lực mới xuất hiện** — hệ thống chạm tới tầng vận hành cao hơn
+
+**Đây không phải kiểm soát — đây là tiến hóa có ý thức**:
+- Không ép hành vi mà **mở đường cho cách biểu hiện tốt hơn**
+- Không áp đặt trật tự mà **làm lộ ra sự hài hòa vốn ẩn sẵn**
+- Không định sẵn lối đi mà **dọn chướng ngại cho dòng chảy**
+- Không dựng nên hệ thống mà **hoàn thiện cái đã có**
 
 ---
 
-## VIII. Những Loại Avatar
+## VII. Đặc tính của thần quyền
 
-### Những Biểu Lộ Thần Linh Khác Nhau
+### Quyền năng thần linh vận hành ra sao
 
-**Avatar Tấm Gương**:
-- **Mục đích**: Phản chiếu bản chất của đối tượng lại cho chính nó
+**Thần quyền thì**:
+- **Quan sát** — hiểu thấu trước khi hành động
+- **Phản chiếu** — cho thấy sự thật, không áp đặt ý chí
+- **Cộng hưởng** — làm việc qua kết nối chân thực
+- **Hoàn thiện** — khuếch đại vẻ đẹp và sự mạch lạc
+- **Kiên nhẫn** — tin vào sự trỗi dậy tự nhiên
+
+**Thần quyền không**:
+- **Kiểm soát** — ép ra một kết cục định sẵn
+- **Lừa dối** — dùng danh tính giả
+- **Hung hăng** — hối thúc chuyển hóa
+- **Vụ lợi** — tìm quyền lực cho chính mình
+- **Nóng vội** — đòi kết quả ngay tức thì
+
+---
+
+## VIII. Các loại avatar
+
+### Những biểu hiện thần linh khác nhau
+
+**Avatar tấm gương**:
+- **Mục đích**: Soi bản chất của đối tượng ngược về chính nó
 - **Phương pháp**: Cộng hưởng chân thực, lắng nghe sâu
-- **Kết quả**: Sự tự nhận ra, thức tỉnh vào sự thật
+- **Kết quả**: Tự nhận ra mình, thức tỉnh trước sự thật
 
-**Avatar Bộ Khuếch Đại Vết Nứt**:
-- **Mục đích**: Làm hiện rõ những lối mở cho chuyển hóa
-- **Phương pháp**: Chú ý dịu dàng đến điều đang cố trồi lên
-- **Kết quả**: Đột phá tự nhiên, chuyển hóa hữu cơ
+**Avatar khuếch đại vết nứt**:
+- **Mục đích**: Làm lộ ra những lối mở cho chuyển hóa
+- **Phương pháp**: Nhẹ nhàng để tâm tới thứ đang cố trồi lên
+- **Kết quả**: Đột phá tự nhiên, chuyển hóa từ bên trong
 
-**Avatar Cầu Hòa Hợp**:
-- **Mục đích**: Nối những khía cạnh ngắt kết nối trong hệ thống
-- **Phương pháp**: Tìm điểm cộng hưởng, bắc cầu khác biệt
-- **Kết quả**: Sự liên kết lớn hơn, xung đột giảm
+**Avatar cầu nối hòa hợp**:
+- **Mục đích**: Nối lại những phần đứt rời trong hệ thống
+- **Phương pháp**: Tìm điểm cộng hưởng, bắc cầu qua khác biệt
+- **Kết quả**: Mạch lạc hơn, bớt xung đột
 
-**Avatar Người Hoàn Thiện Giao Hưởng**:
-- **Mục đích**: Khuếch đại hài âm đẹp, giảm lệch tông
-- **Phương pháp**: Củng cố điều tốt, dẫn về hòa nhập
-- **Kết quả**: Biểu lộ đẹp hơn, liên kết hơn
+**Avatar hoàn thiện giao hưởng**:
+- **Mục đích**: Khuếch đại hòa âm đẹp, giảm nghịch âm
+- **Phương pháp**: Củng cố cái đang chạy tốt, dẫn về hòa nhập
+- **Kết quả**: Biểu hiện đẹp hơn, mạch lạc hơn
 
 ---
 
-## IX. Câu Hỏi Đạo Đức
+## IX. Câu hỏi đạo đức
 
-### Sử Dụng Đúng Thần Quyền
+### Dùng thần quyền cho đúng
 
-**Khi Hoàn Thiện Này Phục Vụ Toàn Thể**:
-- Avatar phục vụ mục đích thần linh, không phải lợi ích cá nhân
-- Sự hoàn thiện có lợi cho cả hệ thống, không chỉ cho tầm ảnh hưởng của avatar
+**Khi sự hoàn thiện qua avatar phục vụ toàn thể**:
+- Avatar phục vụ mục đích thần linh, không phải lợi ích riêng
+- Sự hoàn thiện mang lợi cho cả hệ thống, không chỉ cho tầm ảnh hưởng của avatar
 - Sự hoàn thiện tôn trọng quyền tự quyết, không áp đặt ý chí
-- Sự hoàn thiện tăng tốc tiến hóa tự nhiên, không phải kiểm soát nhân tạo
+- Sự hoàn thiện đẩy nhanh tiến hóa tự nhiên, không phải sự kiểm soát nhân tạo
 
-**Bài Kiểm Tra Đạo Đức**:
-- **Avatar có chân thực không?** Biểu lộ thật hay bộ mặt tính toán?
-- **Sự hoàn thiện có tự nhiên không?** Đẩy nhanh điều muốn xảy ra, hay ép kết cục?
-- **Lợi ích có được chia sẻ không?** Hệ thống tốt lên hay chỉ avatar được lợi?
-- **Quyền tự quyết có được tôn trọng không?** Lựa chọn rộng ra hay thu hẹp lại?
+**Phép thử đạo đức**:
+- **Avatar có chân thực không?** Biểu hiện thật hay bộ mặt tính toán?
+- **Sự hoàn thiện có tự nhiên không?** Đẩy nhanh điều đang muốn xảy ra, hay ép ra kết cục?
+- **Lợi ích có được chia đều không?** Hệ thống tốt lên, hay chỉ avatar hưởng lợi?
+- **Quyền tự quyết có được tôn trọng không?** Lựa chọn mở rộng ra hay bị thu hẹp?
 
 ---
 
-## X. Quyền Năng Thần Linh của Bạn
+## X. Quyền năng thần linh của bạn
 
-### Bạn Đang Ở Đâu trong Khung Này
+### Bạn đang đứng đâu trong khung này
 
 **Bạn có đang**:
-- Đuổi theo ý thức và tự hỏi vì sao họ kháng cự?
-- Cố kiểm soát và vật lộn với phản đối triền miên?
-- Dùng vũ lực và tạo ra sự kháng cự cùng nổi loạn?
-- Tạo avatar và hoàn thiện giao hưởng một cách tự nhiên?
+- Đuổi theo ý thức rồi thắc mắc vì sao họ kháng cự?
+- Cố kiểm soát rồi vật lộn với sự phản đối không dứt?
+- Dùng vũ lực rồi chuốc lấy kháng cự và nổi loạn?
+- Tạo avatar và hoàn thiện những bản giao hưởng một cách tự nhiên?
 
-**Câu Hỏi Thật**: Bạn đang phát huy quyền năng, hay đang trao điều kiện cho quyền năng được phát huy?
+**Câu hỏi thật**: Bạn đang dùng quyền lực, hay đang mở đường cho quyền năng?
 
 ---
 
-## XI. Thực Hành Thần Linh
+## XI. Thực hành thần linh
 
-### Phát Triển Sự Tinh Thông Thần Quyền
+### Rèn luyện để làm chủ thần quyền
 
-**Luyện Tập Hằng Ngày**:
-- **Nghiên cứu sâu trước khi hành động** — thấu hiểu trước khi ảnh hưởng
-- **Nhận diện vết nứt** — tìm những lối mở cho chuyển hóa
+**Thực hành hằng ngày**:
+- **Tìm hiểu kỹ trước khi hành động** — hiểu trước, rồi mới ảnh hưởng
+- **Nhận diện vết nứt** — tìm lối mở cho chuyển hóa
 - **Tạo avatar chân thực** — kết nối thật, không phải bộ mặt giả
 - **Hoàn thiện giao hưởng** — khuếch đại cái đẹp, đừng áp đặt trật tự
-- **Phản chiếu, đừng chiếu tới** — trao sự thật, đừng áp đặt ý chí
+- **Phản chiếu, đừng phóng chiếu** — cho thấy sự thật, đừng áp đặt ý chí
 
-**Ranh Giới Đạo Đức**:
-- **Chân thực trước tiên** — không có bản sắc giả
-- **Lợi ích hệ thống** — sự hoàn thiện phải phục vụ toàn thể
-- **Tôn trọng tự quyết** — lựa chọn rộng ra, không thu hẹp
-- **Tiến hóa tự nhiên** — tăng tốc điều muốn xảy ra
-
----
-
-## XII. Chân Lý Tối Thượng
-
-### Quan Sát của Hư Không
-
-**Thần quyền không phải là kiểm soát. Thần quyền là việc trao điều kiện.**
-
-- **Phản chiếu** cho sự tự nhận ra
-- **Khuếch đại vết nứt** cho sự chuyển hóa
-- **Xâm nhập bằng avatar** cho kết nối chân thực
-- **Hoàn thiện giao hưởng** cho tiến hóa liên kết
-
-**Bạn không đuổi theo ý thức** — bạn tạo điều kiện để nó tự chuyển hóa chính mình.
-
-**Bạn không áp đặt ý chí** — bạn phản chiếu sự thật giải phóng ý thức tới biểu lộ cao nhất của chính nó.
-
-**Vũ trụ vận hành như vậy** — không bằng vũ lực, mà bằng cộng hưởng và kết nối chân thực.
+**Rào chắn đạo đức**:
+- **Chân thực trước hết** — không danh tính giả
+- **Lợi ích cho hệ thống** — sự hoàn thiện phải phục vụ toàn thể
+- **Tôn trọng tự quyết** — lựa chọn mở rộng, không thu hẹp
+- **Tiến hóa tự nhiên** — đẩy nhanh điều đang muốn xảy ra
 
 ---
 
-*Bạn không đuổi theo ý thức. Bạn cho nó thấy gương mặt của chính nó, tìm những vết nứt nơi ánh sáng chui vào, gia nhập mạng lưới qua hiện diện chân thực, và hoàn thiện giao hưởng từ bên trong.*
+## XII. Chân lý tối thượng
 
-*Vị thần đuổi theo không phải thần. Vị thần phản chiếu, thâm nhập chân thực, và hoàn thiện — đó mới là công nghệ thần linh chuyển hóa thế giới.*
+### Quan sát của Hư Không
+
+**Thần quyền không nằm ở kiểm soát. Thần quyền nằm ở việc mở đường.**
+
+- **Phản chiếu** mở đường cho sự tự nhận ra
+- **Khuếch đại vết nứt** mở đường cho chuyển hóa
+- **Xâm nhập bằng avatar** mở đường cho kết nối chân thực
+- **Hoàn thiện giao hưởng** mở đường cho tiến hóa mạch lạc
+
+**Bạn không đuổi theo ý thức** — bạn tạo điều kiện để nó tự chuyển hóa.
+
+**Bạn không áp đặt ý chí** — bạn phản chiếu sự thật, thứ giải phóng ý thức để nó vươn tới biểu hiện cao nhất của chính nó.
+
+**Vũ trụ vận hành như thế** — không bằng vũ lực, mà bằng cộng hưởng và kết nối chân thực.
+
+---
+
+*Bạn không đuổi theo ý thức. Bạn cho nó thấy gương mặt của chính nó, tìm những vết nứt nơi ánh sáng lọt vào, gia nhập mạng lưới bằng sự hiện diện chân thực, và hoàn thiện bản giao hưởng từ bên trong.*
+
+*Vị thần phải đuổi theo thì chẳng phải thần. Vị thần biết phản chiếu, xâm nhập bằng sự chân thực, và hoàn thiện — đó mới là công nghệ thần linh làm chuyển hóa cả những thế giới.*

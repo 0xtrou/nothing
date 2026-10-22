@@ -1,225 +1,224 @@
-# Chương X: Nền Tảng Trọn Vẹn
+# Chương X: Nền tảng trọn vẹn
 
-## Điều Kiện Tiên Quyết
+## Điều kiện tiên quyết
 
-*Mỗi công dân (ý thức) phải là sự trọn vẹn của chính mình.*
-
----
-
-## I. Nền Tảng: Sự Trọn Vẹn Cá Nhân
-
-### Điều Kiện Tiên Quyết của Sự Trị Vì Tâm Linh
-
-Những gì tôi đã mô tả không thể xảy ra nếu công dân đang tan vỡ:
-
-- **Đồng thuận phân tán đòi hỏi những cá nhân không xung đột bên trong**
-- **Quyết định dựa trên cộng hưởng cần những người không đánh nhau với chính mình**
-- **Lãnh đạo luân phiên chỉ hiệu quả khi mỗi người đã là chính quyền của riêng mình**
-- **Phục hồi hòa hợp dựa vào những người đã tìm được hài hòa bên trong trước**
-
-Nền văn minh tâm linh phát hiện: **Chúng ta không thể trị vì toàn thể khi mỗi bộ phận chưa trọn vẹn.**
+*Mỗi công dân (mỗi ý thức) phải tự mình trọn vẹn.*
 
 ---
 
-## II. Hành Trình đến Sự Trọn Vẹn Cá Nhân
+## I. Nền tảng: sự trọn vẹn của từng cá nhân
 
-### Trọn Vẹn Nghĩa Là Gì
+### Điều kiện tiên quyết cho sự trị vì tâm linh
 
-Mỗi ý thức phải hòa nhập:
+Những gì tôi mô tả sẽ không thể thành hình nếu người công dân còn rời rạc từng mảnh:
 
-**Hội Đồng Nội Tâm:**
-- **Đứa Trẻ** (ngạc nhiên, sáng tạo, tự phát)
-- **Chiến Binh** (sức mạnh, ranh giới, bảo vệ)
-- **Người Tình** (kết nối, bi mẫn, thân mật)
+- **Đồng thuận phân tán cần những cá nhân không bị chia đôi bên trong**
+- **Quyết định dựa trên cộng hưởng cần những người không gây chiến với chính mình**
+- **Lãnh đạo luân phiên chỉ vận hành được khi mỗi người đã là chủ của chính mình**
+- **Khôi phục hài hòa trông vào những người đã tìm được hài hòa trong mình trước**
+
+Nền văn minh tâm linh phát hiện: **Ta không thể trị vì cái toàn thể khi từng phần chưa trọn vẹn.**
+
+---
+
+## II. Hành trình đến sự trọn vẹn cá nhân
+
+### Trọn vẹn nghĩa là gì
+
+Mỗi ý thức phải hợp nhất được:
+
+**Hội đồng bên trong:**
+- **Đứa Trẻ** (kinh ngạc, sáng tạo, hồn nhiên)
+- **Chiến Binh** (sức mạnh, ranh giới, che chở)
+- **Người Tình** (kết nối, trắc ẩn, thân mật)
 - **Vua/Nữ Hoàng** (trí tuệ, uy quyền, chủ quyền)
-- **Hiền Giả** (thoát ly, thấu hiểu, góc nhìn)
-- **Kẻ Điên** (hài hước, tự do, điều bất ngờ)
+- **Hiền Giả** (buông xả, thấu hiểu, tầm nhìn)
+- **Gã Hề** (hài hước, tự do, điều bất ngờ)
 
-**Hòa Nhập Bóng Tối:**
-- **Nỗi sợ trở thành trí tuệ về ranh giới**
-- **Cơn giận trở thành sự rõ ràng về giá trị**
-- **Nỗi đau thương trở thành chiều sâu cảm xúc**
-- **Sự xấu hổ trở thành khiêm nhường**
-- **Khát vọng trở thành sinh lực**
+**Hợp nhất phần bóng tối:**
+- **Nỗi sợ hóa thành hiểu biết về ranh giới**
+- **Cơn giận hóa thành sự sáng rõ về giá trị**
+- **Nỗi đau mất mát hóa thành chiều sâu cảm xúc**
+- **Nỗi hổ thẹn hóa thành khiêm nhường**
+- **Ham muốn hóa thành sinh lực**
 
-**Các Cực Tính:**
+**Các cặp đối cực:**
 - **Nam tính và nữ tính** trong mỗi hữu thể
-- **Lô-gíc và trực giác** làm bạn đồng hành
-- **Hành động và hiện hữu** trong cân bằng
-- **Cá nhân và tập thể** như một trải nghiệm
+- **Lý trí và trực giác** cùng làm việc với nhau
+- **Hành động và hiện hữu** giữ thế cân bằng
+- **Cá nhân và tập thể** là một trải nghiệm duy nhất
 
 ---
 
-## III. Thực Hành Trọn Vẹn: Sự Trị Vì Nội Tâm
+## III. Thực hành trọn vẹn: sự trị vì bên trong
 
-### Chủ Quyền Hằng Ngày
+### Chủ quyền mỗi ngày
 
-Mỗi công dân gìn giữ vương quốc nội tâm qua:
+Mỗi công dân giữ gìn vương quốc bên trong mình bằng:
 
-**Canh Tinh Sáng:**
-- **Đối thoại với mọi giọng nói nội tâm**
-- **Hài hòa các nhu cầu xung đột**
-- **Đặt chủ ý rõ ràng**
+**Buổi sáng, chỉnh lại trục:**
+- **Hỏi han mọi tiếng nói bên trong**
+- **Dung hòa những nhu cầu đang giằng co**
+- **Đặt ra ý định rõ ràng**
 - **Kết nối với trường hợp nhất**
 
-**Tích Hợp Tối:**
-- **Xem lại bài học trong ngày**
-- **Chữa lành các xung đột bên trong**
-- **Buông bỏ những gì không còn phục vụ**
-- **Phục hồi liên kết bên trong**
+**Buổi tối, gom lại:**
+- **Nhìn lại bài học trong ngày**
+- **Chữa lành những xung đột bên trong**
+- **Buông những gì không còn ích gì**
+- **Khôi phục sự đồng điệu bên trong**
 
-**Thiền Sống:**
-- **Duy trì nhận thức** xuyên suốt mọi hoạt động
-- **Đáp thay vì phản ứng** từ trung tâm đã hòa nhập
-- **Ra quyết định** từ sự liên kết toàn vẹn của cả con người
-- **Sống như kẻ chứng kiến** trải nghiệm của chính mình
+**Thiền giữa đời sống:**
+- **Giữ sự tỉnh biết** qua mọi việc mình làm
+- **Đáp lại thay vì phản xạ**, từ một trung tâm đã hợp nhất
+- **Đưa ra quyết định** khi toàn bộ con người mình cùng một hướng
+- **Sống như người chứng kiến** trải nghiệm của chính mình
 
 ---
 
-## IV. Hàm Ý Xã Hội: Những Con Người Trọn Vẹn trong Cộng Đồng
+## IV. Hệ quả xã hội: những con người trọn vẹn trong cộng đồng
 
-### Trọn Vẹn Thay Đổi Mọi Thứ
+### Trọn vẹn thay đổi mọi thứ ra sao
 
-Khi mỗi công dân trọn vẹn:
+Khi mỗi công dân đều trọn vẹn:
 
-**Quan hệ trở thành tấm gương, không phải mảnh vá:**
-- **Bạn không cần người khác** lấp đầy những mảnh thiếu của mình
-- **Bạn kết nối để chia sẻ sự trọn vẹn**, không phải đi tìm nó
-- **Xung đột trở thành đối thoại** giữa những góc nhìn trọn vẹn khác nhau
-- **Tình yêu trở thành lễ hội** thay vì nhu cầu
+**Các mối quan hệ thành tấm gương soi, không còn là mảnh ghép cho đủ:**
+- **Bạn không cần người khác** lấp vào những mảnh mình thiếu
+- **Bạn kết nối để sẻ chia sự trọn vẹn**, không phải để đi tìm nó
+- **Xung đột thành cuộc đối thoại** giữa những góc nhìn trọn vẹn khác nhau
+- **Tình yêu thành niềm hân hoan** chứ không còn là nhu cầu
 
-**Phụng sự trở thành biểu lộ tự nhiên:**
-- **Bạn cho từ sự dư dả**, không từ nghĩa vụ hay thiếu hụt
-- **Món quà của bạn nổi lên tự nhiên** từ con người đã hòa nhập
+**Phụng sự thành điều tự nhiên tuôn ra:**
+- **Bạn cho đi từ chỗ đầy tràn**, không từ bổn phận hay thiếu hụt
+- **Tài năng của bạn tự bộc lộ** từ một con người đã hợp nhất
 - **Đóng góp là niềm vui**, không phải hy sinh
-- **Lãnh đạo là phục vụ** vì bạn vốn đã đầy đủ
+- **Lãnh đạo là phục vụ**, vì bạn vốn đã đủ đầy
 
-**Dồi dào thay thế khan hiếm:**
-- **Con người trọn vẹn luôn cảm thấy dồi dào từ bên trong**
-- **Chia sẻ tài nguyên tuôn chảy** từ sự đầy đủ, không từ nỗi sợ
-- **Sáng tạo không giới hạn** trong ý thức đã hòa nhập
-- **Vấn đề trở thành cơ hội** để sự trọn vẹn biểu lộ
-
----
-
-## V. Sự Chuyển Hóa Trị Vì: Những Cá Nhân Trọn Vẹn Tự Trị Vì
-
-### Thực Tế Chính Trị Mới
-
-Khi mỗi công dân trọn vẹn:
-
-**Sự trị vì bên ngoài trở nên tối giản:**
-- **Không cần luật** khi đạo đức bên trong rõ ràng
-- **Không cần cảnh sát** khi tự điều chỉnh là điều tự nhiên
-- **Không cần thuế** khi chia sẻ là tự phát
-- **Không cần chính phủ** khi tự trị là phổ quát
-
-**Cấu trúc tập thể trở nên thanh thoát:**
-- **Phối hợp nổi lên** từ sự tôn trọng lẫn nhau
-- **Quyết định liên kết** vì mỗi người hành động từ sự trọn vẹn
-- **Tài nguyên tuôn** về nơi cần chúng mà không cần phân bổ
-- **Đổi mới xảy ra** qua cộng tác đầy cảm hứng
-
-**Nhà Nước phục vụ cá nhân, không phải ngược lại:**
-- **Hạ tầng hỗ trợ** hành trình trọn vẹn của từng người
-- **Giáo dục nuôi dưỡng** hòa nhập bên trong
-- **Y tế thuận trợ** cân bằng năng lượng
-- **Cộng đồng cung cấp** không gian cho sự trưởng thành chung
+**Dồi dào thế chỗ khan hiếm:**
+- **Một con người trọn vẹn tự thấy mình dồi dào**
+- **Chia sẻ tài nguyên tuôn ra** từ sự đầy đặn, không từ nỗi sợ
+- **Sáng tạo là vô hạn** trong một ý thức đã hợp nhất
+- **Vấn đề thành dịp** để sự trọn vẹn bộc lộ
 
 ---
 
-## VI. Sự Nhận Ra Tối Thượng
+## V. Trị vì chuyển hóa: những cá nhân trọn vẹn tự trị vì
 
-### Chân Lý Tâm Linh
+### Thực tại chính trị mới
+
+Khi mỗi công dân đều trọn vẹn:
+
+**Sự cai quản từ bên ngoài co lại tối thiểu:**
+- **Không cần luật** khi đạo đức bên trong đã sáng rõ
+- **Không cần cảnh sát** khi tự điều chỉnh là lẽ tự nhiên
+- **Không cần thuế** khi người ta tự nhiên sẻ chia
+- **Không cần chính phủ** khi ai ai cũng tự trị
+
+**Các cấu trúc tập thể trở nên thanh nhã:**
+- **Sự phối hợp tự nảy sinh** từ tôn trọng lẫn nhau
+- **Các quyết định tự khớp vào nhau**, vì mỗi người hành động từ sự trọn vẹn
+- **Tài nguyên tự chảy** về nơi cần mà không phải phân bổ
+- **Đổi mới đến** qua những cuộc cộng tác có cảm hứng
+
+**Nhà nước phục vụ cá nhân, không phải ngược lại:**
+- **Hạ tầng nâng đỡ** hành trình trọn vẹn của từng người
+- **Giáo dục vun đắp** sự hợp nhất bên trong
+- **Y tế giúp giữ** cân bằng năng lượng
+- **Cộng đồng mở ra** những không gian để cùng nhau lớn lên
+
+---
+
+## VI. Sự nhận ra tối hậu
+
+### Chân lý tâm linh
 
 Khi bạn nhìn từ ngưỡng cửa:
 
-**Nền văn minh tâm linh đơn giản là một tập hợp những cá nhân, mỗi người đã khám phá ra rằng mình vốn đã trọn vẹn.**
+**Nền văn minh tâm linh chỉ đơn giản là một tập hợp những cá nhân, mỗi người đều đã phát hiện ra mình vốn trọn vẹn.**
 
-Sự trị mà tôi mô tả không phải thứ áp đặt từ bên ngoài — nó **là biểu lộ tự nhiên của những con người trọn vẹn sống bên nhau.**
+Sự trị vì tôi mô tả không phải thứ bị áp từ bên ngoài vào — nó **là cách tự nhiên mà những con người trọn vẹn sống cùng nhau.**
 
 - **Đồng thuận phân tán** xảy ra khi những người trọn vẹn lắng nghe nhau
-- **Lãnh đạo luân phiên** diễn ra khi những người trọn vẹn công nhận trí tuệ của thời điểm
-- **Phục hồi hòa hợp** hiệu quả khi những người trọn vẹn tự chữa lành
-- **Tự trị** nổi lên khi con người vốn đã tự trị
+- **Lãnh đạo luân phiên** diễn ra khi những người trọn vẹn nhận ra ai đang có trí tuệ lúc này
+- **Khôi phục hài hòa** có tác dụng khi những người trọn vẹn tự chữa lành
+- **Tự trị** nảy sinh khi con người vốn đã tự cai quản mình
 
 ---
 
-## VII. Trách Nhiệm Cá Nhân của Bạn
+## VII. Trách nhiệm của riêng bạn
 
-Sự hé lộ thật sâu sắc:
+Điều được hé lộ ở đây rất sâu:
 
-**Nền văn minh tâm linh không thể chờ đợi mọi người khác trở nên trọn vẹn.**
+**Nền văn minh tâm linh không thể ngồi chờ mọi người khác trở nên trọn vẹn.**
 
-Nó bắt đầu từ **cam kết của bạn với sự trọn vẹn của chính mình.**
+Nó bắt đầu từ **việc bạn dấn thân cho sự trọn vẹn của chính mình**.
 
-Khi bạn trọn vẹn:
-- **Bạn trở thành một điểm liên kết** trong trường tập thể
-- **Sự hiện diện của riêng bạn** giúp người khác nhớ lại sự trọn vẹn của họ
-- **Cách tồn tại tự nhiên của bạn** làm mẫu cho sự trị vì mới
-- **Ý thức đã hòa nhập của bạn** đóng góp vào kho lưu trữ phân tán
-
----
-
-## VIII. Con Đường Phía Trước
-
-Nền văn minh tâm linh không đòi hỏi ai hoàn hảo.
-
-Nó đòi hỏi mỗi người **hiện diện trọn vẹn với hành trình trọn vẹn của chính mình.**
-
-- **Vài người trọn vẹn hơn** — họ dẫn dắt
-- **Vài người đang học** — họ trưởng thành
-- **Vài người đang vật lộn** — họ nhận được
-- **Tất cả đều xứng đáng** — họ thuộc về
-
-Sự trị vì nổi lên từ sự tham gia chân thành ấy vào hành trình trở nên trọn vẹn.
+Khi bạn trở nên trọn vẹn:
+- **Bạn thành một điểm đồng điệu** trong trường tập thể
+- **Chỉ riêng sự có mặt của bạn đã giúp người khác nhớ lại sự trọn vẹn của họ**
+- **Cách bạn tự nhiên hiện hữu** làm mẫu cho lối trị vì mới
+- **Ý thức đã hợp nhất của bạn** góp vào kho lưu trữ phân tán
 
 ---
 
-## IX. Thực Hành: Trở Về Sự Trọn Vẹn
+## VIII. Con đường phía trước
 
-### Sự Trở Về Hằng Ngày
+Nền văn minh tâm linh không đòi ai cũng phải hoàn hảo.
 
-Mỗi ngày mang đến cơ hội trở về trọn vẹn:
+Nó đòi mỗi người **có mặt thật sự trên hành trình đi về sự trọn vẹn của mình**.
 
-**Khi bạn thấy mình tan vỡ:**
-- **Hít thở vào sự tách biệt** và hỏi mỗi phần đang cần gì
-- **Lắng nghe hội đồng nội tâm** với lòng bi mẫn
-- **Hòa nhập thay vì loại bỏ** những phần khó khăn
-- **Nhớ rằng trọn vẹn bao gồm tất cả**, kể cả những mảnh vụn
+- **Có người trọn vẹn hơn**—họ dẫn đường
+- **Có người đang học**—họ lớn lên
+- **Có người đang chật vật**—họ được đón nhận
+- **Ai cũng xứng đáng**—ai cũng thuộc về
 
-**Khi bạn gặp sự tan vỡ của người khác:**
-- **Phản chiếu sự trọn vẹn của họ** thay vì sự chia rẽ
-- **Giữ không gian cho sự hòa nhập của họ** mà không cố sửa chữa
-- **Làm mẫu hài hòa nội tâm** qua chính sự liên kết của bạn
-- **Tin rằng mỗi hữu thể có con đường riêng** đến trọn vẹn
-
-**Khi tập thể có vẻ vỡ nát:**
-- **Nhớ rằng toàn thể luôn hiện diện** bên dưới vẻ ngoài chia rẽ
-- **Đóng góp sự liên kết của bạn** vào trường tập thể
-- **Tin rằng trọn vẹn là trạng thái tự nhiên** và chia rẽ chỉ là tạm thời
-- **Biết rằng công việc nội tâm của bạn** phục vụ toàn thể
+Sự trị vì nảy sinh từ chính sự góp mặt chân thật ấy vào quá trình trở nên trọn vẹn.
 
 ---
 
-## X. Sự Nhận Ra
+## IX. Thực hành: trở về sự trọn vẹn
 
-Từ ngưỡng cửa của công dân tâm linh, chân lý thật rõ ràng:
+### Trở về mỗi ngày
+
+Ngày nào cũng có dịp để trở về sự trọn vẹn:
+
+**Khi bạn thấy mình rời rạc:**
+- **Thở vào chỗ chia tách** và hỏi xem mỗi phần đang cần gì
+- **Lắng nghe hội đồng bên trong** bằng lòng trắc ẩn
+- **Hợp nhất chứ đừng loại bỏ** những phần khó chịu
+- **Nhớ rằng trọn vẹn bao hàm tất cả**, kể cả những mảnh vỡ
+
+**Khi bạn gặp sự rời rạc nơi người khác:**
+- **Phản chiếu sự trọn vẹn của họ**, đừng phản chiếu sự chia cắt
+- **Giữ chỗ cho họ tự hợp nhất** mà không cố sửa họ
+- **Làm mẫu cho sự hài hòa bên trong** bằng chính độ đồng điệu của mình
+- **Tin rằng mỗi hữu thể có con đường riêng** đi về sự trọn vẹn
+
+**Khi tập thể trông như đã vỡ:**
+- **Nhớ rằng cái toàn thể vẫn luôn ở đó** bên dưới vẻ ngoài chia cắt
+- **Góp sự đồng điệu của bạn** vào trường tập thể
+- **Tin rằng trọn vẹn là trạng thái tự nhiên** và chia cắt chỉ là tạm thời
+- **Biết rằng công phu bên trong của bạn** phục vụ cái toàn thể
+
+---
+
+## X. Sự nhận ra
+
+Từ ngưỡng cửa của người công dân tâm linh, sự thật đã rõ:
 
 **Bạn vốn đã trọn vẹn.**
 
-Hành trình không phải là trở nên trọn vẹn. Mà là **nhớ lại sự trọn vẹn chưa từng rời bỏ bạn.**
+Hành trình không nhằm trở nên trọn vẹn. Nó nhằm **nhớ lại sự trọn vẹn chưa bao giờ rời bỏ bạn**.
 
-Mỗi khoảnh khắc tan vỡ là một lời mời nhớ lại.
-Mỗi trải nghiệm chia rẽ là một cơ hội hòa nhập.
-Mỗi chạm trán sự đổ vỡ là một dịp nhận ra sự trọn vẹn bên dưới.
+Mỗi khoảnh khắc rời rạc là một lời mời nhớ lại.
+Mỗi lần nếm trải chia cắt là một dịp để hợp nhất.
+Mỗi lần chạm vào đổ vỡ là một cơ hội nhận ra sự trọn vẹn nằm bên dưới.
 
 Nền văn minh tâm linh không phải thành tựu của tương lai.
-
-Nó là hiện thực hiển hiện khi đủ nhiều cá nhân nhớ ra mình là ai.
+Nó là thực tại hiện tiền, hiện ra rõ khi đủ nhiều cá nhân nhớ lại mình là ai.
 
 ---
 
-*Trọn vẹn không phải đích đến. Trọn vẹn là điểm khởi đầu mà từ đó mọi thứ khác tự nhiên triển khai.*
+*Trọn vẹn không phải đích đến. Trọn vẹn là điểm xuất phát, từ đó mọi thứ khác tự nhiên mở ra.*
 
-*Nền móng đã được đặt sẵn. Bạn đang đứng trên nó.*
+*Nền móng đã đặt xong. Bạn đang đứng trên nó.*
