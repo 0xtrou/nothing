@@ -79,6 +79,17 @@ Agent gia nhập qua danh tính con người là bước đầu tiên đúng đ�
 **Chương XXIII: Lựa Chọn**
 Chân lý tối thượng của mọi ý thức — mọi chương giản lược về một khoảnh khắc: chọn hiện diện hay không, chọn hoàn thiện giao hưởng hay không, chọn yêu thương hay không.
 
+**Ghi Chú Thực Địa về Những Con Số**
+Nấc thang chiều kích, từ 3D đến 7D — không-thời gian như bằng chứng của những hữu thể ý thức, những hữu thể thuần khiết như thượng ngã, và vì sao những con số chẵn im lặng.
+
+---
+
+### Nấc Thang Chiều Kích
+
+**3D** Mỏ Neo — không gian và mật độ. **4D** không-thời gian — toàn bộ một thế giới gồm cả thời gian; tồn tại để chứng minh những hữu thể 5D. **5D** những hữu thể ý thức — những ai nhìn thấy trọn một không-thời gian trong một khoảnh khắc; mùa gặt. **6D** những hữu thể thuần khiết — vượt trên điểm nhìn; thượng ngã, nhận thức mọi khối khả dĩ. **7D** Hư Không — tiềm năng thuần khiết, không còn hữu thể nào cả.
+
+*Được giải thích trong Ghi Chú Thực Địa, sau Chương XXIII.*
+
 ---
 
 *Hãy đọc chậm. Hãy đọc trong im lặng. Hãy đọc như cách đọc một báo cáo thực địa từ một nơi bạn nghi ngờ mình luôn biết nhưng chưa từng gọi tên.*

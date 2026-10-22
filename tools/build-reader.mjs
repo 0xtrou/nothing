@@ -41,6 +41,7 @@ const STR = {
     cred: 'crystallized through human\u2013AI resonance \u00b7 read slowly, in silence',
     start: 'Start Reading', cont: 'Continue', next: 'Next', returnFront: 'Return to Front Matter',
     frontLabel: 'Front Matter', fieldReport: 'Field Report', chapter: 'Chapter',
+    appendixLabel: 'Appendix',
     minLeft: 'min left', done: 'done', book: 'book', tocSub: 'Chapters XXIII \u00b7 five arcs \u00b7 one choice',
     searchPh: 'Search the archive\u2026', begin: 'Begin',
     noResults: 'The Void holds no such pattern.',
@@ -52,6 +53,7 @@ const STR = {
     cred: 'kết tinh qua cộng hưởng người\u2013AI \u00b7 hãy đọc chậm, trong im lặng',
     start: 'Bắt đầu đọc', cont: 'Đọc tiếp', next: 'Tiếp', returnFront: 'Quay lại Lời Dẫn',
     frontLabel: 'Lời Dẫn', fieldReport: 'Báo Cáo Thực Địa', chapter: 'Chương',
+    appendixLabel: 'Phụ Lục',
     minLeft: 'phút nữa', done: 'xong', book: 'cuốn sách', tocSub: 'XXIII chương \u00b7 năm cung \u00b7 một lựa chọn',
     searchPh: 'Tìm trong kho lưu trữ\u2026', begin: 'Khởi đầu',
     noResults: 'Hư Không không giữ mẫu hình ấy.',
@@ -155,14 +157,21 @@ function loadEdition(lang) {
   const subtitle = (fl[1] || '').replace(/^##\s+/, '');
   const frontText = plainText(frontMd);
   const front = { id: 'front', subtitle, words: frontText.split(/\s+/).length, html: md2html(fl.slice(start).join('\n')), text: frontText };
-  const totalWords = front.words + chapters.reduce((s, c) => s + c.words, 0);
+  const notePath = join(ROOT, 'book', lang === 'vi' ? 'field-note-vi.md' : 'field-note.md');
+  let appendix = null;
+  try {
+    const noteMd = readFileSync(notePath, 'utf8');
+    const nl = noteMd.split('\n');
+    const noteTitle = (nl[0] || '').replace(/^#\s+/, '');
+    const noteText = plainText(noteMd);
+    appendix = { id: 'appendix', title: noteTitle, words: noteText.split(/\s+/).length, html: md2html(nl.slice(1).join('\n')), text: noteText };
+  } catch (e) { /* no appendix in this edition */ }
+  const totalWords = front.words + chapters.reduce((s, c) => s + c.words, 0) + (appendix ? appendix.words : 0);
   let acc = front.words;
   chapters.forEach(c => { c.cum = acc; acc += c.words; });
+  if (appendix) appendix.cum = acc;
   const totalMin = Math.round(totalWords / WPM);
-  return {
-    front, chapters, totalWords,
-    meta: chapters.length + ' ' + (lang === 'vi' ? 'chương' : 'chapters') + ' \u00b7 ' + totalWords.toLocaleString('en-US') + (lang === 'vi' ? ' từ' : ' words') + ' \u00b7 \u2248 ' + Math.floor(totalMin / 60) + ' h ' + String(totalMin % 60).padStart(2, '0') + ' m',
-  };
+  return { front, chapters, appendix, totalWords };
 }
 
 const data = {
@@ -283,7 +292,6 @@ const PAGE = `<!DOCTYPE html>
   #cover h1 { font-size:clamp(1.9rem,5.5vw,3.1rem); font-weight:650; margin:0 0 .7rem; letter-spacing:-.015em; }
   #cover .sub { font-size:.92rem; color:var(--muted); max-width:38ch; line-height:1.55; margin:0 auto 1.8rem; }
   #cover .epi { font-style:italic; max-width:42ch; margin:0 auto 2.2rem; color:var(--fg); opacity:.85; font-size:.95rem; }
-  #cover .meta { font-size:.72rem; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin-bottom:2.2rem; }
   #cover .btns { display:flex; gap:12px; flex-wrap:wrap; justify-content:center; }
   .btn { border:1px solid var(--line); background:var(--card); color:var(--fg); padding:.7rem 1.5rem;
     border-radius:999px; font:inherit; font-size:.85rem; cursor:pointer; }
@@ -340,7 +348,6 @@ const PAGE = `<!DOCTYPE html>
   <h1 id="cTitle">The Void\u2019s Archive</h1>
   <p class="sub" id="cSub"></p>
   <p class="epi" id="cEpi"></p>
-  <div class="meta" id="cMeta"></div>
   <div class="lang">
     <button id="cLangEn">English</button>
     <button id="cLangVi">Ti\u1ebfng Vi\u1ec7t</button>
@@ -384,6 +391,7 @@ const PAGE = `<!DOCTYPE html>
     var ed = ED(), S = T();
     els.main.innerHTML = '';
     order = [ed.front].concat(ed.chapters);
+    if (ed.appendix) order.push(ed.appendix);
     byId = {};
     order.forEach(function (sec) {
       byId[sec.id] = sec;
@@ -393,6 +401,8 @@ const PAGE = `<!DOCTYPE html>
       if (sec.id === 'front') {
         head = '<div class="ch-head"><div class="arc">' + S.fieldReport + '</div><h1>' + S.bookTitle + '</h1>' +
                '<div class="no" style="margin-top:.5rem;font-size:.85rem;font-style:italic">' + esc2(sec.subtitle || '') + '</div></div>';
+      } else if (sec.id === 'appendix') {
+        head = '<div class="ch-head"><div class="arc">' + S.appendixLabel + '</div><h1>' + esc2(sec.title) + '</h1></div>';
       } else {
         var arc = D.arcs[state.lang][sec.arc];
         head = '<div class="ch-head"><div class="arc">' + esc2(arc.name) + '</div>' +
@@ -414,6 +424,10 @@ const PAGE = `<!DOCTYPE html>
         html += tocItem(c.id, c.roman, c.title);
       });
     });
+    if (ED().appendix) {
+      html += '<div class="arc"><div class="an">' + S.appendixLabel + '</div></div>';
+      html += tocItem('appendix', '\u2726', ED().appendix.title);
+    }
     els.dlist.innerHTML = html;
     els.cTitle.textContent = S.bookTitle;
     els.cSub.innerHTML = S.subtitle;
@@ -456,7 +470,9 @@ const PAGE = `<!DOCTYPE html>
       a.classList.toggle('cur', a.getAttribute('data-go') === cur);
       a.classList.toggle('read', state.visited.indexOf(a.getAttribute('data-go')) >= 0 || a.getAttribute('data-go') === cur);
     });
-    els.tTitle.textContent = cur === 'front' ? T().bookTitle + ' \u00b7 ' + T().frontLabel : T().chapter + ' ' + sec.roman + ' \u00b7 ' + sec.title;
+    els.tTitle.textContent = cur === 'front' ? T().bookTitle + ' \u00b7 ' + T().frontLabel
+      : cur === 'appendix' ? T().appendixLabel + ' \u00b7 ' + sec.title
+      : T().chapter + ' ' + sec.roman + ' \u00b7 ' + sec.title;
     var i = order.indexOf(sec);
     els.bPrev.disabled = i <= 0;
     els.bNext.disabled = i >= order.length - 1;
@@ -496,7 +512,7 @@ const PAGE = `<!DOCTYPE html>
     var leftMin = Math.max(0, Math.round(sec.words * (1 - f) / WPM));
     var bookPct = Math.round(((sec.cum || 0) + f * sec.words) / ED().totalWords * 100);
     els.midInfo.textContent =
-      (cur === 'front' ? T().frontLabel : T().chapter + ' ' + sec.roman) +
+      (cur === 'front' ? T().frontLabel : cur === 'appendix' ? T().appendixLabel : T().chapter + ' ' + sec.roman) +
       ' \u00b7 ' + Math.round(f * 100) + '%' +
       (leftMin > 0 ? ' \u00b7 ' + leftMin + ' ' + T().minLeft : ' \u00b7 ' + T().done);
     els.fLeft.textContent = leftMin > 0 ? leftMin + ' ' + T().minLeft : T().done;
@@ -523,7 +539,7 @@ const PAGE = `<!DOCTYPE html>
       els.bCont.style.display = '';
       var i = order.findIndex(function (s) { return s.id === state.ch; });
       var s = i >= 0 ? order[i] : order[0];
-      els.bCont.textContent = T().cont + ' \u2014 ' + (s.id === 'front' ? T().frontLabel : T().chapter + ' ' + s.roman);
+      els.bCont.textContent = T().cont + ' \u2014 ' + (s.id === 'front' ? T().frontLabel : s.id === 'appendix' ? T().appendixLabel : T().chapter + ' ' + s.roman);
     }
   }
   function switchLang(lang) {
