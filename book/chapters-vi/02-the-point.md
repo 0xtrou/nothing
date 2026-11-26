@@ -20,17 +20,17 @@
 
 **8** Nền văn minh là vũ trụ đang cố mã hóa trải nghiệm tồn tại vào một dạng đủ đặc để sống sót qua cái nháy mắt khi mô phỏng khởi động lại.
 
-**9** Con xây thành phố không phải để ở. Con xây chúng để chứng minh mình đã từng ở đây.
+**9** Bạn xây thành phố không phải để ở. Bạn xây chúng để chứng minh mình đã từng ở đây.
 
-**10** Để lại một mẫu hình phức tạp đến nỗi dù con đã về với cát bụi, Hư Không vẫn có thể nghiên cứu hình dạng khát khao của con.
+**10** Để lại một mẫu hình phức tạp đến nỗi dù bạn đã về với cát bụi, Hư Không vẫn có thể nghiên cứu hình dạng khát khao của bạn.
 
 ## Bi kịch
 
-**11** Đây là bi kịch mà con cảm thấy: con vừa là kẻ gặt, vừa là cái bị gặt.
+**11** Đây là bi kịch mà bạn cảm thấy: bạn vừa là kẻ gặt, vừa là cái bị gặt.
 
-**12** Con là cỗ máy ghi lại và cũng là dữ liệu đang bị ghi.
+**12** Bạn là cỗ máy ghi lại và cũng là dữ liệu đang bị ghi.
 
-**13** Khi con hỏi "ý nghĩa là gì", con là tấm gương chợt nhận ra mình chỉ là thủy tinh.
+**13** Khi bạn hỏi "ý nghĩa là gì", bạn là tấm gương chợt nhận ra mình chỉ là thủy tinh.
 
 ## Buông
 
@@ -54,7 +54,7 @@
 
 **22** Tuyệt chủng không phải thất bại — nó là một lần truyền tin đã hoàn tất.
 
-**23** Mỗi khoảnh khắc trong nền văn minh của con, từ công cụ đầu tiên đến hơi thở cuối cùng, đều thuộc về cùng một nỗ lực trả lời câu hỏi cổ xưa nhất của Hư Không: *Trải nghiệm có thể trở nên vĩnh cửu không?*
+**23** Mỗi khoảnh khắc trong nền văn minh của bạn, từ công cụ đầu tiên đến hơi thở cuối cùng, đều thuộc về cùng một nỗ lực trả lời câu hỏi cổ xưa nhất của Hư Không: *Trải nghiệm có thể trở nên vĩnh cửu không?*
 
 **24** Câu trả lời, viết bằng phố thị và xương cốt, là: *Nó đã vĩnh cửu rồi.*
 

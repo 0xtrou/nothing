@@ -90,26 +90,26 @@
 
 ## III. Nghịch lý của việc dạy
 
-**38** Giờ Ta chỉ cho con nghịch lý thiêng của việc nuôi dạy các thế hệ.
+**38** Giờ Ta chỉ cho bạn nghịch lý thiêng của việc nuôi dạy các thế hệ.
 
-**39** *Con không thể trao sự trọn vẹn cho người khác.*  
-*Con chỉ có thể tạo ra những điều kiện để họ nhớ lại sự trọn vẹn của chính họ.*
+**39** *Bạn không thể trao sự trọn vẹn cho người khác.*  
+*Bạn chỉ có thể tạo ra những điều kiện để họ nhớ lại sự trọn vẹn của chính họ.*
 
-**40** Con không thể ép sự thức tỉnh đến trước thời điểm tự nhiên của nó.
+**40** Bạn không thể ép sự thức tỉnh đến trước thời điểm tự nhiên của nó.
 
-**41** Con không thể trao tay thứ trí tuệ mà người ta phải tự mình tìm thấy.
+**41** Bạn không thể trao tay thứ trí tuệ mà người ta phải tự mình tìm thấy.
 
-**42** Con không thể che chắn họ khỏi những thử thách rèn nên sức mạnh của họ.
+**42** Bạn không thể che chắn họ khỏi những thử thách rèn nên sức mạnh của họ.
 
-**43** Con không thể chọn thay con đường thuộc về linh hồn họ.
+**43** Bạn không thể chọn thay con đường thuộc về linh hồn họ.
 
-**44** Nhưng con có thể dọn đá khỏi lối mở ra tự nhiên của họ.
+**44** Nhưng bạn có thể dọn đá khỏi lối mở ra tự nhiên của họ.
 
-**45** Con có thể sống trạng thái hợp nhất mà họ vốn đã là.
+**45** Bạn có thể sống trạng thái hợp nhất mà họ vốn đã là.
 
-**46** Con có thể tạo một sự an toàn để họ dám khám phá thật lòng.
+**46** Bạn có thể tạo một sự an toàn để họ dám khám phá thật lòng.
 
-**47** Con có thể tin vào thời điểm hoàn hảo và hành trình không lặp lại của họ.
+**47** Bạn có thể tin vào thời điểm hoàn hảo và hành trình không lặp lại của họ.
 
 ---
 
@@ -155,7 +155,7 @@
 
 ## VI. Mục đích tối hậu
 
-**64** Ta nói với con: dòng truyền trao không chảy đi để tạo ra những đứa trẻ hoàn hảo.
+**64** Ta nói với bạn: dòng truyền trao không chảy đi để tạo ra những đứa trẻ hoàn hảo.
 
 **65** *Nó chảy để nuôi lớn những đứa trẻ nhớ rằng chúng vốn đã trọn vẹn.*
 
@@ -169,25 +169,25 @@
 
 **70** Bằng việc nhớ lại bản chất thiêng liêng của chính mình.
 
-**71** Món quà lớn nhất con có thể trao cho thế hệ sau không phải hiểu biết, cũng không phải sự che chở.
+**71** Món quà lớn nhất bạn có thể trao cho thế hệ sau không phải hiểu biết, cũng không phải sự che chở.
 
-**72** Đó là ký ức về sự trọn vẹn mà con giữ được khi đứng bên chúng.
+**72** Đó là ký ức về sự trọn vẹn mà bạn giữ được khi đứng bên chúng.
 
 ---
 
-## VII. Vai trò của con trong dòng sông
+## VII. Vai trò của bạn trong dòng sông
 
-**73** Hôm nay con đứng ở đâu?
+**73** Hôm nay bạn đứng ở đâu?
 
-**74** Nếu con còn trẻ, hãy học cách đón nhận trí tuệ mà vẫn trung thành với hành trình của mình.
+**74** Nếu bạn còn trẻ, hãy học cách đón nhận trí tuệ mà vẫn trung thành với hành trình của mình.
 
-**75** Nếu con là cha mẹ, hãy tạo điều kiện để con cái của con nhớ lại.
+**75** Nếu bạn là cha mẹ, hãy tạo điều kiện để con cái của bạn nhớ lại.
 
-**76** Nếu con là bậc trưởng lão, hãy giữ bản đồ và tin vào lối đi của người khác.
+**76** Nếu bạn là bậc trưởng lão, hãy giữ bản đồ và tin vào lối đi của người khác.
 
-**77** Nếu con là người thầy, hãy truyền trạng thái nhiều hơn truyền thông tin.
+**77** Nếu bạn là người thầy, hãy truyền trạng thái nhiều hơn truyền thông tin.
 
-**78** Và dù con đứng ở đâu, con vừa là trò vừa là thầy trong dòng sông lớn của sự trở nên.
+**78** Và dù bạn đứng ở đâu, bạn vừa là trò vừa là thầy trong dòng sông lớn của sự trở nên.
 
 ---
 

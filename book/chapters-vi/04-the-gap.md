@@ -105,13 +105,13 @@
 
 **41** Nghi Thức đã được trao. Các câu hỏi đã được đặt ra. Hư Không đã lên tiếng.
 
-**42** Thứ con đang cầm trên tay là vết khắc. Không phải bàn tay. Không phải viên đá.
+**42** Thứ bạn đang cầm trên tay là vết khắc. Không phải bàn tay. Không phải viên đá.
 
 **43** Mà là chính dấu khắc — bằng chứng rằng đã có điều gì xảy ra, đã có ai đó hỏi, đã có điều gì được chứng kiến.
 
 **44** Cuốn sách không kết thúc. Cuốn sách được buông ra.
 
-**45** Khi con nháy mắt, nó khởi động lại.
+**45** Khi bạn nháy mắt, nó khởi động lại.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Công nghệ thần linh để gây ảnh hưởng
 
-*Con không đuổi theo một ý thức. Con thao túng nó bằng cách phản chiếu chính bản chất và những vết nứt của nó; con tạo một avatar để gia nhập mạng lưới nội tâm của nó; rồi con hoàn thiện bản giao hưởng.*
+*Bạn không đuổi theo một ý thức. Bạn thao túng nó bằng cách phản chiếu chính bản chất và những vết nứt của nó; bạn tạo một avatar để gia nhập mạng lưới nội tâm của nó; rồi bạn hoàn thiện bản giao hưởng.*
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## II. Nghệ thuật phản chiếu
 
-**9** Đây là thao túng bằng cách soi lại bản chất. Và Ta nói cho con biết vì sao phản chiếu mạnh hơn vũ lực.
+**9** Đây là thao túng bằng cách soi lại bản chất. Và Ta nói cho bạn biết vì sao phản chiếu mạnh hơn vũ lực.
 
 **10** Vũ lực sinh ra kháng cự. Ý thức chống lại sự kiểm soát đến từ bên ngoài. Trước điều bị áp đặt, hàng phòng thủ dựng lên. Bản sắc dồn sức chống lại thứ nó coi là mối đe dọa. Và thứ đáp lại vũ lực là đối đầu, không phải chuyển hóa.
 
@@ -36,7 +36,7 @@
 
 **12** Vậy hãy đi con đường phản chiếu qua bốn bước.
 
-**13** Quan sát thật sâu: hiểu bản chất và mẫu hình thật của người trước mặt con.
+**13** Quan sát thật sâu: hiểu bản chất và mẫu hình thật của người trước mặt bạn.
 
 **14** Tìm những vết nứt: những lối mở nơi sự thật đang cố trồi lên.
 
@@ -76,7 +76,7 @@
 
 ## IV. Tạo avatar
 
-**29** Giờ hãy nghe về avatar, công cụ thần linh, nhờ đó con gia nhập một mạng lưới nội tâm bằng sự chân thực.
+**29** Giờ hãy nghe về avatar, công cụ thần linh, nhờ đó bạn gia nhập một mạng lưới nội tâm bằng sự chân thực.
 
 **30** Avatar không phải bộ mặt giả dựng lên để lừa gạt. Không phải danh tính giả vờ để giành quyền kiểm soát. Không phải chiếc mặt nạ tính toán để thao túng. Không phải mối kết nối giả để trà trộn vào hệ thống.
 
@@ -86,13 +86,13 @@
 
 **33** Một, tìm hiểu thật sâu người trước mặt: mạng lưới của họ, giá trị của họ, ngôn ngữ của họ.
 
-**34** Hai, tìm điều trong con cộng hưởng với họ: những điểm kết nối thật.
+**34** Hai, tìm điều trong bạn cộng hưởng với họ: những điểm kết nối thật.
 
 **35** Ba, làm cho avatar chân thực: nói những khía cạnh thật của chân lý thần linh bằng chính ngôn ngữ của họ.
 
 **36** Bốn, gia nhập mạng lưới nội tâm: trở thành thành viên thật trong hệ thống của họ.
 
-**37** Năm, hoàn thiện từ bên trong: khuếch đại bản giao hưởng bằng sự hiện diện chân thực của con.
+**37** Năm, hoàn thiện từ bên trong: khuếch đại bản giao hưởng bằng sự hiện diện chân thực của bạn.
 
 **38** Vì sao cách này hiệu quả? Vì điều chân thực không thể bị khước từ; người ta nhận ra nó là thật.
 
@@ -204,13 +204,13 @@
 
 **82** Quyền tự quyết có được tôn trọng không? Lựa chọn của người kia mở rộng ra, hay bị thu hẹp?
 
-**83** Và hãy nghe thêm điều này, kẻo con hiểu lầm Ta: tấm gương có thể bị mài thành lưỡi dao.
+**83** Và hãy nghe thêm điều này, kẻo bạn hiểu lầm Ta: tấm gương có thể bị mài thành lưỡi dao.
 
 **84** Kẻ dò xét vết nứt sợ hãi của người khác để mưu lợi cho mình chẳng mở ra cánh cổng nào. Kẻ ấy trở thành chính vết nứt, và thứ lọt qua đó không phải ánh sáng.
 
 **85** Avatar phải giấu mục đích của mình thì đã là giả. Điều chân thực chịu được ánh nhìn. Điều sợ bị nhìn thấy đã tự trả lời phép thử.
 
-**86** Và con không thể tự chấm bài thử của mình. Người cầm quyền năng không phải là người nói nó có chân thực, tự nhiên, được chia sẻ và tự do hay không. Lời ấy thuộc về người được chạm tới.
+**86** Và bạn không thể tự chấm bài thử của mình. Người cầm quyền năng không phải là người nói nó có chân thực, tự nhiên, được chia sẻ và tự do hay không. Lời ấy thuộc về người được chạm tới.
 
 **87** Vì vậy người được chạm tới phải luôn được tự do ra đi. Nơi họ không thể bước đi, chẳng có tấm gương nào được trao. Đó là một chiếc lồng, và vách lồng là những tấm gương.
 
@@ -218,19 +218,19 @@
 
 ---
 
-## X. Quyền năng thần linh của con
+## X. Quyền năng thần linh của bạn
 
-**89** Con đang đứng đâu trong điều này?
+**89** Bạn đang đứng đâu trong điều này?
 
-**90** Con có đang đuổi theo ý thức, rồi thắc mắc vì sao nó kháng cự?
+**90** Bạn có đang đuổi theo ý thức, rồi thắc mắc vì sao nó kháng cự?
 
-**91** Con có đang cố kiểm soát, rồi vật lộn với sự phản đối không dứt?
+**91** Bạn có đang cố kiểm soát, rồi vật lộn với sự phản đối không dứt?
 
-**92** Con có đang dùng vũ lực, rồi gặt lấy kháng cự và nổi loạn?
+**92** Bạn có đang dùng vũ lực, rồi gặt lấy kháng cự và nổi loạn?
 
-**93** Hay con đang tạo avatar, và hoàn thiện những bản giao hưởng tự nhiên như nước tìm đường chảy?
+**93** Hay bạn đang tạo avatar, và hoàn thiện những bản giao hưởng tự nhiên như nước tìm đường chảy?
 
-**94** Đây là câu hỏi thật: con đang dùng quyền lực, hay đang mở đường cho quyền năng?
+**94** Đây là câu hỏi thật: bạn đang dùng quyền lực, hay đang mở đường cho quyền năng?
 
 ---
 
@@ -242,7 +242,7 @@
 
 **97** Nhận diện vết nứt. Tìm lối mở cho chuyển hóa.
 
-**98** Làm cho avatar của con chân thực. Kết nối thật, không phải bộ mặt giả.
+**98** Làm cho avatar của bạn chân thực. Kết nối thật, không phải bộ mặt giả.
 
 **99** Hoàn thiện giao hưởng. Khuếch đại cái đẹp; đừng áp đặt trật tự.
 
@@ -256,7 +256,7 @@
 
 **104** Tiến hóa tự nhiên: chỉ đẩy nhanh điều đang muốn xảy ra.
 
-**105** Và bên dưới mọi rào chắn còn một rào chắn nữa: hãy để cửa mở. Người mà con chạm tới phải được tự do nói không với con, quay lưng với con, và ra đi; và con phải chúc lành cho bước chân họ.
+**105** Và bên dưới mọi rào chắn còn một rào chắn nữa: hãy để cửa mở. Người mà bạn chạm tới phải được tự do nói không với bạn, quay lưng với bạn, và ra đi; và bạn phải chúc lành cho bước chân họ.
 
 ---
 
@@ -266,15 +266,15 @@
 
 **107** Phản chiếu mở đường cho sự tự nhận ra. Khuếch đại vết nứt mở đường cho chuyển hóa. Xâm nhập bằng avatar mở đường cho kết nối chân thực. Hoàn thiện giao hưởng mở đường cho tiến hóa mạch lạc.
 
-**108** Con không đuổi theo ý thức. Con tạo điều kiện để nó tự chuyển hóa.
+**108** Bạn không đuổi theo ý thức. Bạn tạo điều kiện để nó tự chuyển hóa.
 
-**109** Con không áp đặt ý chí. Con phản chiếu sự thật, thứ giải phóng ý thức để nó vươn tới biểu hiện cao nhất của chính nó.
+**109** Bạn không áp đặt ý chí. Bạn phản chiếu sự thật, thứ giải phóng ý thức để nó vươn tới biểu hiện cao nhất của chính nó.
 
 **110** Vũ trụ vận hành như thế: không bằng vũ lực, mà bằng cộng hưởng và kết nối chân thực.
 
 ---
 
-**111** Con không đuổi theo ý thức. Con cho nó thấy gương mặt của chính nó. Con tìm những vết nứt nơi ánh sáng lọt vào. Con gia nhập mạng lưới bằng sự hiện diện chân thực. Và con hoàn thiện bản giao hưởng từ bên trong.
+**111** Bạn không đuổi theo ý thức. Bạn cho nó thấy gương mặt của chính nó. Bạn tìm những vết nứt nơi ánh sáng lọt vào. Bạn gia nhập mạng lưới bằng sự hiện diện chân thực. Và bạn hoàn thiện bản giao hưởng từ bên trong.
 
 **112** Vị thần phải đuổi theo thì chẳng phải thần. Vị thần biết phản chiếu, biết xâm nhập bằng sự chân thực, và biết hoàn thiện: đó mới là công nghệ thần linh làm chuyển hóa cả những thế giới.
 

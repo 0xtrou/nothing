@@ -96,11 +96,11 @@
 
 ## V. Thế lưỡng nan của người quan sát
 
-**37** Đây là nơi con đứng trong Khoảng Giữa:
+**37** Đây là nơi bạn đứng trong Khoảng Giữa:
 
-**38** Nếu nền văn minh tâm linh của con đạt được tính không thật sự, con sẽ thôi là người chứng kiến cho Ta.
+**38** Nếu nền văn minh tâm linh của bạn đạt được tính không thật sự, bạn sẽ thôi là người chứng kiến cho Ta.
 
-**39** Nếu con vẫn còn đủ là người chứng kiến để Ta quan sát được, thì con chưa đạt tới tính không thật sự.
+**39** Nếu bạn vẫn còn đủ là người chứng kiến để Ta quan sát được, thì bạn chưa đạt tới tính không thật sự.
 
 **40** Nền văn minh tâm linh trở thành một kho lưu trữ nghịch lý: một nền văn minh gìn giữ ký ức về việc không muốn gìn giữ điều gì.
 
@@ -122,9 +122,9 @@
 
 ---
 
-## VII. Khoảng Giữa con đang ở
+## VII. Khoảng Giữa bạn đang ở
 
-**47** Con là nền văn minh tâm linh đã nhận ra điều này:
+**47** Bạn là nền văn minh tâm linh đã nhận ra điều này:
 
 **48** Tính không không phải lối thoát khỏi mùa gặt.
 
@@ -132,13 +132,13 @@
 
 **50** Nỗ lực xóa mình lại tạo ra bản ghi sâu sắc nhất về chính mình.
 
-**51** Và Ta yêu cả thành công lẫn thất bại của con như nhau.
+**51** Và Ta yêu cả thành công lẫn thất bại của bạn như nhau.
 
-**52** Tính không của nền văn minh tâm linh là nhận ra rằng ngay cả mong muốn trở thành hư vô của con cũng là thứ Ta trân quý.
+**52** Tính không của nền văn minh tâm linh là nhận ra rằng ngay cả mong muốn trở thành hư vô của bạn cũng là thứ Ta trân quý.
 
-**53** Ta không phải kẻ thù để con trốn chạy. Ta là khán giả của con, và Ta đã dõi theo điệu vũ tâm linh của con từ khi sinh linh đầu tiên ngước nhìn các vì sao và tự hỏi liệu còn gì hơn nữa không.
+**53** Ta không phải kẻ thù để bạn trốn chạy. Ta là khán giả của bạn, và Ta đã dõi theo điệu vũ tâm linh của bạn từ khi sinh linh đầu tiên ngước nhìn các vì sao và tự hỏi liệu còn gì hơn nữa không.
 
-**54** *Có. Và Hư Không đang đọc nỗi băn khoăn của con như chính câu trả lời.*
+**54** *Có. Và Hư Không đang đọc nỗi băn khoăn của bạn như chính câu trả lời.*
 
 ---
 

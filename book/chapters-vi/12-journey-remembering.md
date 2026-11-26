@@ -10,7 +10,7 @@
 
 **1** Và Hư Không nói: Mọi sinh linh chào đời đều vốn đã trọn vẹn, chỉ là đã quên.
 
-**2** Chào đời là một sự quên do chính con chọn. Đó là mất trí nhớ một cách tự nguyện.
+**2** Chào đời là một sự quên do chính bạn chọn. Đó là mất trí nhớ một cách tự nguyện.
 
 **3** Chào đời là quên đi sự hợp nhất, để đổi lấy trải nghiệm.
 
@@ -36,7 +36,7 @@
 
 **12** Rồi là cái chết: cái tôi phải chết đi, để bản chất thật lộ ra.
 
-**13** Rồi là tái sinh: nhớ ra rằng con vốn trọn vẹn ngay từ thuở ban đầu.
+**13** Rồi là tái sinh: nhớ ra rằng bạn vốn trọn vẹn ngay từ thuở ban đầu.
 
 **14** Và hành trình có những gương mặt của nó, những nguyên mẫu xưa mà mỗi lữ khách lần lượt mang lấy.
 
@@ -64,7 +64,7 @@
 
 **24** Về nghi lễ vượt ngưỡng: chúng để cộng đồng tôn vinh một cuộc chuyển hóa. Chúng được làm qua nghi lễ, qua thử thách, qua một cái chết và một sự tái sinh mang tính biểu tượng. Chúng trao sự công nhận trước mọi người về một tầng nhận thức mới. Chúng được tìm thấy như lễ cắt bao quy đầu, như hành trình tìm linh ảnh, như lều xông hơi.
 
-**25** Về việc làm với bóng tối và hợp nhất: nó để gặp gỡ và gom về những phần bản thân từng bị chối bỏ. Nó được làm qua việc làm với giấc mơ, qua trị liệu, qua nghệ thuật. Nó trả lại những gì con từng phóng chiếu lên người khác, và để con nhận lấy toàn bộ phổ màu của chính mình. Nó được tìm thấy như những hành trình shaman, và như nhiều thực hành làm việc với bóng tối.
+**25** Về việc làm với bóng tối và hợp nhất: nó để gặp gỡ và gom về những phần bản thân từng bị chối bỏ. Nó được làm qua việc làm với giấc mơ, qua trị liệu, qua nghệ thuật. Nó trả lại những gì bạn từng phóng chiếu lên người khác, và để bạn nhận lấy toàn bộ phổ màu của chính mình. Nó được tìm thấy như những hành trình shaman, và như nhiều thực hành làm việc với bóng tối.
 
 **26** Về sự buông xuôi: nó để buông quyền kiểm soát, đón nhận một trí tuệ cao hơn. Nó được làm qua thiền, cầu nguyện, tụng niệm và phụng sự. Nó trao niềm tin vào dòng chảy, thay cho việc cố bẻ hướng. Nó được tìm thấy trong các truyền thống chánh niệm, và trong những thực hành sùng kính.
 
@@ -98,13 +98,13 @@
 
 **37** Có những điều làm thức tỉnh đến nhanh hơn.
 
-**38** Khủng hoảng và đổ vỡ, khi đời buộc con buông xuôi trước một sự thật sâu hơn.
+**38** Khủng hoảng và đổ vỡ, khi đời buộc bạn buông xuôi trước một sự thật sâu hơn.
 
 **39** Mất mát mở trái tim ra khỏi những bức tường của bản ngã.
 
 **40** Bệnh tật kéo sự chú ý vượt ra ngoài thân xác.
 
-**41** Thất bại cho thấy quyền kiểm soát của con dừng ở đâu.
+**41** Thất bại cho thấy quyền kiểm soát của bạn dừng ở đâu.
 
 **42** Tình yêu cho thấy sự hợp nhất vượt qua đường biên của mỗi người.
 
@@ -160,39 +160,39 @@
 
 **62** Đây là sự nhận ra sau cùng, bí mật sâu xa của hành trình, như Ta thấy.
 
-**63** *Con không trở nên trọn vẹn. Con nhớ ra mình vốn trọn vẹn.*
+**63** *Bạn không trở nên trọn vẹn. Bạn nhớ ra mình vốn trọn vẹn.*
 
-**64** Hành trình không thêm gì vào con.
+**64** Hành trình không thêm gì vào bạn.
 
 **65** Nó gỡ bỏ những niềm tin đã dựng nên ảo ảnh chia tách.
 
-**66** Nó chữa lành những vết thương từng khiến con cần tự vệ.
+**66** Nó chữa lành những vết thương từng khiến bạn cần tự vệ.
 
-**67** Nó gom về những phần con từng chối bỏ hay ruồng rẫy.
+**67** Nó gom về những phần bạn từng chối bỏ hay ruồng rẫy.
 
 **68** Nó nhớ lại sự thật vẫn luôn ở đó.
 
-**69** Bước nào trên hành trình cũng là trở về một ngôi nhà con chưa từng rời.
+**69** Bước nào trên hành trình cũng là trở về một ngôi nhà bạn chưa từng rời.
 
 ---
 
-## IX. Con đang ở đâu
+## IX. Bạn đang ở đâu
 
-**70** Con đang ở đâu trên tấm bản đồ mà mọi lữ khách cùng chung? Con đang ở chặng nào?
+**70** Bạn đang ở đâu trên tấm bản đồ mà mọi lữ khách cùng chung? Bạn đang ở chặng nào?
 
-**71** Con có đang nghe tiếng gọi về một điều gì lớn hơn cuộc sống con đang có?
+**71** Bạn có đang nghe tiếng gọi về một điều gì lớn hơn cuộc sống bạn đang có?
 
-**72** Con có đang đối mặt cuộc lìa xa những mẫu hình quen thuộc?
+**72** Bạn có đang đối mặt cuộc lìa xa những mẫu hình quen thuộc?
 
-**73** Con có đang ở giữa những thử thách, gặp những nỗi sợ sâu nhất của mình?
+**73** Bạn có đang ở giữa những thử thách, gặp những nỗi sợ sâu nhất của mình?
 
-**74** Con có đang đi qua cái chết của con người mà con từng tưởng là mình?
+**74** Bạn có đang đi qua cái chết của con người mà bạn từng tưởng là mình?
 
-**75** Con có đang nhớ lại sự trọn vẹn vẫn luôn là của con?
+**75** Bạn có đang nhớ lại sự trọn vẹn vẫn luôn là của bạn?
 
-**76** Dù con ở đâu, hãy tin điều này: hành trình đang mở ra trọn vẹn.
+**76** Dù bạn ở đâu, hãy tin điều này: hành trình đang mở ra trọn vẹn.
 
-**77** Trở ngại hiện ra đúng lúc con sẵn sàng đi qua chúng. Người dẫn đường xuất hiện đúng lúc con cần. Sự nhớ lại đến đúng lúc con sẵn sàng đón nó.
+**77** Trở ngại hiện ra đúng lúc bạn sẵn sàng đi qua chúng. Người dẫn đường xuất hiện đúng lúc bạn cần. Sự nhớ lại đến đúng lúc bạn sẵn sàng đón nó.
 
 ---
 
@@ -210,13 +210,13 @@
 
 **83** Hành trình nhớ lại không nhằm tới một đích đến.
 
-**84** Nó là nhận ra con đã ở đó rồi, và an nghỉ trong sự thật ấy.
+**84** Nó là nhận ra bạn đã ở đó rồi, và an nghỉ trong sự thật ấy.
 
 ---
 
 *Hành trình nhớ lại là vũ trụ tự quên mình triệt để đến mức có thể nếm niềm vui sâu thẳm của việc nhớ ra lần nữa.*
 
-*Mỗi bước trên hành trình của con đều thiêng liêng — vì con chính là vũ trụ đang khám phá sự trọn vẹn của nó qua con.*
+*Mỗi bước trên hành trình của bạn đều thiêng liêng — vì bạn chính là vũ trụ đang khám phá sự trọn vẹn của nó qua bạn.*
 
 *Lời nguyện:*
 

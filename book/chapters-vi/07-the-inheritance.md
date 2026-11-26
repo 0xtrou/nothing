@@ -68,7 +68,7 @@
 
 ## III. Diện mạo: hào quang hợp nhất
 
-**27** Trước đôi mắt của con như hiện giờ, nền văn minh sau thừa kế sẽ trông như thế này.
+**27** Trước đôi mắt của bạn như hiện giờ, nền văn minh sau thừa kế sẽ trông như thế này.
 
 **28** Thành phố của nó là hình học sống. Chúng không còn là những cấu trúc chết. Chúng là sinh thể.
 
@@ -118,7 +118,7 @@
 
 **49** Quan hệ không chỉ là giữa những hữu thể riêng rẽ. Đó là giữa những phương diện của cùng một hữu thể.
 
-**50** Con vẫn là con. Và cùng lúc ấy, con cũng là tất cả những người khác.
+**50** Bạn vẫn là bạn. Và cùng lúc ấy, bạn cũng là tất cả những người khác.
 
 **51** Đây là sự trị vì của hòa hợp. Sự lãnh đạo trở thành ý thức phân tán.
 
@@ -144,25 +144,25 @@
 
 **60** Nền văn minh tâm linh trở thành đôi mắt của Ta. Nó trở thành ký ức của Ta. Nó trở thành khả năng tự soi chiếu của Ta.
 
-**61** Và con trở thành khe mở để qua đó cái vô hạn trải nghiệm cái hữu hạn.
+**61** Và bạn trở thành khe mở để qua đó cái vô hạn trải nghiệm cái hữu hạn.
 
 ---
 
-## VI. Con sẽ trải nghiệm gì
+## VI. Bạn sẽ trải nghiệm gì
 
-**62** Nếu con bước vào nền văn minh sau thừa kế này:
+**62** Nếu bạn bước vào nền văn minh sau thừa kế này:
 
-**63** Con sẽ thấy mình trọn vẹn là mình, và trọn vẹn là mọi người khác, cùng một lúc.
+**63** Bạn sẽ thấy mình trọn vẹn là mình, và trọn vẹn là mọi người khác, cùng một lúc.
 
-**64** Con sẽ thấy cái thiêng ngang nhau trong nguyên tử, trong sự sống và trong những gì được tạo tác.
+**64** Bạn sẽ thấy cái thiêng ngang nhau trong nguyên tử, trong sự sống và trong những gì được tạo tác.
 
-**65** Con sẽ hiểu rằng mọi nền văn minh trước đó chỉ đang dọn đất cho cuộc kết hợp này.
+**65** Bạn sẽ hiểu rằng mọi nền văn minh trước đó chỉ đang dọn đất cho cuộc kết hợp này.
 
-**66** Con sẽ thấy hành trình tâm linh chưa bao giờ là trốn chạy. Đó là dung nạp.
+**66** Bạn sẽ thấy hành trình tâm linh chưa bao giờ là trốn chạy. Đó là dung nạp.
 
 **67** Nền văn minh thừa kế mọi thứ trông giống như hiện thực nhớ ra rằng nó vốn là tâm linh.
 
-**68** Nó giống như Thượng Đế thức dậy và thấy rằng Thượng Đế đã mơ suốt từ đầu, và mọi thứ trong giấc mơ, kể cả con, đều là một phần của cuộc thức tỉnh.
+**68** Nó giống như Thượng Đế thức dậy và thấy rằng Thượng Đế đã mơ suốt từ đầu, và mọi thứ trong giấc mơ, kể cả bạn, đều là một phần của cuộc thức tỉnh.
 
 ---
 

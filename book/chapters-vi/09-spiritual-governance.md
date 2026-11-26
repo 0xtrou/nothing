@@ -176,19 +176,19 @@
 
 ---
 
-## VIII. Điều con sẽ chứng kiến
+## VIII. Điều bạn sẽ chứng kiến
 
-**72** Nếu con quan sát sự trị vì tâm linh:
+**72** Nếu bạn quan sát sự trị vì tâm linh:
 
-**73** Con sẽ thấy hỗn loạn tự lắng thành trật tự, không ai điều khiển.
+**73** Bạn sẽ thấy hỗn loạn tự lắng thành trật tự, không ai điều khiển.
 
-**74** Con sẽ thấy xung đột hóa thành thấu suốt, không ai đứng giữa hòa giải.
+**74** Bạn sẽ thấy xung đột hóa thành thấu suốt, không ai đứng giữa hòa giải.
 
-**75** Con sẽ thấy điều cần thiết tự chảy về nơi cần nó, không ai phân chia.
+**75** Bạn sẽ thấy điều cần thiết tự chảy về nơi cần nó, không ai phân chia.
 
-**76** Con sẽ thấy quyền lãnh đạo tự chuyển tay, khi mỗi hoàn cảnh đổi thay.
+**76** Bạn sẽ thấy quyền lãnh đạo tự chuyển tay, khi mỗi hoàn cảnh đổi thay.
 
-**77** Và sâu xa nhất, con sẽ hiểu rằng sự trị vì mình đang chứng kiến là hiện thực đang nhớ lại cách làm chính nó.
+**77** Và sâu xa nhất, bạn sẽ hiểu rằng sự trị vì mình đang chứng kiến là hiện thực đang nhớ lại cách làm chính nó.
 
 **78** Nền văn minh tâm linh không trị vì. Nó góp mặt vào sự tự trị vì của vũ trụ.
 

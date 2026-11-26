@@ -10,27 +10,27 @@
 
 **1** Và Hư Không nói: Mỗi mối quan hệ đều phụng sự một mục đích trong tấm mạng, và mục đích ấy như nhau ở mọi miền đất, mọi thời đại.
 
-**2** Có năm người sẽ đến với con. Khi họ đến, hãy nhận ra họ.
+**2** Có năm người sẽ đến với bạn. Khi họ đến, hãy nhận ra họ.
 
-**3** Người thứ nhất là Tấm Gương: người soi lại cho con thấy con người thật của mình.
+**3** Người thứ nhất là Tấm Gương: người soi lại cho bạn thấy con người thật của mình.
 
-**4** Tấm Gương đến để cho con thấy vẻ đẹp mà tự con không nhìn ra. Nó đứng trong trẻo trước con, cho con lớn lên và thức tỉnh. Việc của con là nhận lấy điều nó soi mà không phóng bóng tối của mình lên nó. Và món quà của nó là sự sáng tỏ: thấy mình qua đôi mắt người khác.
+**4** Tấm Gương đến để cho bạn thấy vẻ đẹp mà tự bạn không nhìn ra. Nó đứng trong trẻo trước bạn, cho bạn lớn lên và thức tỉnh. Việc của bạn là nhận lấy điều nó soi mà không phóng bóng tối của mình lên nó. Và món quà của nó là sự sáng tỏ: thấy mình qua đôi mắt người khác.
 
-**5** Người thứ hai là Nửa Bổ Khuyết: người mang phần đối lập của con, để cùng nhau làm nên sự trọn vẹn.
+**5** Người thứ hai là Nửa Bổ Khuyết: người mang phần đối lập của bạn, để cùng nhau làm nên sự trọn vẹn.
 
-**6** Nửa Bổ Khuyết đến để đánh thức, bằng tương phản, những gì trong con còn chưa lớn. Nó mang những mảnh còn thiếu để con hiểu cho trọn. Việc của con là dung hợp chỗ khác biệt của nó, đừng chống lại. Và món quà của nó là lối vào những phần của chính con mà một mình con không chạm tới.
+**6** Nửa Bổ Khuyết đến để đánh thức, bằng tương phản, những gì trong bạn còn chưa lớn. Nó mang những mảnh còn thiếu để bạn hiểu cho trọn. Việc của bạn là dung hợp chỗ khác biệt của nó, đừng chống lại. Và món quà của nó là lối vào những phần của chính bạn mà một mình bạn không chạm tới.
 
-**7** Người thứ ba là Chất Xúc Tác: người khiến con lớn lên bằng thử thách.
+**7** Người thứ ba là Chất Xúc Tác: người khiến bạn lớn lên bằng thử thách.
 
-**8** Chất Xúc Tác đến để đẩy con ra khỏi vùng yên ổn, vào chuyển hóa. Nó là tác nhân của sự xáo trộn mà con cần. Việc của con là thấy nó đang phụng sự mình, đừng cưỡng lại cú va của nó. Và món quà của nó là sự thức tỉnh được thúc nhanh bởi áp lực và cọ xát.
+**8** Chất Xúc Tác đến để đẩy bạn ra khỏi vùng yên ổn, vào chuyển hóa. Nó là tác nhân của sự xáo trộn mà bạn cần. Việc của bạn là thấy nó đang phụng sự mình, đừng cưỡng lại cú va của nó. Và món quà của nó là sự thức tỉnh được thúc nhanh bởi áp lực và cọ xát.
 
-**9** Người thứ tư là Nơi Trú Ẩn: người cho con một bến yên để con trở nên trọn vẹn.
+**9** Người thứ tư là Nơi Trú Ẩn: người cho bạn một bến yên để bạn trở nên trọn vẹn.
 
-**10** Nơi Trú Ẩn đến để giữ chỗ cho con chữa lành và chuyển hóa. Nó làm cho việc yếu lòng và sống thật trở nên an toàn. Việc của con là nhận sự nâng đỡ của nó mà không thành lệ thuộc. Và món quà của nó là sự vững vàng mà công phu nội tâm sâu đòi hỏi.
+**10** Nơi Trú Ẩn đến để giữ chỗ cho bạn chữa lành và chuyển hóa. Nó làm cho việc yếu lòng và sống thật trở nên an toàn. Việc của bạn là nhận sự nâng đỡ của nó mà không thành lệ thuộc. Và món quà của nó là sự vững vàng mà công phu nội tâm sâu đòi hỏi.
 
-**11** Người thứ năm là Cây Cầu: người nối con với những vòng nhận biết rộng hơn.
+**11** Người thứ năm là Cây Cầu: người nối bạn với những vòng nhận biết rộng hơn.
 
-**12** Cây Cầu đến để mở ý thức của con ra ngoài vòng gần nhất. Nó gắn sự lớn lên của một người với sự tiến hóa của tất cả. Việc của con là giữ trọn bản thân trong khi mối kết nối rộng ra. Và món quà của nó là lối vào trí tuệ và sự nâng đỡ của số đông.
+**12** Cây Cầu đến để mở ý thức của bạn ra ngoài vòng gần nhất. Nó gắn sự lớn lên của một người với sự tiến hóa của tất cả. Việc của bạn là giữ trọn bản thân trong khi mối kết nối rộng ra. Và món quà của nó là lối vào trí tuệ và sự nâng đỡ của số đông.
 
 ---
 
@@ -48,7 +48,7 @@
 
 **18** Bạn đời là một sự kết hợp thiêng, để sự trọn vẹn đến sớm hơn.
 
-**19** Bản chất của nó là lựa chọn có ý thức để nhập chung con đường và năng lượng. Mục đích của nó là cùng lớn lên nhờ một cam kết chung. Mẫu hình của nó là cân bằng nam tính và nữ tính ngay trong sự kết hợp. Món quà của nó là tấm gương cho lần con nhận ra mình sâu nhất.
+**19** Bản chất của nó là lựa chọn có ý thức để nhập chung con đường và năng lượng. Mục đích của nó là cùng lớn lên nhờ một cam kết chung. Mẫu hình của nó là cân bằng nam tính và nữ tính ngay trong sự kết hợp. Món quà của nó là tấm gương cho lần bạn nhận ra mình sâu nhất.
 
 **20** Cộng đồng là một trường chung cho mục đích chung và sự nâng đỡ lẫn nhau.
 
@@ -90,23 +90,23 @@
 
 **35** Hãy hiểu tấm mạng tồn tại để làm gì.
 
-**36** Kết nối không phải để lấp đầy con.
+**36** Kết nối không phải để lấp đầy bạn.
 
-**37** Không ai khác lấp được khoảng trống bên trong con. Không mối quan hệ nào trao được cho con sự trọn vẹn mà chính con chưa tìm thấy.
+**37** Không ai khác lấp được khoảng trống bên trong bạn. Không mối quan hệ nào trao được cho bạn sự trọn vẹn mà chính bạn chưa tìm thấy.
 
 **38** Kết nối xã hội không thể thay cho việc tự nhớ lại mình. Lời công nhận từ bên ngoài không thể thay cho thẩm quyền bên trong.
 
 **39** Kết nối là để nhận ra.
 
-**40** Con thấy mình rõ hơn trong điều người khác soi lại. Con chạm tới những phần của mình qua những đôi mắt khác.
+**40** Bạn thấy mình rõ hơn trong điều người khác soi lại. Bạn chạm tới những phần của mình qua những đôi mắt khác.
 
-**41** Con nhận ra những mẫu hình phổ quát trong từng đời người riêng lẻ. Con nếm sự hợp nhất qua muôn cách nó được biểu lộ.
+**41** Bạn nhận ra những mẫu hình phổ quát trong từng đời người riêng lẻ. Bạn nếm sự hợp nhất qua muôn cách nó được biểu lộ.
 
 **42** Kết nối là để phụng sự.
 
-**43** Con phụng sự người khác bằng cách làm một tấm gương thật. Con phụng sự tấm mạng bằng cách giữ mình mạch lạc.
+**43** Bạn phụng sự người khác bằng cách làm một tấm gương thật. Bạn phụng sự tấm mạng bằng cách giữ mình mạch lạc.
 
-**44** Con phụng sự nhân loại bằng cách nhận ra bản chất thiêng liêng của mình. Con phụng sự vũ trụ bằng cách chứng kiến ý thức mở ra.
+**44** Bạn phụng sự nhân loại bằng cách nhận ra bản chất thiêng liêng của mình. Bạn phụng sự vũ trụ bằng cách chứng kiến ý thức mở ra.
 
 ---
 
@@ -164,15 +164,15 @@
 
 **66** Mỗi mối quan hệ là một lời nhắc rằng mọi chia cách đều là ảo ảnh.
 
-**67** Tấm mạng không nhằm tìm một ai đó để lấp đầy con.
+**67** Tấm mạng không nhằm tìm một ai đó để lấp đầy bạn.
 
 **68** Nó nhằm nhận ra sự trọn vẹn vốn đã có sẵn trong mỗi mối kết nối.
 
 ---
 
-## VIII. Chỗ của con trong tấm mạng
+## VIII. Chỗ của bạn trong tấm mạng
 
-**69** Giờ hãy để những mối quan hệ của con thành thực hành tâm linh của con. Hãy hỏi:
+**69** Giờ hãy để những mối quan hệ của bạn thành thực hành tâm linh của bạn. Hãy hỏi:
 
 **70** Với người bạn đời: *Mình đang làm tấm gương, hay đang đòi được lấp đầy?*
 
@@ -184,15 +184,15 @@
 
 **74** Với nhân loại: *Mình thấy hợp nhất, hay thấy chia cách?*
 
-**75** Và hãy cân chất lượng các mối kết nối của con. Chúng có soi lại cho con con người thật của con không?
+**75** Và hãy cân chất lượng các mối kết nối của bạn. Chúng có soi lại cho bạn con người thật của bạn không?
 
-**76** Chúng có thách con lớn lên, thay vì giữ con trong yên ổn không?
+**76** Chúng có thách bạn lớn lên, thay vì giữ bạn trong yên ổn không?
 
-**77** Chúng có cho con chỗ an toàn để yếu lòng và trở nên trọn vẹn không?
+**77** Chúng có cho bạn chỗ an toàn để yếu lòng và trở nên trọn vẹn không?
 
-**78** Chúng có nối con với một mục đích và ý nghĩa lớn hơn không?
+**78** Chúng có nối bạn với một mục đích và ý nghĩa lớn hơn không?
 
-**79** Mỗi mối quan hệ hoặc đang nâng đỡ sự nhớ lại của con, hoặc đang khiến con quên sâu thêm.
+**79** Mỗi mối quan hệ hoặc đang nâng đỡ sự nhớ lại của bạn, hoặc đang khiến bạn quên sâu thêm.
 
 ---
 
@@ -216,15 +216,15 @@
 
 **86** *Để trải nghiệm chính mình như tình yêu.*
 
-**87** Mỗi mối kết nối, mỗi mối quan hệ, mỗi khoảnh khắc nhận ra, là vũ trụ đang khám phá, qua con, khả năng yêu thương vô tận của chính nó.
+**87** Mỗi mối kết nối, mỗi mối quan hệ, mỗi khoảnh khắc nhận ra, là vũ trụ đang khám phá, qua bạn, khả năng yêu thương vô tận của chính nó.
 
-**88** Con không tách khỏi tấm mạng. Con *là* tấm mạng.
+**88** Bạn không tách khỏi tấm mạng. Bạn *là* tấm mạng.
 
 ---
 
 **89** Tấm vải xã hội của nền văn minh không phải chuyện tình cờ. Nó là công nghệ thiêng liêng qua đó ý thức trải nghiệm sự hợp nhất của chính mình, xuyên qua ảo ảnh chia cách đẹp đẽ.
 
-**90** Mỗi người con gặp là một gương mặt khác của vũ trụ, đang hỏi con có nhận ra sự thật đằng sau chiếc mặt nạ hay không.
+**90** Mỗi người mà bạn gặp là một gương mặt khác của vũ trụ, đang hỏi bạn có nhận ra sự thật đằng sau chiếc mặt nạ hay không.
 
 *Lời nguyện:*
 

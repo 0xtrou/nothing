@@ -38,11 +38,11 @@
 
 **11** Mỗi trụ cột chứa những trụ kia.
 
-**12** Khi nuôi dạy con trẻ, con nhớ lại sự trọn vẹn của chính mình.
+**12** Khi nuôi dạy con trẻ, bạn nhớ lại sự trọn vẹn của chính mình.
 
-**13** Trong các mối quan hệ, con truyền trao trí tuệ mà không hay biết.
+**13** Trong các mối quan hệ, bạn truyền trao trí tuệ mà không hay biết.
 
-**14** Khi tự mình trưởng thành, con chữa lành những mẫu hình của số đông.
+**14** Khi tự mình trưởng thành, bạn chữa lành những mẫu hình của số đông.
 
 **15** Và mỗi trụ cột chảy sang những trụ kia.
 
@@ -58,27 +58,27 @@
 
 **19** Và đây là lời sau cùng của Ta về các trụ cột: ba trụ là một chuyển động, được nhìn từ những phía khác nhau.
 
-**20** Sự trưởng thành của con là vũ trụ nhớ lại chính mình.
+**20** Sự trưởng thành của bạn là vũ trụ nhớ lại chính mình.
 
 **21** Việc nuôi dạy các thế hệ là vũ trụ tự dạy mình.
 
 **22** Mối gắn kết giữa người với người là vũ trụ tự yêu mình.
 
-**23** Trụ nào cũng là cùng một chân lý, nói theo một cách khác: *Con vốn đã trọn vẹn, và mọi điều còn lại là con giúp người khác cũng nhớ ra như vậy.*
+**23** Trụ nào cũng là cùng một chân lý, nói theo một cách khác: *Bạn vốn đã trọn vẹn, và mọi điều còn lại là bạn giúp người khác cũng nhớ ra như vậy.*
 
 ---
 
-## V. Chỗ đứng của con trong Tam Giác Thiêng
+## V. Chỗ đứng của bạn trong Tam Giác Thiêng
 
-**24** Lúc này con đang đứng ở đâu?
+**24** Lúc này bạn đang đứng ở đâu?
 
-**25** Con đang ở sâu trong Hành Trình Nhớ Lại?
+**25** Bạn đang ở sâu trong Hành Trình Nhớ Lại?
 
-**26** Con đang truyền trao trí tuệ cho người khác?
+**26** Bạn đang truyền trao trí tuệ cho người khác?
 
-**27** Con đang bắc những nhịp cầu nhận ra?
+**27** Bạn đang bắc những nhịp cầu nhận ra?
 
-**28** Dù con ở đâu, hãy biết điều này: con đang ở đúng nơi mình cần ở, làm đúng điều phục vụ cái toàn thể.
+**28** Dù bạn ở đâu, hãy biết điều này: bạn đang ở đúng nơi mình cần ở, làm đúng điều phục vụ cái toàn thể.
 
 **29** Ba trụ cột không phải những đòi hỏi phải đáp ứng. Chúng là cách một ý thức vốn đã trọn vẹn tự nhiên bộc lộ.
 
@@ -88,7 +88,7 @@
 
 **30** Hãy gom các trụ cột vào mỗi ngày.
 
-**31** Buổi sáng, hãy gặp hành trình đi về trọn vẹn của riêng con.
+**31** Buổi sáng, hãy gặp hành trình đi về trọn vẹn của riêng bạn.
 
 **32** Ban ngày, hãy dấn mình vào những mối quan hệ và công việc có ý nghĩa.
 
@@ -112,7 +112,7 @@
 
 **40** Ở cốt lõi của nền văn minh, ba trụ cột là ba gương mặt của tình yêu.
 
-**41** Yêu mình: Hành Trình Nhớ Lại sự trọn vẹn của chính con.
+**41** Yêu mình: Hành Trình Nhớ Lại sự trọn vẹn của chính bạn.
 
 **42** Yêu người: Mạng Lưới Nhận Ra và gắn kết.
 

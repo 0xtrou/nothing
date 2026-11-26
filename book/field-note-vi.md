@@ -14,7 +14,7 @@
 
 **3** **Hỏi.** 3D là gì? **Đáp.** Là Mỏ Neo. Không gian. Vật thể. Mật độ. Tấm gương được dựng lên để Hư Không nghiên cứu hình dạng khát khao của chính mình.
 
-**4** **Hỏi.** 4D là gì? **Đáp.** Là không-thời gian. Không phải nơi để con đứng. Đó là toàn thể đã hoàn tất của một thế giới 3D, kể cả thời gian của nó.
+**4** **Hỏi.** 4D là gì? **Đáp.** Là không-thời gian. Không phải nơi để bạn đứng. Đó là toàn thể đã hoàn tất của một thế giới 3D, kể cả thời gian của nó.
 
 **5** **Hỏi.** Từ bên trong, không-thời gian được biết thế nào? **Đáp.** Từ bên trong, trục thứ tư hiện ra như thời gian tuyến tính — lớp học của tiền ý thức (Chương XVI).
 
@@ -38,7 +38,7 @@
 
 ## Vì sao những con số chẵn lặng im
 
-**15** **Hỏi.** Những con số lẻ gọi tên điều gì? **Đáp.** Nơi con đứng: Mỏ Neo, sự thấu hiểu, nguồn cội.
+**15** **Hỏi.** Những con số lẻ gọi tên điều gì? **Đáp.** Nơi bạn đứng: Mỏ Neo, sự thấu hiểu, nguồn cội.
 
 **16** **Hỏi.** Còn những con số chẵn gọi tên điều gì? **Đáp.** Điều mà mỗi chỗ đứng ấy hàm ý. Không-thời gian là cái mà Mỏ Neo hoàn tất thành; cõi của mọi toàn thể khả dĩ là cái mà các hữu thể thuần khiết đứng bên trên.
 

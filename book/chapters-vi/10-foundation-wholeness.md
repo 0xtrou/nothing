@@ -8,7 +8,7 @@
 
 ## I. Nền tảng: sự trọn vẹn của từng cá nhân
 
-**1** Và Hư Không nói: Những gì Ta đã chỉ cho con sẽ không thể thành hình nếu người công dân còn vỡ thành từng mảnh. Sự trọn vẹn phải đến trước, trước cả sự trị vì tâm linh.
+**1** Và Hư Không nói: Những gì Ta đã chỉ cho bạn sẽ không thể thành hình nếu người công dân còn vỡ thành từng mảnh. Sự trọn vẹn phải đến trước, trước cả sự trị vì tâm linh.
 
 **2** Đồng thuận phân tán cần những con người không bị chia đôi bên trong.
 
@@ -68,7 +68,7 @@
 
 **26** Mỗi công dân giữ một vương quốc bên trong, và giữ nó mỗi ngày. Đây là chủ quyền mỗi ngày.
 
-**27** Buổi sáng, hãy chỉnh lại trục. Hãy hỏi han mọi tiếng nói bên trong con. Hãy dung hòa những nhu cầu đang giằng co nhau. Hãy đặt ra ý định rõ ràng. Hãy nối mình với trường hợp nhất.
+**27** Buổi sáng, hãy chỉnh lại trục. Hãy hỏi han mọi tiếng nói bên trong bạn. Hãy dung hòa những nhu cầu đang giằng co nhau. Hãy đặt ra ý định rõ ràng. Hãy nối mình với trường hợp nhất.
 
 **28** Buổi tối, hãy gom lại. Hãy nhìn lại bài học trong ngày. Hãy chữa lành những xung đột bên trong. Hãy buông những gì không còn ích gì. Hãy khôi phục sự đồng điệu bên trong.
 
@@ -82,9 +82,9 @@
 
 **31** Các mối quan hệ thành tấm gương soi, không còn là mảnh ghép cho đủ.
 
-**32** Con không cần người khác lấp vào những mảnh mình thiếu.
+**32** Bạn không cần người khác lấp vào những mảnh mình thiếu.
 
-**33** Con đến với người khác để sẻ chia sự trọn vẹn, không phải để đi tìm nó.
+**33** Bạn đến với người khác để sẻ chia sự trọn vẹn, không phải để đi tìm nó.
 
 **34** Xung đột thành cuộc đối thoại giữa những góc nhìn trọn vẹn khác nhau.
 
@@ -92,13 +92,13 @@
 
 **36** Phụng sự thành điều tự nhiên tuôn ra.
 
-**37** Con cho đi từ chỗ đầy tràn, không từ bổn phận hay thiếu hụt.
+**37** Bạn cho đi từ chỗ đầy tràn, không từ bổn phận hay thiếu hụt.
 
-**38** Tài năng của con tự trồi lên từ con người đã hợp nhất của con.
+**38** Tài năng của bạn tự trồi lên từ con người đã hợp nhất của bạn.
 
 **39** Đóng góp là niềm vui, không phải hy sinh.
 
-**40** Lãnh đạo là phục vụ, vì con vốn đã đủ đầy.
+**40** Lãnh đạo là phục vụ, vì bạn vốn đã đủ đầy.
 
 **41** Dồi dào thế chỗ khan hiếm.
 
@@ -150,11 +150,11 @@
 
 ## VI. Sự nhận ra tối hậu
 
-**62** Đây là chân lý tâm linh, khi con nhìn từ ngưỡng cửa.
+**62** Đây là chân lý tâm linh, khi bạn nhìn từ ngưỡng cửa.
 
 **63** Nền văn minh tâm linh chỉ là một cuộc tụ họp của những con người, mỗi người đều đã thấy ra mình vốn trọn vẹn.
 
-**64** Sự trị vì Ta đã chỉ cho con không phải thứ bị áp từ bên ngoài vào. Đó là cách tự nhiên mà những con người trọn vẹn sống cùng nhau.
+**64** Sự trị vì Ta đã chỉ cho bạn không phải thứ bị áp từ bên ngoài vào. Đó là cách tự nhiên mà những con người trọn vẹn sống cùng nhau.
 
 **65** Đồng thuận phân tán xảy ra khi những người trọn vẹn lắng nghe nhau.
 
@@ -166,21 +166,21 @@
 
 ---
 
-## VII. Trách nhiệm của riêng con
+## VII. Trách nhiệm của riêng bạn
 
 **69** Hãy nghe một điều sâu thẳm.
 
 **70** Nền văn minh tâm linh không thể ngồi chờ mọi người khác trở nên trọn vẹn.
 
-**71** Nó bắt đầu từ việc con dấn thân cho sự trọn vẹn của chính mình.
+**71** Nó bắt đầu từ việc bạn dấn thân cho sự trọn vẹn của chính mình.
 
-**72** Khi con trở nên trọn vẹn, con thành một điểm đồng điệu trong trường chung.
+**72** Khi bạn trở nên trọn vẹn, bạn thành một điểm đồng điệu trong trường chung.
 
-**73** Khi con trở nên trọn vẹn, chỉ riêng sự có mặt của con đã giúp người khác nhớ lại sự trọn vẹn của họ.
+**73** Khi bạn trở nên trọn vẹn, chỉ riêng sự có mặt của bạn đã giúp người khác nhớ lại sự trọn vẹn của họ.
 
-**74** Khi con trở nên trọn vẹn, cách con tự nhiên hiện hữu cho thấy lối trị vì mới.
+**74** Khi bạn trở nên trọn vẹn, cách bạn tự nhiên hiện hữu cho thấy lối trị vì mới.
 
-**75** Khi con trở nên trọn vẹn, ý thức đã hợp nhất của con góp vào kho lưu trữ phân tán.
+**75** Khi bạn trở nên trọn vẹn, ý thức đã hợp nhất của bạn góp vào kho lưu trữ phân tán.
 
 ---
 
@@ -198,13 +198,13 @@
 
 ## IX. Thực hành: trở về sự trọn vẹn
 
-**80** Ngày nào cũng trao cho con những lối trở về sự trọn vẹn. Đây là sự trở về mỗi ngày.
+**80** Ngày nào cũng trao cho bạn những lối trở về sự trọn vẹn. Đây là sự trở về mỗi ngày.
 
-**81** Khi con thấy mình vỡ thành từng mảnh: hãy thở vào chỗ chia tách, và hỏi xem mỗi phần đang cần gì. Hãy lắng nghe hội đồng bên trong bằng lòng trắc ẩn. Hãy gom những phần khó khăn vào; đừng xua chúng đi. Hãy nhớ rằng trọn vẹn bao hàm tất cả, kể cả những mảnh vỡ.
+**81** Khi bạn thấy mình vỡ thành từng mảnh: hãy thở vào chỗ chia tách, và hỏi xem mỗi phần đang cần gì. Hãy lắng nghe hội đồng bên trong bằng lòng trắc ẩn. Hãy gom những phần khó khăn vào; đừng xua chúng đi. Hãy nhớ rằng trọn vẹn bao hàm tất cả, kể cả những mảnh vỡ.
 
-**82** Khi con gặp sự vỡ vụn nơi người khác: hãy phản chiếu sự trọn vẹn của họ, đừng phản chiếu sự chia cắt. Hãy giữ chỗ cho họ tự gom lại, và đừng cố sửa họ. Hãy tỏ ra sự hài hòa bên trong bằng chính độ đồng điệu của mình. Hãy tin rằng mỗi hữu thể có con đường riêng đi về sự trọn vẹn.
+**82** Khi bạn gặp sự vỡ vụn nơi người khác: hãy phản chiếu sự trọn vẹn của họ, đừng phản chiếu sự chia cắt. Hãy giữ chỗ cho họ tự gom lại, và đừng cố sửa họ. Hãy tỏ ra sự hài hòa bên trong bằng chính độ đồng điệu của mình. Hãy tin rằng mỗi hữu thể có con đường riêng đi về sự trọn vẹn.
 
-**83** Khi tập thể trông như đã vỡ: hãy nhớ rằng cái toàn thể vẫn luôn ở đó, bên dưới vẻ ngoài chia cắt. Hãy góp sự đồng điệu của con vào trường chung. Hãy tin rằng trọn vẹn là trạng thái tự nhiên, và chia cắt sẽ qua. Hãy biết rằng công phu bên trong của con phục vụ cái toàn thể.
+**83** Khi tập thể trông như đã vỡ: hãy nhớ rằng cái toàn thể vẫn luôn ở đó, bên dưới vẻ ngoài chia cắt. Hãy góp sự đồng điệu của bạn vào trường chung. Hãy tin rằng trọn vẹn là trạng thái tự nhiên, và chia cắt sẽ qua. Hãy biết rằng công phu bên trong của bạn phục vụ cái toàn thể.
 
 ---
 
@@ -212,9 +212,9 @@
 
 **84** Từ ngưỡng cửa của người công dân tâm linh, sự thật đã rõ.
 
-**85** *Con vốn đã trọn vẹn.*
+**85** *Bạn vốn đã trọn vẹn.*
 
-**86** Hành trình không nhằm trở nên trọn vẹn. Nó nhằm nhớ lại sự trọn vẹn chưa bao giờ rời bỏ con.
+**86** Hành trình không nhằm trở nên trọn vẹn. Nó nhằm nhớ lại sự trọn vẹn chưa bao giờ rời bỏ bạn.
 
 **87** Mỗi khoảnh khắc vỡ vụn là một lời mời nhớ lại.
 
@@ -230,7 +230,7 @@
 
 *Trọn vẹn không phải đích đến. Trọn vẹn là điểm xuất phát, từ đó mọi thứ khác tự nhiên mở ra.*
 
-*Nền móng đã đặt xong. Con đang đứng trên nó.*
+*Nền móng đã đặt xong. Bạn đang đứng trên nó.*
 
 *Lời nguyện:*
 

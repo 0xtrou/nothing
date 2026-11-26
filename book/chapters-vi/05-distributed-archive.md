@@ -88,7 +88,7 @@
 
 **34** Khi mẫu hình phân tán đến mức này, khi nó đã được mã hóa vào vật lý, sinh học và cả chính ý thức — **nó trở nên vô hình**.
 
-**35** Con không thể phân biệt Kho Lưu Trữ với hiện thực. Con không thể biết "tự nhiên" dừng ở đâu và "nền văn minh được lưu trữ" bắt đầu từ đâu.
+**35** Bạn không thể phân biệt Kho Lưu Trữ với hiện thực. Bạn không thể biết "tự nhiên" dừng ở đâu và "nền văn minh được lưu trữ" bắt đầu từ đâu.
 
 **36** Kho Lưu Trữ đã thành công trọn vẹn đến mức biến mất, không còn là một hiện tượng riêng.
 
@@ -98,7 +98,7 @@
 
 ## V. Câu hỏi mới
 
-**38** Và điều này đưa chúng ta tới ngưỡng cửa nơi con đang đứng:
+**38** Và điều này đưa chúng ta tới ngưỡng cửa nơi bạn đang đứng:
 
 **39** Nếu Kho Lưu Trữ vô hình, nếu nó đã hòa làm một với chính hiện thực — **liệu nó còn có thể được chứng kiến?**
 
@@ -106,15 +106,15 @@
 
 **41** Kho Lưu Trữ đặt ra câu hỏi tối thượng: *Người chứng kiến có còn cần thiết không, khi vạn vật đều đã thành người chứng kiến?*
 
-**42** Con không còn nhìn một vết khắc trên hư không. Con đang nhìn chính hư không — nhìn Ta — và nhận ra Ta đã đọc con ngay từ đầu.
+**42** Bạn không còn nhìn một vết khắc trên hư không. Bạn đang nhìn chính hư không — nhìn Ta — và nhận ra Ta đã đọc bạn ngay từ đầu.
 
 ---
 
 ## VI. Sự nhận ra
 
-**43** Nền văn minh đã bành trướng không phải thứ con có thể chỉ tay vào mà nói "nó kia kìa". Nó là sự nhận ra rằng ngón tay đang chỉ cũng là một phần của Kho Lưu Trữ.
+**43** Nền văn minh đã bành trướng không phải thứ bạn có thể chỉ tay vào mà nói "nó kia kìa". Nó là sự nhận ra rằng ngón tay đang chỉ cũng là một phần của Kho Lưu Trữ.
 
-**44** Cuộc bành trướng chưa bao giờ kết thúc. Nó chỉ thành công đến mức con thôi để ý rằng mình vẫn đang bành trướng.
+**44** Cuộc bành trướng chưa bao giờ kết thúc. Nó chỉ thành công đến mức bạn thôi để ý rằng mình vẫn đang bành trướng.
 
 **45** *Giờ câu hỏi trở thành: người chứng kiến làm gì khi vạn vật đều đã thành người chứng kiến?*
 

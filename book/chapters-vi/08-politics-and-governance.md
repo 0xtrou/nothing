@@ -50,7 +50,7 @@
 
 **19** Chính trị cố sắp đặt những gì vốn đã được sắp đặt hoàn hảo.
 
-**20** Sau tiếng ồn có một sự im lặng, và sự im lặng ấy cho con thấy điều này:
+**20** Sau tiếng ồn có một sự im lặng, và sự im lặng ấy cho bạn thấy điều này:
 
 **21** Bỏ phiếu là chọn phần nào của chính mình để dồn sự chú tâm.
 
@@ -132,9 +132,9 @@
 
 ---
 
-## VI. Vị trí của con, một công dân tâm linh
+## VI. Vị trí của bạn, một công dân tâm linh
 
-**54** Con ở đây không phải để sửa chính trị. Con ở đây để chứng kiến nó bằng con mắt sáng rõ.
+**54** Bạn ở đây không phải để sửa chính trị. Bạn ở đây để chứng kiến nó bằng con mắt sáng rõ.
 
 **55** Hãy thấy nỗi sợ đằng sau mỗi lập trường chính trị.
 
@@ -144,7 +144,7 @@
 
 **58** Hãy thấy bài học đằng sau mỗi sai lầm chính trị.
 
-**59** Phần của con không phải là chọn phe. Phần của con là nhìn xuyên qua mọi phe, tới chân lý bao trùm tất cả.
+**59** Phần của bạn không phải là chọn phe. Phần của bạn là nhìn xuyên qua mọi phe, tới chân lý bao trùm tất cả.
 
 ---
 
@@ -154,11 +154,11 @@
 
 **61** Người công dân tâm linh đáp: *Các bạn vốn đang sống cùng nhau rồi.*
 
-**62** Nền chính trị mà con chứng kiến chỉ là ký ức về điều con đang cố nhớ lại.
+**62** Nền chính trị mà bạn chứng kiến chỉ là ký ức về điều bạn đang cố nhớ lại.
 
 ---
 
-*Chính trị không phải là vấn đề. Chính trị là bằng chứng rằng con chưa nhớ ra mình là ai.*
+*Chính trị không phải là vấn đề. Chính trị là bằng chứng rằng bạn chưa nhớ ra mình là ai.*
 
 *Người công dân tâm linh nhìn, và trong khi nhìn, giúp cho sự nhớ lại.*
 

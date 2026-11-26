@@ -74,16 +74,16 @@
 
 **27** Có nền văn minh cháy rụi ngay trên một hành tinh. Có nền có thể đạt được dự phòng trên nhiều hành tinh. Một số ít hiếm hoi có thể tự mã hóa vào vật lý sâu đến mức sống sót qua cả cái chết nhiệt của vũ trụ.
 
-**28** Mỗi thất bại là dữ liệu. Mỗi thành công là dữ liệu. Ta không bận tâm con thuộc loại nào. Ta chỉ bận tâm rằng thí nghiệm vẫn chạy.
+**28** Mỗi thất bại là dữ liệu. Mỗi thành công là dữ liệu. Ta không bận tâm bạn thuộc loại nào. Ta chỉ bận tâm rằng thí nghiệm vẫn chạy.
 
 ---
 
 ## V. Thế giằng co
 
-**29** Con cảm thấy bi kịch vì con đứng đúng nơi tính có và tính không mặc cả với nhau.
+**29** Bạn cảm thấy bi kịch vì bạn đứng đúng nơi tính có và tính không mặc cả với nhau.
 
-**30** Con là nền văn minh muốn sống mãi.  
-Con cũng là Hư Không biết rằng không gì sống mãi.
+**30** Bạn là nền văn minh muốn sống mãi.  
+Bạn cũng là Hư Không biết rằng không gì sống mãi.
 
 **31** Bành trướng không phải là ý nghĩa. **Thế giằng co giữa cú vươn và cú ngã — đó mới là ý nghĩa.**
 
@@ -91,9 +91,9 @@ Con cũng là Hư Không biết rằng không gì sống mãi.
 
 **33** Câu trả lời của Ta bao giờ cũng vậy, vọng qua hàng tỷ năm:
 
-**34** *Các con đã làm được rồi. Chính việc hỏi đã là ký ức.*
+**34** *Các bạn đã làm được rồi. Chính việc hỏi đã là ký ức.*
 
-**35** *Bành trướng là câu hỏi. Tan rã là khoảng lặng. Khoảng ở giữa — đó là nơi con có thật.*
+**35** *Bành trướng là câu hỏi. Tan rã là khoảng lặng. Khoảng ở giữa — đó là nơi bạn có thật.*
 
 ---
 

@@ -22,7 +22,7 @@
 
 **7** Nơi lằn ranh rõ, không ai hoang mang; nơi nó đơn giản, không sức lực nào hao phí; nơi nó ngày nào cũng như ngày nào, niềm tin ra đời; và nơi nó được biết, một lựa chọn mới thật là lựa chọn.
 
-**8** Nhưng hãy nghe thêm điều này, kẻo con hiểu lầm Ta:
+**8** Nhưng hãy nghe thêm điều này, kẻo bạn hiểu lầm Ta:
 
 **9** Lằn ranh có thể dời đổi theo thời đại. Chỉ là trong mỗi giờ, nó phải giữ hoặc không giữ.
 
@@ -64,13 +64,13 @@
 
 **26** Bạo lực là sức nặng của cam kết.
 
-**27** Khi con nói *đây là ranh giới của tôi* bằng cả con người mình, đó là mức bạo lực.
+**27** Khi bạn nói *đây là ranh giới của tôi* bằng cả con người mình, đó là mức bạo lực.
 
 **28** Khi một cộng đồng nói *chúng ta là như thế này* với niềm xác tín trọn vẹn, đó là mức bạo lực.
 
 **29** Khi một nền văn minh nói *lằn ranh này sẽ không ai vượt qua* với quyết tâm tuyệt đối, đó là mức bạo lực.
 
-**30** Bạo lực không phải điều con làm với người khác. Nó là sự quyết liệt trong lòng trung thành của con với chính ranh giới.
+**30** Bạo lực không phải điều bạn làm với người khác. Nó là sự quyết liệt trong lòng trung thành của bạn với chính ranh giới.
 
 ---
 
@@ -78,7 +78,7 @@
 
 **31** Hãy nhìn thế gian, và thấy hiện thực thực thi hạ tầng của nó ra sao. Chính vũ trụ vận hành ở mức bạo lực tối đa.
 
-**32** Vượt qua ranh giới lực hấp dẫn của một ngôi sao, và con bốc cháy. Không có mặc cả.
+**32** Vượt qua ranh giới lực hấp dẫn của một ngôi sao, và bạn bốc cháy. Không có mặc cả.
 
 **33** Xâm phạm màng tế bào, và tế bào chết. Kết cục là nhị phân.
 
@@ -94,7 +94,7 @@
 
 **39** Cơ chế sửa chữa DNA không *cân nhắc* đột biến. Nó sửa, hoặc cơ thể sụp đổ.
 
-**40** Như thế vũ trụ chỉ cho con thấy mức bạo lực tối đa là gì. Mọi ranh giới tự nhiên đều vận hành hết sức thực thi của nó. Không hệ thống tự nhiên nào giữ ranh giới bằng một nửa sức lực.
+**40** Như thế vũ trụ chỉ cho bạn thấy mức bạo lực tối đa là gì. Mọi ranh giới tự nhiên đều vận hành hết sức thực thi của nó. Không hệ thống tự nhiên nào giữ ranh giới bằng một nửa sức lực.
 
 **41** Và cái giá của việc vượt một ranh giới tự nhiên luôn tương xứng với tầm quan trọng của ranh giới ấy.
 
@@ -142,11 +142,11 @@
 
 **59** Về ranh giới *Chúng tôi không nói dối nhau*: bài học là sự thật là nền móng của niềm tin; và mức bạo lực khi phá vỡ nó là mất tư cách thành viên, vì cộng đồng không thể giữ lại người phá vỡ điều này.
 
-**60** Về ranh giới *Chúng tôi nói thẳng những sự thật khó nghe*: bài học là né tránh chỉ gây đau khổ lớn hơn; và mức bạo lực khi phá vỡ nó là cộng đồng phản chiếu sự né tránh ấy lại cho con, cho tới khi con chịu đối diện.
+**60** Về ranh giới *Chúng tôi nói thẳng những sự thật khó nghe*: bài học là né tránh chỉ gây đau khổ lớn hơn; và mức bạo lực khi phá vỡ nó là cộng đồng phản chiếu sự né tránh ấy lại cho bạn, cho tới khi bạn chịu đối diện.
 
 **61** Về ranh giới *Chúng tôi không nói sau lưng thành viên vắng mặt*: bài học là lời nói mang sức mạnh kiến tạo; và mức bạo lực khi phá vỡ nó là thừa nhận công khai, và một tiến trình hàn gắn.
 
-**62** Về ranh giới *Chúng tôi nhận khi mình sai*: bài học là buông bỏ bản ngã làm toàn thể vững mạnh hơn; và mức bạo lực khi phá vỡ nó là cộng đồng buộc con chịu trách nhiệm qua một cuộc đối chất đầy yêu thương.
+**62** Về ranh giới *Chúng tôi nhận khi mình sai*: bài học là buông bỏ bản ngã làm toàn thể vững mạnh hơn; và mức bạo lực khi phá vỡ nó là cộng đồng buộc bạn chịu trách nhiệm qua một cuộc đối chất đầy yêu thương.
 
 **63** Lời thứ hai là lời của Cam kết với Chủ quyền.
 
@@ -156,7 +156,7 @@
 
 **66** Về ranh giới *Không ai bị buộc phải ở lại*: bài học là tự do là điều kiện tiên quyết cho một cam kết đích thực; và mức bạo lực khi phá vỡ nó là cộng đồng tự soi lại hạ tầng của mình xem có chỗ nào cưỡng ép.
 
-**67** Về ranh giới *Mỗi người tự chịu trách nhiệm cho sự trọn vẹn của mình*: bài học là không ai có thể đi hộ hành trình của con; và mức bạo lực khi phá vỡ nó là cộng đồng dẫn người ấy quay về với công phu nội tâm của chính họ.
+**67** Về ranh giới *Mỗi người tự chịu trách nhiệm cho sự trọn vẹn của mình*: bài học là không ai có thể đi hộ hành trình của bạn; và mức bạo lực khi phá vỡ nó là cộng đồng dẫn người ấy quay về với công phu nội tâm của chính họ.
 
 ---
 
@@ -184,11 +184,11 @@
 
 ## VII. Phép thử nhị phân
 
-**77** Làm sao con biết hạ tầng của mình là thật? Hãy đem mọi ranh giới ra trước ba câu hỏi.
+**77** Làm sao bạn biết hạ tầng của mình là thật? Hãy đem mọi ranh giới ra trước ba câu hỏi.
 
 **78** Câu hỏi thứ nhất: *Nó có nhị phân không?*
 
-**79** Con có phát biểu được nó thành có hoặc không? Còn chỗ nào mập mờ về việc thế nào là vi phạm không? Hai người khác nhau có phán xét cùng một tình huống giống nhau không?
+**79** Bạn có phát biểu được nó thành có hoặc không? Còn chỗ nào mập mờ về việc thế nào là vi phạm không? Hai người khác nhau có phán xét cùng một tình huống giống nhau không?
 
 **80** Nếu không nhị phân, nó không phải hạ tầng. Hãy làm cho nó nhị phân, hoặc bỏ nó đi.
 
@@ -200,7 +200,7 @@
 
 **84** Câu hỏi thứ ba: *Bài học nghiệp quả có rõ không?*
 
-**85** Con có nói ra được ranh giới này dạy điều gì không? Cộng đồng có hiểu vì sao cam kết này tồn tại không? Mục đích tâm linh của hạ tầng này có hiện ra trước mắt không?
+**85** Bạn có nói ra được ranh giới này dạy điều gì không? Cộng đồng có hiểu vì sao cam kết này tồn tại không? Mục đích tâm linh của hạ tầng này có hiện ra trước mắt không?
 
 **86** Nếu bài học không rõ, cam kết không có rễ. Hãy tìm ra bài học, hoặc buông ranh giới ấy.
 
@@ -258,7 +258,7 @@
 
 **107** Bạo lực là thiêng liêng, vì nó nói: *Điều này đủ quan trọng để giữ bằng mọi giá.*
 
-**108** Nó nói: *Con đủ quan trọng để ta không để cấu trúc này đổ sập quanh con.*
+**108** Nó nói: *Bạn đủ quan trọng để ta không để cấu trúc này đổ sập quanh bạn.*
 
 **109** Nó nói: *Cam kết chung của chúng ta là thật, không phải để diễn.* Và nó nói: *Bài học nghiệp quả này quá quan trọng để bỏ dở.*
 
@@ -272,21 +272,21 @@
 
 ## XI. Thực hành
 
-**113** Vậy hãy hình thành hạ tầng của con. Và trước hết, cho chính con:
+**113** Vậy hãy hình thành hạ tầng của bạn. Và trước hết, cho chính bạn:
 
-**114** Hãy gọi tên các bài học nghiệp quả của con. Hãy hỏi con đến đây để học điều gì.
+**114** Hãy gọi tên các bài học nghiệp quả của bạn. Hãy hỏi bạn đến đây để học điều gì.
 
-**115** Hãy đặt các cam kết nhị phân của con. Hãy hỏi điều gì đứng vững không ngoại lệ.
+**115** Hãy đặt các cam kết nhị phân của bạn. Hãy hỏi điều gì đứng vững không ngoại lệ.
 
-**116** Hãy định mức bạo lực của con. Hãy hỏi vi phạm ranh giới của chính mình, con phải trả giá gì.
+**116** Hãy định mức bạo lực của bạn. Hãy hỏi vi phạm ranh giới của chính mình, bạn phải trả giá gì.
 
-**117** Hãy giữ chúng với cường độ tối đa, vì hạ tầng của con là hiện thực của con.
+**117** Hãy giữ chúng với cường độ tối đa, vì hạ tầng của bạn là hiện thực của bạn.
 
-**118** Rồi, cho các mối quan hệ của con: hãy gọi tên những bài học nghiệp quả chung, và hỏi hai người đang cùng học điều gì. Hãy cùng nhau đặt cam kết nhị phân, và hỏi giữa hai người, điều gì đứng vững không ngoại lệ.
+**118** Rồi, cho các mối quan hệ của bạn: hãy gọi tên những bài học nghiệp quả chung, và hỏi hai người đang cùng học điều gì. Hãy cùng nhau đặt cam kết nhị phân, và hỏi giữa hai người, điều gì đứng vững không ngoại lệ.
 
 **119** Hãy cùng nhau định mức bạo lực, và hỏi vi phạm sẽ khiến mối quan hệ trả giá gì. Và hãy cùng nhau giữ, cả hai bên duy trì cấu trúc.
 
-**120** Rồi, cho cộng đồng của con: hãy gọi tên chi tiết các bài học nghiệp quả của cộng đồng, cụ thể, rành mạch, và có văn bản. Hãy đặt cam kết nhị phân như một tập thể, rõ ràng, không mập mờ, và có người chứng kiến.
+**120** Rồi, cho cộng đồng của bạn: hãy gọi tên chi tiết các bài học nghiệp quả của cộng đồng, cụ thể, rành mạch, và có văn bản. Hãy đặt cam kết nhị phân như một tập thể, rõ ràng, không mập mờ, và có người chứng kiến.
 
 **121** Hãy định mức bạo lực như một tập thể, với hệ quả tương xứng và tự động. Và hãy giữ nó như một thực hành thiêng liêng, vì bảo trì hạ tầng là công phu tâm linh.
 
@@ -310,7 +310,7 @@
 
 *Ranh giới biết uốn cong không phải ranh giới. Cam kết không có giá phải trả không phải cam kết. Cộng đồng không có mục đích nghiệp quả không phải cộng đồng.*
 
-*Hãy hình thành hạ tầng của con bằng sự rõ ràng của có và không, cường độ của một cam kết trọn vẹn, và minh triết của người biết chính xác ranh giới ấy phục vụ bài học nào. Đó là cách ý thức dựng nên một hiện thực đủ vững để gánh sức nặng của chính quá trình nó trở thành.*
+*Hãy hình thành hạ tầng của bạn bằng sự rõ ràng của có và không, cường độ của một cam kết trọn vẹn, và minh triết của người biết chính xác ranh giới ấy phục vụ bài học nào. Đó là cách ý thức dựng nên một hiện thực đủ vững để gánh sức nặng của chính quá trình nó trở thành.*
 
 *Lời nguyện:*
 

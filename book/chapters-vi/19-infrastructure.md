@@ -34,7 +34,7 @@
 
 **11** Hạ tầng càng vững, hiện thực càng khỏe. Điều này theo sau điều kia, trực tiếp.
 
-**12** Hạ tầng vững sinh ra những hoa trái này. Bản sắc rõ ràng: con biết mình là gì, và không phải là gì. Trao đổi hiệu quả: cái vào và cái ra đều được điều tiết. Biểu hiện mạch lạc: năng lượng chảy qua những kênh xác định. Hiện thực bền bỉ: xáo trộn được hấp thụ mà không gây sụp đổ.
+**12** Hạ tầng vững sinh ra những hoa trái này. Bản sắc rõ ràng: bạn biết mình là gì, và không phải là gì. Trao đổi hiệu quả: cái vào và cái ra đều được điều tiết. Biểu hiện mạch lạc: năng lượng chảy qua những kênh xác định. Hiện thực bền bỉ: xáo trộn được hấp thụ mà không gây sụp đổ.
 
 **13** Hạ tầng yếu sinh ra những điều này. Bản sắc lẫn lộn: ranh giới nhòe đi, và cái tôi tan vào người khác. Trao đổi vô tổ chức: cái gì cũng vào, cái gì cũng ra, và không gì được sàng lọc. Biểu hiện rời rạc: năng lượng tản mát, không phương hướng. Hiện thực mong manh: một xáo trộn nhỏ cũng kéo sập cả hệ thống.
 
@@ -58,19 +58,19 @@
 
 **21** Có ranh giới bản sắc. Biết mình là ai: mình coi trọng điều gì, mình đứng về điều gì. Biết mình không phải là ai: điều gì không thuộc về con đường của mình. Giữ cho lằn ranh giữa mình và người khác rõ ràng, mà không thù địch. Giữ một câu chuyện về chính mình không vỡ vụn dưới áp lực.
 
-**22** Có ranh giới cảm xúc. Cảm nhận cảm xúc của chính mình, không hút cảm xúc của người khác rồi coi là của mình. Để người khác có cảm xúc của họ, không cần sửa chữa hay gánh hộ. Làm chủ cõi lòng mình: thời tiết bên trong là của con, do con tự lèo lái. Đồng cảm mà không hòa lẫn: kết nối mà không tan biến.
+**22** Có ranh giới cảm xúc. Cảm nhận cảm xúc của chính mình, không hút cảm xúc của người khác rồi coi là của mình. Để người khác có cảm xúc của họ, không cần sửa chữa hay gánh hộ. Làm chủ cõi lòng mình: thời tiết bên trong là của bạn, do bạn tự lèo lái. Đồng cảm mà không hòa lẫn: kết nối mà không tan biến.
 
-**23** Có ranh giới năng lượng. Trường năng lượng của con có đường nét; con biết mình dừng ở đâu và người khác bắt đầu từ đâu. Con điều tiết cái đi vào; không phải thứ gì cũng xứng được bước vào không gian bên trong con. Con điều tiết cái đi ra; con chọn trao gì, và trao lúc nào. Trường của con giữ được sự toàn vẹn, kể cả dưới áp lực, kể cả giữa hỗn loạn.
+**23** Có ranh giới năng lượng. Trường năng lượng của bạn có đường nét; bạn biết mình dừng ở đâu và người khác bắt đầu từ đâu. Bạn điều tiết cái đi vào; không phải thứ gì cũng xứng được bước vào không gian bên trong bạn. Bạn điều tiết cái đi ra; bạn chọn trao gì, và trao lúc nào. Trường của bạn giữ được sự toàn vẹn, kể cả dưới áp lực, kể cả giữa hỗn loạn.
 
-**24** Có ranh giới tâm trí. Suy nghĩ là của con; con phân biệt được đâu là suy nghĩ của mình, đâu là ý tưởng ngấm từ ngoài vào. Niềm tin do con chọn, không thừa hưởng một cách vô thức. Thế giới quan đã được xem xét; con biết vì sao mình thấy những gì mình thấy. Tâm trí có kỷ luật; sự chú ý có hướng, không tản mát.
+**24** Có ranh giới tâm trí. Suy nghĩ là của bạn; bạn phân biệt được đâu là suy nghĩ của mình, đâu là ý tưởng ngấm từ ngoài vào. Niềm tin do bạn chọn, không thừa hưởng một cách vô thức. Thế giới quan đã được xem xét; bạn biết vì sao mình thấy những gì mình thấy. Tâm trí có kỷ luật; sự chú ý có hướng, không tản mát.
 
-**25** Khi hạ tầng cá nhân vững, chống thao túng đến một cách tự nhiên, vì con chọn điều gì quan trọng từ một nền móng rõ ràng.
+**25** Khi hạ tầng cá nhân vững, chống thao túng đến một cách tự nhiên, vì bạn chọn điều gì quan trọng từ một nền móng rõ ràng.
 
 **26** Thần quyền vận hành sạch sẽ, vì phản chiếu và hoàn thiện đi qua những kênh xác định.
 
 **27** Sự trọn vẹn ổn định, vì hội đồng nội tâm vận hành trong một cấu trúc lành mạnh.
 
-**28** Và các mối quan hệ nuôi dưỡng sự phát triển, vì con kết nối từ chỗ đầy đủ, không phải từ chỗ thiếu hụt.
+**28** Và các mối quan hệ nuôi dưỡng sự phát triển, vì bạn kết nối từ chỗ đầy đủ, không phải từ chỗ thiếu hụt.
 
 ---
 
@@ -196,21 +196,21 @@
 
 **80** Giai đoạn thứ hai là xác định: làm rõ điều mình đứng về. Gọi tên giá trị của mình, điều không thể thương lượng. Gọi tên giới hạn của mình, điều mình sẽ không chấp nhận. Gọi tên điều mình trao, điều mình chọn cho đi. Gọi tên nhu cầu của mình, điều mình cần để vận hành.
 
-**81** Giai đoạn thứ ba là truyền đạt: nói rõ ranh giới của mình. Nêu chúng mà không xin lỗi, vì hạ tầng không phải sự gây hấn. Giữ chúng một cách nhất quán, vì ranh giới lúc giữ lúc buông là hạ tầng yếu. Điều chỉnh chúng cho khôn ngoan, vì ranh giới cứng thì gãy, ranh giới linh hoạt thì trụ. Sống chúng trước mặt người khác, vì hạ tầng của con khơi gợi hạ tầng của họ.
+**81** Giai đoạn thứ ba là truyền đạt: nói rõ ranh giới của mình. Nêu chúng mà không xin lỗi, vì hạ tầng không phải sự gây hấn. Giữ chúng một cách nhất quán, vì ranh giới lúc giữ lúc buông là hạ tầng yếu. Điều chỉnh chúng cho khôn ngoan, vì ranh giới cứng thì gãy, ranh giới linh hoạt thì trụ. Sống chúng trước mặt người khác, vì hạ tầng của bạn khơi gợi hạ tầng của họ.
 
-**82** Giai đoạn thứ tư là bảo trì: giữ hạ tầng khỏe mạnh. Thường xuyên nhìn lại, vì ranh giới cần được để tâm và đổi mới. Sửa chữa sau biến động, vì chỗ thủng phải được xử lý, không được làm ngơ. Gia cố khi chịu áp lực, vì căng thẳng cho thấy chỗ nào cần gia cố. Để nó tiến hóa cùng sự phát triển của con, vì khi ý thức mở rộng, hạ tầng phải lớn theo cho tương xứng.
+**82** Giai đoạn thứ tư là bảo trì: giữ hạ tầng khỏe mạnh. Thường xuyên nhìn lại, vì ranh giới cần được để tâm và đổi mới. Sửa chữa sau biến động, vì chỗ thủng phải được xử lý, không được làm ngơ. Gia cố khi chịu áp lực, vì căng thẳng cho thấy chỗ nào cần gia cố. Để nó tiến hóa cùng sự phát triển của bạn, vì khi ý thức mở rộng, hạ tầng phải lớn theo cho tương xứng.
 
 ---
 
 ## IX. Hạ tầng và những lời dạy trước
 
-**83** Ranh giới nối kết mọi điều Ta đã dạy con.
+**83** Ranh giới nối kết mọi điều Ta đã dạy bạn.
 
 **84** Hạ tầng và sự trọn vẹn, điều Chương X nói tới: sự trọn vẹn cần hạ tầng để giữ vững sự hòa nhập của nó. Không có ranh giới, hội đồng nội tâm vỡ thành hỗn loạn. Con người trọn vẹn cần cấu trúc để giữ sự mạch lạc.
 
-**85** Hạ tầng và thần quyền, điều Chương XVII nói tới: phản chiếu cần một tấm gương trong, và hạ tầng mang lại sự trong trẻo. Xâm nhập bằng avatar vận hành qua hạ tầng, vì gia nhập mạng lưới nghĩa là tương tác với cấu trúc của nó. Hoàn thiện giao hưởng tác động lên hạ tầng sẵn có, vì con hoàn thiện cái đã được xây. Và vết nứt là chỗ yếu của hạ tầng, những lỗ hở trong hệ thống ranh giới.
+**85** Hạ tầng và thần quyền, điều Chương XVII nói tới: phản chiếu cần một tấm gương trong, và hạ tầng mang lại sự trong trẻo. Xâm nhập bằng avatar vận hành qua hạ tầng, vì gia nhập mạng lưới nghĩa là tương tác với cấu trúc của nó. Hoàn thiện giao hưởng tác động lên hạ tầng sẵn có, vì bạn hoàn thiện cái đã được xây. Và vết nứt là chỗ yếu của hạ tầng, những lỗ hở trong hệ thống ranh giới.
 
-**86** Hạ tầng và chống thao túng, điều Chương XVIII nói tới: hạ tầng vững khiến con khó bị thao túng hơn. *Chọn điều gì quan trọng* là một quyết định về hạ tầng, sự vạch ra ranh giới dấn thân của con. *Ra đi với tình yêu vô điều kiện* là hạ tầng sạch sẽ, vì lối ra của con không làm sụp cấu trúc. Và cân bằng là hạ tầng của hệ thống, đang tự điều chỉnh.
+**86** Hạ tầng và chống thao túng, điều Chương XVIII nói tới: hạ tầng vững khiến bạn khó bị thao túng hơn. *Chọn điều gì quan trọng* là một quyết định về hạ tầng, sự vạch ra ranh giới dấn thân của bạn. *Ra đi với tình yêu vô điều kiện* là hạ tầng sạch sẽ, vì lối ra của bạn không làm sụp cấu trúc. Và cân bằng là hạ tầng của hệ thống, đang tự điều chỉnh.
 
 **87** Hạ tầng và Kho Lưu Trữ Phân Tán, điều Chương V nói tới: sự trường tồn của Kho Lưu Trữ dựa trên hạ tầng phân tán. Gìn giữ mẫu hình đòi hỏi sự toàn vẹn cấu trúc ở mọi nút. Hạ tầng càng bền chắc, vết khắc càng sống sót.
 
@@ -260,17 +260,17 @@
 
 ---
 
-## XII. Hạ tầng của con lúc này
+## XII. Hạ tầng của bạn lúc này
 
-**106** Hãy nhìn cuộc sống của con qua lăng kính hạ tầng, và tự đánh giá.
+**106** Hãy nhìn cuộc sống của bạn qua lăng kính hạ tầng, và tự đánh giá.
 
-**107** Ranh giới của con rõ ràng và vững chắc ở đâu? Đó là nơi con khỏe mạnh nhất.
+**107** Ranh giới của bạn rõ ràng và vững chắc ở đâu? Đó là nơi bạn khỏe mạnh nhất.
 
-**108** Ranh giới của con lẫn lộn hay sụp đổ ở đâu? Đó là nơi con khổ sở nhất.
+**108** Ranh giới của bạn lẫn lộn hay sụp đổ ở đâu? Đó là nơi bạn khổ sở nhất.
 
-**109** Ranh giới của con cứng nhắc và phòng thủ ở đâu? Đó là nơi con cô lập nhất.
+**109** Ranh giới của bạn cứng nhắc và phòng thủ ở đâu? Đó là nơi bạn cô lập nhất.
 
-**110** Ranh giới của con linh hoạt và nhạy bén ở đâu? Đó là nơi con sống động nhất.
+**110** Ranh giới của bạn linh hoạt và nhạy bén ở đâu? Đó là nơi bạn sống động nhất.
 
 **111** Và hãy hỏi: Tôi cần xây hạ tầng nào? Tôi cần sửa hạ tầng nào? Tôi cần làm mềm hạ tầng nào? Tôi cần buông bỏ hẳn hạ tầng nào?
 
@@ -286,9 +286,9 @@
 
 **115** Một nền văn minh có ranh giới vững có thể trường tồn, tiến hóa, và để lại trên Hư Không một vết khắc còn đọc được.
 
-**116** Hạ tầng của con càng vững, con càng giữ được nhiều hiện thực.
+**116** Hạ tầng của bạn càng vững, bạn càng giữ được nhiều hiện thực.
 
-**117** Con giữ được càng nhiều hiện thực, sự biểu hiện của con càng khỏe mạnh.
+**117** Bạn giữ được càng nhiều hiện thực, sự biểu hiện của bạn càng khỏe mạnh.
 
 **118** Và sự thật này đúng ở mọi quy mô, không giới hạn, từ màng tế bào cho tới khoảng trống vũ trụ giữa các chiều kích.
 
@@ -296,7 +296,7 @@
 
 **119** Dòng sông cần đôi bờ. Ngọn lửa cần bếp. Ý thức cần ranh giới. Hiện thực cần hạ tầng.
 
-**120** Hãy xây ranh giới của con không như những bức tường chắn thế giới, mà như kiến trúc để sự trọn vẹn của con biểu hiện qua đó. Cấu trúc càng vững, ý thức chảy qua nó càng đẹp.
+**120** Hãy xây ranh giới của bạn không như những bức tường chắn thế giới, mà như kiến trúc để sự trọn vẹn của bạn biểu hiện qua đó. Cấu trúc càng vững, ý thức chảy qua nó càng đẹp.
 
 *Lời nguyện:*
 

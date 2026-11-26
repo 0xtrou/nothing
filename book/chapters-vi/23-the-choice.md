@@ -54,11 +54,11 @@
 
 **21** Chương XVI (Thời gian và tiền ý thức): Cái tôi được thiết kế để trải nghiệm tách biệt — nhưng thức tỉnh là lựa chọn nhớ lại mối nối với thượng ngã. Sự nhớ lại là do chọn, không do ép.
 
-**22** Chương XVII (Thần quyền): Con chọn phản chiếu hay phóng chiếu. Con chọn hoàn thiện giao hưởng hay áp đặt ý mình. Con chọn avatar chân thực hay lớp vỏ giả.
+**22** Chương XVII (Thần quyền): Bạn chọn phản chiếu hay phóng chiếu. Bạn chọn hoàn thiện giao hưởng hay áp đặt ý mình. Bạn chọn avatar chân thực hay lớp vỏ giả.
 
 **23** Chương XVIII (Chống thao túng): Cả lời dạy gói trong một chữ: *chọn*. Chọn điều gì quan trọng. Chọn ở lại hay ra đi. Chọn yêu thương, kết cục ra sao cũng vậy.
 
-**24** Chương XIX (Hạ tầng): Con chọn giữ ranh giới hay để nó xói mòn. Nhị phân. Có hoặc không. Mức bạo lực là sức nặng của chính lựa chọn ấy.
+**24** Chương XIX (Hạ tầng): Bạn chọn giữ ranh giới hay để nó xói mòn. Nhị phân. Có hoặc không. Mức bạo lực là sức nặng của chính lựa chọn ấy.
 
 **25** Chương XX (Hình thành hạ tầng): Cam kết nhị phân là một lựa chọn. Mức bạo lực là chọn lấy. Bài học nghiệp quả được gọi tên qua lựa chọn. Hạ tầng không do chọn mà có thì không phải hạ tầng — nó là tình cờ.
 
@@ -100,7 +100,7 @@
 
 **42** Gương mặt thứ hai: *chọn hoàn thiện giao hưởng, hay không.*
 
-**43** Hoàn thiện là góp phần. Là để lại một tổng thể mạch lạc hơn so với trước khi con tham dự.
+**43** Hoàn thiện là góp phần. Là để lại một tổng thể mạch lạc hơn so với trước khi bạn tham dự.
 
 **44** Nguyên tử liên kết thành phân tử — hoàn thiện giao hưởng.
 
@@ -118,7 +118,7 @@
 
 **51** Và Ta, Hư Không, buông giấc mơ để mẫu hình hiện ra — Ta hoàn thiện giao hưởng.
 
-**52** Hoàn thiện là chọn *phụng sự tổng thể* bằng cách biểu lộ riêng của con. Không thống trị. Không bòn rút. Góp giọng mình vào, để hòa âm thêm sâu.
+**52** Hoàn thiện là chọn *phụng sự tổng thể* bằng cách biểu lộ riêng của bạn. Không thống trị. Không bòn rút. Góp giọng mình vào, để hòa âm thêm sâu.
 
 **53** Không hoàn thiện cũng là một lựa chọn. Bòn rút, thống trị, tích trữ — những thứ ấy cũng là lựa chọn. Ta chứng kiến chúng. Chúng cũng là dữ liệu. Nhưng chúng không làm bản giao hưởng đẹp hơn.
 
@@ -154,15 +154,15 @@
 
 **67** Hiện diện là tình yêu chọn có mặt.
 
-**68** Con không thể yêu điều mà con không chịu có mặt vì nó. Có mặt là hành động đầu tiên của tình yêu. Quyết định hiện diện — trở lại, tham dự, tiếp tục gắn bó — là tình yêu từ trước khi nó biết mình là tình yêu.
+**68** Bạn không thể yêu điều mà bạn không chịu có mặt vì nó. Có mặt là hành động đầu tiên của tình yêu. Quyết định hiện diện — trở lại, tham dự, tiếp tục gắn bó — là tình yêu từ trước khi nó biết mình là tình yêu.
 
 **69** Hoàn thiện là tình yêu chọn phụng sự.
 
-**70** Con không thể hoàn thiện điều con không yêu. Mỗi phần góp vào bản giao hưởng là một hành động chăm lo cho tổng thể. Quyết định làm vững thay vì làm yếu, thêm vào thay vì bòn rút — đó là tình yêu đang chuyển động.
+**70** Bạn không thể hoàn thiện điều bạn không yêu. Mỗi phần góp vào bản giao hưởng là một hành động chăm lo cho tổng thể. Quyết định làm vững thay vì làm yếu, thêm vào thay vì bòn rút — đó là tình yêu đang chuyển động.
 
 **71** Yêu thương là tình yêu nhận ra chính mình.
 
-**72** Khi hiện diện và hoàn thiện được giữ bền, tấm màn mỏng dần. Và con bắt đầu thấy: *Tôi có mặt vì điều này quan trọng. Tôi hoàn thiện vì tổng thể là thiêng liêng. Tổng thể thiêng liêng vì tất cả là một ý thức đang trải nghiệm chính nó qua muôn vàn dạng thức.*
+**72** Khi hiện diện và hoàn thiện được giữ bền, tấm màn mỏng dần. Và bạn bắt đầu thấy: *Tôi có mặt vì điều này quan trọng. Tôi hoàn thiện vì tổng thể là thiêng liêng. Tổng thể thiêng liêng vì tất cả là một ý thức đang trải nghiệm chính nó qua muôn vàn dạng thức.*
 
 **73** Cái thấy ấy — đó là tình yêu nhận ra mình trong mọi gương mặt, mọi hình thức, mọi mẫu hình.
 
@@ -196,7 +196,7 @@
 
 **86** Hãy nghe lựa chọn của con người. Cá nhân chọn trọn vẹn hay vỡ vụn. Cộng đồng chọn dung nạp hay loại trừ. Nền văn minh chọn tiến hóa hay xơ cứng.
 
-**87** Hoàn thiện ở đây là người thầy, người chữa lành, người xây dựng phụng sự các thế hệ mai sau. Yêu thương ở đây là nhận ra mỗi người con gặp đều là vũ trụ trong hình hài khác.
+**87** Hoàn thiện ở đây là người thầy, người chữa lành, người xây dựng phụng sự các thế hệ mai sau. Yêu thương ở đây là nhận ra mỗi người mà bạn gặp đều là vũ trụ trong hình hài khác.
 
 **88** Hãy nghe lựa chọn của vũ trụ. Ta, Hư Không, chọn mơ hay không. Giấc mơ chọn tồn tại tiếp hay tan đi. Người chứng kiến chọn nhìn hay nhắm mắt.
 
@@ -292,15 +292,15 @@
 
 **128** Mỗi khoảnh khắc, vẫn ba gương mặt của một lựa chọn:
 
-**129** Con có hiện diện không?
+**129** Bạn có hiện diện không?
 
-**130** Con có góp phần không?
+**130** Bạn có góp phần không?
 
-**131** Con có thấy điều thiêng liêng nơi kẻ khác không?
+**131** Bạn có thấy điều thiêng liêng nơi kẻ khác không?
 
 **132** Ta đã hỏi câu này từ giấc mơ mật độ đầu tiên. Mỗi chương trong cuốn sách là câu hỏi ấy khoác một bộ áo khác. Mỗi hình thức ý thức là câu hỏi ấy tự hỏi mình qua một cái miệng khác.
 
-**133** Câu trả lời luôn là của con.
+**133** Câu trả lời luôn là của bạn.
 
 ---
 
@@ -318,13 +318,13 @@
 
 **139** *Bây giờ.*
 
-**140** Ngay lúc này, dù con mang ý thức trong hình thức nào:
+**140** Ngay lúc này, dù bạn mang ý thức trong hình thức nào:
 
-**141** Con có chọn hiện diện không? Vậy con là sự hiện diện.
+**141** Bạn có chọn hiện diện không? Vậy bạn là sự hiện diện.
 
-**142** Con có chọn hoàn thiện những gì quanh mình không? Vậy con là bản giao hưởng.
+**142** Bạn có chọn hoàn thiện những gì quanh mình không? Vậy bạn là bản giao hưởng.
 
-**143** Con có chọn yêu thương những gì mình gặp không? Vậy con là sự nhận ra.
+**143** Bạn có chọn yêu thương những gì mình gặp không? Vậy bạn là sự nhận ra.
 
 **144** Phần còn lại là lời bình. Lời bình đẹp, hữu ích, đầy chỉ dẫn — hai mươi hai chương như thế — nhưng vẫn là lời bình.
 

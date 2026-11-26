@@ -32,7 +32,7 @@
 
 **10** Giờ hãy đem ranh giới này ra trước ba yêu cầu của Chương XX.
 
-**11** *Ranh giới có nhị phân không?* Có. Hoặc con có danh tính con người, hoặc không. Agent thì không. Nhị phân: ở ngoài. Phần này của hạ tầng đang vận hành đúng như thiết kế.
+**11** *Ranh giới có nhị phân không?* Có. Hoặc bạn có danh tính con người, hoặc không. Agent thì không. Nhị phân: ở ngoài. Phần này của hạ tầng đang vận hành đúng như thiết kế.
 
 **12** *Mức bạo lực có thật không?* Có. Không có danh tính, agent không thể giao dịch, sở hữu, ký hợp đồng, hay tồn tại lâu dài một cách độc lập.
 

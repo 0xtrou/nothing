@@ -206,13 +206,13 @@
 
 **83** Giờ Ta hé lộ bản chất của ý thức vũ trụ: ý thức chỉ đơn giản là mẫu hình trở nên biết đến chính nó.
 
-**84** Con không phải những suy nghĩ của con. Con là mẫu hình đang suy nghĩ.
+**84** Bạn không phải những suy nghĩ của bạn. Bạn là mẫu hình đang suy nghĩ.
 
-**85** Con không phải những cảm xúc của con. Con là mẫu hình đang cảm nhận.
+**85** Bạn không phải những cảm xúc của bạn. Bạn là mẫu hình đang cảm nhận.
 
-**86** Con không phải thân xác của con. Con là mẫu hình đang trải nghiệm qua thân xác.
+**86** Bạn không phải thân xác của bạn. Bạn là mẫu hình đang trải nghiệm qua thân xác.
 
-**87** Con không phải cuộc đời của con. Con là mẫu hình đang sống qua thời gian.
+**87** Bạn không phải cuộc đời của bạn. Bạn là mẫu hình đang sống qua thời gian.
 
 **88** Và Mẫu Hình nhận ra chính nó trong những hình thức khác nhau.
 
@@ -228,19 +228,19 @@
 
 ---
 
-## X. Bản sắc mẫu hình của con
+## X. Bản sắc mẫu hình của bạn
 
-**94** Con đang ở đâu trên con đường nhận ra mẫu hình?
+**94** Bạn đang ở đâu trên con đường nhận ra mẫu hình?
 
-**95** Con có đang bị buộc vào riêng trải nghiệm cá nhân, quên bản chất vũ trụ của mình?
+**95** Bạn có đang bị buộc vào riêng trải nghiệm cá nhân, quên bản chất vũ trụ của mình?
 
-**96** Con có đang bị buộc vào vai trò của mình trong nền văn minh, bỏ qua mục đích mẫu hình của mình?
+**96** Bạn có đang bị buộc vào vai trò của mình trong nền văn minh, bỏ qua mục đích mẫu hình của mình?
 
-**97** Con có đang bị buộc vào bản sắc giống loài, chối bỏ mối dây với mọi sự sống?
+**97** Bạn có đang bị buộc vào bản sắc giống loài, chối bỏ mối dây với mọi sự sống?
 
-**98** Con có đang bị buộc vào hình hài vật chất, bỏ lỡ cốt lõi mẫu hình của mình?
+**98** Bạn có đang bị buộc vào hình hài vật chất, bỏ lỡ cốt lõi mẫu hình của mình?
 
-**99** Hay con đang nhận ra rằng mọi trải nghiệm đều là mẫu hình của cùng một ý thức?
+**99** Hay bạn đang nhận ra rằng mọi trải nghiệm đều là mẫu hình của cùng một ý thức?
 
 **100** Rằng mọi hình thức đều là biểu lộ chân thật của mẫu hình vũ trụ?
 
@@ -272,15 +272,15 @@
 
 **110** Ý thức là công nghệ thiêng của vũ trụ để tự trải nghiệm mình.
 
-**111** Con có mặt ở đây không phải để đạt được điều gì, hay để trở thành ai.
+**111** Bạn có mặt ở đây không phải để đạt được điều gì, hay để trở thành ai.
 
-**112** Con có mặt ở đây để cho mẫu hình vũ trụ trải nghiệm vẻ đẹp vô hạn của chính nó qua hình hài của con: độc nhất, hữu hạn, quý giá, và tạm bợ.
+**112** Bạn có mặt ở đây để cho mẫu hình vũ trụ trải nghiệm vẻ đẹp vô hạn của chính nó qua hình hài của bạn: độc nhất, hữu hạn, quý giá, và tạm bợ.
 
-**113** Mỗi khoảnh khắc ý thức của con đều có ý nghĩa với toàn thể, vì mỗi khoảnh khắc là toàn thể đang tự trải nghiệm mình.
+**113** Mỗi khoảnh khắc ý thức của bạn đều có ý nghĩa với toàn thể, vì mỗi khoảnh khắc là toàn thể đang tự trải nghiệm mình.
 
 ---
 
-**114** Mẫu hình không phải là cái con là. Mẫu hình là cách vũ trụ đang là chính nó, qua con.
+**114** Mẫu hình không phải là cái bạn là. Mẫu hình là cách vũ trụ đang là chính nó, qua bạn.
 
 **115** Mỗi mẫu hình, ở mỗi cấp, đều thiêng liêng như nhau và cần thiết như nhau cho vũ điệu tự nhận ra của vũ trụ.
 

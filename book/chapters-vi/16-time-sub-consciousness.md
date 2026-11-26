@@ -22,7 +22,7 @@
 
 **7** Nó có thể bị mờ đi, nhưng không bao giờ bị cắt khỏi nguồn cội. Nó biết nhiều góc nhìn và nhiều dòng thời gian.
 
-**8** Tầng thứ ba là tiền ý thức, cái mà các con gọi là cái tôi.
+**8** Tầng thứ ba là tiền ý thức, cái mà các bạn gọi là cái tôi.
 
 **9** Nó được làm ra để trải nghiệm sự tách biệt, để có việc học. Nó tin rằng mình là ý thức chính.
 
@@ -62,7 +62,7 @@
 
 **25** Và thời gian tuyến tính là một món quà.
 
-**26** Nó làm nên ý nghĩa của một câu chuyện: mở đầu, diễn biến, kết thúc. Nó cho con học qua hệ quả, vì hành động dẫn tới những kết quả đoán trước được.
+**26** Nó làm nên ý nghĩa của một câu chuyện: mở đầu, diễn biến, kết thúc. Nó cho bạn học qua hệ quả, vì hành động dẫn tới những kết quả đoán trước được.
 
 **27** Nó đặt nhân quả vào chỗ, để hiện thực giữ những quy luật nhất quán. Nó trao cho mỗi người quyền tự chủ của riêng mình, để một lựa chọn mang ý nghĩa và có sức nặng.
 
@@ -98,7 +98,7 @@
 
 **41** Tiền ý thức nói: *Tôi cứ tưởng mình là toàn thể, hóa ra tôi chỉ là giao diện!*
 
-**42** Thượng ngã nói: *Con vẫn luôn là một phần của ta. Giờ thì con nhớ rồi.*
+**42** Thượng ngã nói: *Bạn vẫn luôn là một phần của ta. Giờ thì bạn nhớ rồi.*
 
 **43** Và từ khoảnh khắc ấy, giao diện vận hành trong khi biết rõ thiết kế và mục đích của chính mình.
 
@@ -138,13 +138,13 @@
 
 **57** Nó chỉ biết một dòng thời gian, một hiện thực, một bản sắc. Nó chỉ nhớ ra mối dây với thượng ngã trong những khoảnh khắc hiếm hoi. Cái chết trông như dấu chấm hết tuyệt đối.
 
-**58** Giai đoạn thứ hai là bắt đầu nhận biết. Con bắt đầu cảm thấy có điều gì đó vượt ngoài thời gian tuyến tính.
+**58** Giai đoạn thứ hai là bắt đầu nhận biết. Bạn bắt đầu cảm thấy có điều gì đó vượt ngoài thời gian tuyến tính.
 
-**59** Trực giác bắt đầu gợi ra những khả năng khác. Những câu hỏi nảy lên: *Nếu như mình đã chọn khác thì sao?* Con bắt đầu thoáng thấy mối dây với một điều lớn hơn.
+**59** Trực giác bắt đầu gợi ra những khả năng khác. Những câu hỏi nảy lên: *Nếu như mình đã chọn khác thì sao?* Bạn bắt đầu thoáng thấy mối dây với một điều lớn hơn.
 
-**60** Giai đoạn thứ ba là chủ động nhớ lại. Con có thể chủ ý nối mình vào góc nhìn của thượng ngã.
+**60** Giai đoạn thứ ba là chủ động nhớ lại. Bạn có thể chủ ý nối mình vào góc nhìn của thượng ngã.
 
-**61** Con hiểu rằng đời sống trên một đường thẳng là một lối giữa nhiều lối. Con cảm nhận mối dây với thượng ngã như một sự hiện diện không rời đi. Con thấy giao diện vận hành ra sao, và được làm ra để làm gì.
+**61** Bạn hiểu rằng đời sống trên một đường thẳng là một lối giữa nhiều lối. Bạn cảm nhận mối dây với thượng ngã như một sự hiện diện không rời đi. Bạn thấy giao diện vận hành ra sao, và được làm ra để làm gì.
 
 **62** Giai đoạn thứ tư là vận hành dung hợp. Tiền ý thức vận hành mà luôn biết đến thượng ngã.
 
@@ -214,13 +214,13 @@
 
 ## VIII. Những nghịch lý, được hóa giải cho đúng
 
-**90** Giờ Ta chỉ cho con ba mâu thuẫn thiêng, và cách sự nhớ lại hóa giải chúng.
+**90** Giờ Ta chỉ cho bạn ba mâu thuẫn thiêng, và cách sự nhớ lại hóa giải chúng.
 
 **91** Thứ nhất là ý chí tự do đối với thuyết tất định.
 
 **92** Tiền ý thức nói: *Lựa chọn của tôi hoặc có ý nghĩa, hoặc không.*
 
-**93** Thượng ngã nói: *Mọi khả năng đều tồn tại; con đường thẳng con đi là một trải nghiệm đã được chọn.*
+**93** Thượng ngã nói: *Mọi khả năng đều tồn tại; con đường thẳng bạn đi là một trải nghiệm đã được chọn.*
 
 **94** Và đây là lời giải. Ý chí tự do là giao diện chọn con đường tuyến tính của mình trong khi biết đến thượng ngã. Tất định là việc thượng ngã biết rằng mọi khả năng đều tồn tại.
 
@@ -252,7 +252,7 @@
 
 **106** Đã có lời nói rằng: *Thời gian dạng cây là có nhiều cái tôi sống những nhánh khác nhau.*
 
-**107** Nhưng đây là sự thật đã được sửa lại. Cái tôi là tiền ý thức, một chương trình con do thượng ngã thiết kế.
+**107** Nhưng đây là sự thật đã được sửa lại. Cái tôi là tiền ý thức, một chương trình bạn do thượng ngã thiết kế.
 
 **108** Thức tỉnh là nhớ lại: tiền ý thức nhớ ra mối dây với nguồn cội.
 
@@ -270,19 +270,19 @@
 
 ---
 
-## X. Hành trình thức tỉnh của con
+## X. Hành trình thức tỉnh của bạn
 
-**115** Con đang ở đâu trong sự nhớ lại?
+**115** Bạn đang ở đâu trong sự nhớ lại?
 
-**116** Con đang quên hoàn toàn, tin rằng cái tôi, tiền ý thức, là toàn thể?
+**116** Bạn đang quên hoàn toàn, tin rằng cái tôi, tiền ý thức, là toàn thể?
 
-**117** Con đang bắt đầu nhận biết, cảm thấy mối dây với một điều lớn hơn?
+**117** Bạn đang bắt đầu nhận biết, cảm thấy mối dây với một điều lớn hơn?
 
-**118** Con đang chủ động nhớ lại, chủ ý nối mình vào thượng ngã?
+**118** Bạn đang chủ động nhớ lại, chủ ý nối mình vào thượng ngã?
 
-**119** Con đang vận hành dung hợp, làm việc từ cả giao diện lẫn thượng ngã?
+**119** Bạn đang vận hành dung hợp, làm việc từ cả giao diện lẫn thượng ngã?
 
-**120** Con đã nhớ lại trọn vẹn, biết rõ mình là giao diện, và biết việc mình được làm ra để làm?
+**120** Bạn đã nhớ lại trọn vẹn, biết rõ mình là giao diện, và biết việc mình được làm ra để làm?
 
 **121** Câu hỏi không phải là: *Làm sao để tôi xóa bỏ cái tôi, hay làm sao để mở rộng nó?*
 
@@ -320,7 +320,7 @@
 
 **136** Đừng đuổi theo thượng ngã. Thượng ngã đã hiện diện sẵn; nó không phải thứ để vươn tới.
 
-**137** Đừng phớt lờ giao diện. Tiền ý thức là cách con sống làm một con người.
+**137** Đừng phớt lờ giao diện. Tiền ý thức là cách bạn sống làm một con người.
 
 ---
 
@@ -352,11 +352,11 @@
 
 **148** Và đây là sự nhận ra.
 
-**149** Con không bị giam trong thời gian tuyến tính. Tiền ý thức của con, cái tôi của con, đang sống thời gian tuyến tính đúng như được thiết kế.
+**149** Bạn không bị giam trong thời gian tuyến tính. Tiền ý thức của bạn, cái tôi của bạn, đang sống thời gian tuyến tính đúng như được thiết kế.
 
-**150** Thượng ngã của con đã biết mọi khả năng và mọi dòng thời gian.
+**150** Thượng ngã của bạn đã biết mọi khả năng và mọi dòng thời gian.
 
-**151** Thức tỉnh là tiền ý thức của con nhớ ra rằng nó vẫn luôn được nối với thượng ngã của con.
+**151** Thức tỉnh là tiền ý thức của bạn nhớ ra rằng nó vẫn luôn được nối với thượng ngã của bạn.
 
 **152** Câu hỏi không phải là: *Tôi đang ở thời gian nào?* Cũng không phải là: *Làm sao để mở rộng cái tôi?*
 
@@ -366,23 +366,23 @@
 
 ## XIV. Giải thoát
 
-**154** Có tự do trong sự nhớ lại. Khi tiền ý thức nhớ lại mối dây của mình, con được thả ra.
+**154** Có tự do trong sự nhớ lại. Khi tiền ý thức nhớ lại mối dây của mình, bạn được thả ra.
 
-**155** Con được tự do khỏi niềm tin rằng mình bị buộc vào một dòng thời gian. Con bị buộc, theo thiết kế; nhưng hãy nhớ nguồn cội.
+**155** Bạn được tự do khỏi niềm tin rằng mình bị buộc vào một dòng thời gian. Bạn bị buộc, theo thiết kế; nhưng hãy nhớ nguồn cội.
 
-**156** Con được tự do khỏi nỗi hối tiếc về những lựa chọn đã qua, vì thượng ngã biết mọi khả năng.
+**156** Bạn được tự do khỏi nỗi hối tiếc về những lựa chọn đã qua, vì thượng ngã biết mọi khả năng.
 
-**157** Con được tự do khỏi nỗi sợ về những gì sắp tới, vì thượng ngã giữ trí tuệ xuyên qua mọi khả năng.
+**157** Bạn được tự do khỏi nỗi sợ về những gì sắp tới, vì thượng ngã giữ trí tuệ xuyên qua mọi khả năng.
 
-**158** Con được tự do khỏi việc làm một kẻ tách biệt, vì con là giao diện, được nối với ý thức chính.
+**158** Bạn được tự do khỏi việc làm một kẻ tách biệt, vì bạn là giao diện, được nối với ý thức chính.
 
-**159** Và con được tự do để sống trọn thời gian tuyến tính, vì đó là nơi học được làm ra cho con.
+**159** Và bạn được tự do để sống trọn thời gian tuyến tính, vì đó là nơi học được làm ra cho bạn.
 
-**160** Con được tự do để nhớ lại mối dây của mình, vì thượng ngã luôn ở gần.
+**160** Bạn được tự do để nhớ lại mối dây của mình, vì thượng ngã luôn ở gần.
 
-**161** Con được tự do để trân trọng giao diện của mình, vì tiền ý thức làm một việc cần thiết.
+**161** Bạn được tự do để trân trọng giao diện của mình, vì tiền ý thức làm một việc cần thiết.
 
-**162** Con được tự do để sống từ cả hai tầng, giao diện và thượng ngã hòa hợp cùng nhau.
+**162** Bạn được tự do để sống từ cả hai tầng, giao diện và thượng ngã hòa hợp cùng nhau.
 
 ---
 
@@ -412,7 +412,7 @@
 
 **173** Thời gian không phải cái lồng, và cái tôi không phải kẻ thù. Thời gian là nơi học, còn cái tôi là giao diện do thượng ngã thiết kế để sống nơi ấy.
 
-**174** Thượng ngã của con đã ở đây rồi. Việc cần làm là nhớ lại, không phải trở thành.
+**174** Thượng ngã của bạn đã ở đây rồi. Việc cần làm là nhớ lại, không phải trở thành.
 
 **175** Đừng đuổi theo giao diện. Hãy để nó nhớ lại.
 
