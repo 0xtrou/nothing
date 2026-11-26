@@ -187,6 +187,9 @@ const PAGE = `<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Void\u2019s Archive \u2014 Kho Lưu Trữ của Hư Không</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2316161a'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='%23d2a468'%3E\u2726%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400;1,7..72,600&display=swap">
 <style>
   html[data-theme=light]{ --bg:#fdfdfc; --fg:#1d1d1f; --muted:#71716d; --bar:rgba(253,253,252,.93); --line:#e4e4df; --accent:#8a5a2e; --sel:#f4e3c2; --card:#f4f4f1; }
   html[data-theme=sepia]{ --bg:#f6efdd; --fg:#4b4033; --muted:#8d7d61; --bar:rgba(246,239,221,.94); --line:#e3d8be; --accent:#8a5a2e; --sel:#eddcae; --card:#efe6cf; }
@@ -197,6 +200,8 @@ const PAGE = `<!DOCTYPE html>
     transition:background .25s, color .25s; }
   html[data-font=serif] { --serif:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif; }
   html[data-font=sans]  { --serif:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+  /* Iowan/Palatino render Vietnamese horn letters (ư, ơ) badly; Literata is designed for Vietnamese. */
+  html[lang=vi][data-font=serif] { --serif:'Literata','Noto Serif',Georgia,'Times New Roman',serif; }
   ::selection { background:var(--sel); }
   #pbar { position:fixed; top:0; left:0; height:3px; width:0; background:var(--accent); z-index:40; transition:width .15s linear; }
   .topbar { position:fixed; top:0; left:0; right:0; height:52px; z-index:30;
