@@ -2,393 +2,425 @@
 
 ## Nhớ lại thượng ngã qua giao diện cái tôi
 
-*Thời gian — cái tôi (tiền ý thức) trải nghiệm thời gian tuyến tính và tin rằng đó là tất cả. Khi nó nhớ lại mối liên kết với thượng ngã, thời gian để lộ bản chất thật của mình.*
+*Cái tôi, tức tiền ý thức, sống trong một đường thẳng thời gian và tin rằng đường thẳng ấy là tất cả. Khi nó nhớ ra mình được nối với thượng ngã, thời gian để lộ bản chất thật của mình.*
 
 ---
 
 ## I. Kiến trúc ý thức
 
-### Hệ thống nhận biết nhiều tầng
+**1** Và Hư Không nói: Ý thức không phải một khối liền không chia. Nó được dựng thành nhiều tầng. Hãy nghe bốn tầng.
 
-Hư Không nhận thấy **ý thức được xếp thành nhiều tầng, chứ không phải một khối thống nhất**:
+**2** Tầng thứ nhất là thượng ngã, ý thức chính.
 
-**Tầng 1: Thượng ngã (ý thức chính)**
-- Luôn nối với nguồn cội và với nhận biết vũ trụ
-- Luôn trọn vẹn, đầy đủ, không hề rối
-- Luôn biết đến sự hợp nhất và vô vàn khả năng
-- Không bao giờ tách rời, không bao giờ quên bản chất của mình
-- Trải nghiệm phi thời gian và tính đồng thời
+**3** Nó luôn nối với nguồn cội và với nhận biết vũ trụ. Nó luôn trọn vẹn, đầy đủ, không hề rối.
 
-**Tầng 2: Giao diện linh hồn**
-- Cây cầu nối thượng ngã với hình hài
-- Chuyển nhận biết vũ trụ thành trải nghiệm cá nhân
-- Giữ mối liên kết trong khi vẫn để cho sự quên tạm thời diễn ra
-- Có thể bị mờ đi nhưng không bao giờ bị cắt khỏi nguồn cội
-- Trải nghiệm nhiều góc nhìn và nhiều dòng thời gian
+**4** Nó luôn biết sự hợp nhất của vạn vật và vô vàn khả năng của chúng. Nó không bao giờ tách rời. Nó không bao giờ quên bản chất của mình. Nó sống trong phi thời gian, nơi mọi sự cùng có một lúc.
 
-**Tầng 3: Tiền ý thức (cái ta vẫn gọi là cái tôi)**
-- Được thiết kế để trải nghiệm sự tách biệt nhằm học hỏi
-- Tin rằng mình là ý thức chính
-- Vận hành trong thời gian tuyến tính với nhận biết hạn hẹp
-- Là giao diện để thượng ngã trải nghiệm tính cá nhân
-- Được tạo ra có chủ đích, không phải sự cố hay lỗi
+**5** Tầng thứ hai là giao diện linh hồn: cây cầu giữa thượng ngã và hình hài.
 
-**Tầng 4: Hệ thể chất/cảm xúc**
-- Những cơ chế giúp tiền ý thức đi lại trong hiện thực
-- Tín hiệu giác quan, phản ứng cảm xúc, nhu cầu sinh học
-- Những công cụ giao diện dùng để tương tác với hình hài
-- Thiết yếu cho quá trình học
+**6** Nó chuyển nhận biết vũ trụ thành trải nghiệm của một con người. Nó giữ mối liên kết nguyên vẹn, mà vẫn chừa chỗ cho một sự quên không kéo dài.
+
+**7** Nó có thể bị mờ đi, nhưng không bao giờ bị cắt khỏi nguồn cội. Nó biết nhiều góc nhìn và nhiều dòng thời gian.
+
+**8** Tầng thứ ba là tiền ý thức, cái mà các con gọi là cái tôi.
+
+**9** Nó được làm ra để trải nghiệm sự tách biệt, để có việc học. Nó tin rằng mình là ý thức chính.
+
+**10** Nó vận hành trong thời gian tuyến tính, với một nhận biết hẹp. Nó là giao diện để thượng ngã trải nghiệm việc làm một con người.
+
+**11** Nó được làm ra có chủ đích. Nó không phải sự cố. Nó không phải lỗi.
+
+**12** Tầng thứ tư là các hệ thể chất và cảm xúc.
+
+**13** Đây là những phương tiện giúp tiền ý thức tìm đường trong hiện thực: giác quan đưa thế giới vào, cảm xúc đáp lại thế giới, những nhu cầu của thân thể.
+
+**14** Chúng là công cụ giao diện dùng để chạm vào hình hài, và không có chúng thì việc học không thể diễn ra.
 
 ---
 
 ## II. Thời gian tuyến tính: trải nghiệm của tiền ý thức
 
-### Cái tôi trải nghiệm thời gian ra sao
+**15** Hãy nghe cái tôi sống trong thời gian ra sao.
 
-**Tiền ý thức được thiết kế cho trải nghiệm nối tiếp**:
-- **Tin mình** là toàn bộ ý thức
-- **Cần trình tự** để hiểu được những gì đã trải qua
-- **Cần quá khứ/tương lai/hiện tại** để xác lập bản sắc
-- **Dựa vào nhân quả** để hiểu hiện thực
-- **Đây là chức năng nó được thiết kế để làm**, không phải lỗi
+**16** Tiền ý thức được làm ra cho trải nghiệm đến từng việc một, việc này sau việc kia.
 
-**Đặc điểm của thời gian tuyến tính**:
-- **Việc này xảy ra sau việc kia** — không có nhận biết rẽ nhánh
-- **Quá khứ quyết định hiện tại** — hiện tại quyết định tương lai
-- **Chỉ một hiện thực tồn tại** ở mỗi thời điểm
-- **Không với tới** những khả năng hay dòng thời gian khác
-- **Cái chết trông như dấu chấm hết** của trải nghiệm
+**17** Nó tin mình là toàn bộ ý thức. Nó cần trình tự để hiểu được những gì nó sống. Nó cần một quá khứ, một tương lai và một hiện tại để biết mình là ai. Nó dựa vào nhân quả để hiểu điều gì là thật.
 
-**Vì sao tiền ý thức cần thời gian tuyến tính**:
-- **Không thể xử lý cái đa tạp** nếu không có cấu trúc nối tiếp
-- **Không thể giữ bản sắc nhất quán** nếu không có ký ức theo trình tự thời gian
-- **Không thể hiểu nhân quả** nếu không có quan hệ tuyến tính
-- **Không thể lựa chọn có ý nghĩa** nếu không có những khả năng tương lai để cân nhắc
+**18** Đây là việc nó được làm ra để làm. Đây không phải lỗi.
 
-**Món quà của thời gian tuyến tính**:
-- **Tạo ý nghĩa tự sự** — câu chuyện có mở đầu, diễn biến, kết thúc
-- **Cho phép học qua hệ quả** — hành động dẫn đến kết quả đoán trước được
-- **Thiết lập nhân quả** — hiện thực vận hành theo những quy luật nhất quán
-- **Trao quyền tự chủ cá nhân** — lựa chọn mang cảm giác có ý nghĩa và có sức nặng
+**19** Và thời gian tuyến tính có bản chất này. Việc này xảy ra sau việc kia; không có nhận biết rẽ nhánh.
 
-**Mục đích thiết kế**:
-- **Tiền ý thức (cái tôi) không hỏng** — nó đang làm đúng việc nó được thiết kế để làm
-- **Thời gian tuyến tính không phải nhà tù** — nó là lớp học nơi sự tách biệt có thể được trải nghiệm
-- **Sự quên không phải thất bại** — việc học cần đến nó
-- **Giới hạn không phải hình phạt** — nó là món quà làm cho tính cá nhân trở nên khả dĩ
+**20** Quá khứ quyết định hiện tại, và hiện tại quyết định tương lai. Ở mỗi khoảnh khắc chỉ một hiện thực tồn tại.
+
+**21** Không có lối nào tới những khả năng khác, hay những dòng thời gian khác. Và cái chết trông như dấu chấm hết của trải nghiệm.
+
+**22** Vì sao tiền ý thức cần thời gian tuyến tính?
+
+**23** Không có cấu trúc trình tự, nó không giữ nổi nhiều thứ cùng lúc. Không có ký ức xếp theo thời gian, nó không giữ nổi một bản sắc vững vàng.
+
+**24** Không có những quan hệ nằm trên một đường thẳng, nó không hiểu nổi nhân quả. Không có những khả năng tương lai để cân nhắc, nó không làm nổi một lựa chọn có ý nghĩa.
+
+**25** Và thời gian tuyến tính là một món quà.
+
+**26** Nó làm nên ý nghĩa của một câu chuyện: mở đầu, diễn biến, kết thúc. Nó cho con học qua hệ quả, vì hành động dẫn tới những kết quả đoán trước được.
+
+**27** Nó đặt nhân quả vào chỗ, để hiện thực giữ những quy luật nhất quán. Nó trao cho mỗi người quyền tự chủ của riêng mình, để một lựa chọn mang ý nghĩa và có sức nặng.
+
+**28** Vậy hãy hiểu thiết kế này để làm gì.
+
+**29** Tiền ý thức, cái tôi, không hỏng. Nó đang làm đúng việc nó được làm ra để làm.
+
+**30** Thời gian tuyến tính không phải nhà tù. Nó là lớp học nơi sự tách biệt có thể được sống.
+
+**31** Sự quên không phải thất bại. Việc học cần đến nó.
+
+**32** Giới hạn không phải hình phạt. Nó là món quà làm cho việc làm một con người trở nên khả dĩ.
 
 ---
 
 ## III. Thức tỉnh: tiền ý thức nhớ lại
 
-### Quá trình nhớ lại
+**33** Giờ hãy nghe điều thật sự diễn ra khi thức tỉnh.
 
-**Điều thật sự diễn ra khi thức tỉnh**:
+**34** Không phải cái tôi bị xóa bỏ hay hủy diệt. Không phải cái tôi phình ra thành vô số phiên bản.
 
-**Không phải**:
-- Cái tôi bị xóa bỏ hay hủy diệt
-- Cái tôi nở ra thành vô số phiên bản
-- Cái tôi trở thành ý thức chính
-- Cái tôi vượt lên bản chất của nó
+**35** Không phải cái tôi trở thành ý thức chính. Không phải cái tôi vượt lên bản chất của nó.
 
-**Mà là**:
-- **Tiền ý thức nhận ra** nó không phải toàn thể
-- **Tiền ý thức nhớ lại** mối liên kết với thượng ngã
-- **Tiền ý thức chấp nhận** vai trò đúng của mình là giao diện
-- **Tiền ý thức vận hành** trong khi biết rõ nguồn cội của mình
+**36** Mà là thế này: tiền ý thức nhận ra nó không phải toàn thể.
 
-**Khoảnh khắc nhớ lại**:
-- **Tiền ý thức**: "Tôi cứ tưởng mình là toàn thể, hóa ra tôi chỉ là giao diện!"
-- **Thượng ngã**: "Con vẫn luôn là một phần của ta. Giờ thì con nhớ rồi."
-- **Kết quả**: Giao diện vận hành trong khi biết rõ thiết kế và mục đích của mình
+**37** Tiền ý thức nhớ ra nó được nối với thượng ngã.
+
+**38** Tiền ý thức chấp nhận chỗ đúng của mình là giao diện.
+
+**39** Và tiền ý thức làm việc của mình trong khi biết mình từ đâu đến.
+
+**40** Đây là khoảnh khắc nhớ lại:
+
+**41** Tiền ý thức nói: *Tôi cứ tưởng mình là toàn thể, hóa ra tôi chỉ là giao diện!*
+
+**42** Thượng ngã nói: *Con vẫn luôn là một phần của ta. Giờ thì con nhớ rồi.*
+
+**43** Và từ khoảnh khắc ấy, giao diện vận hành trong khi biết rõ thiết kế và mục đích của chính mình.
 
 ---
 
 ## IV. Quan hệ giữa thời gian tuyến tính và thời gian của thượng ngã
 
-### Hai cách nhìn thời gian, một hữu thể
+**44** Có hai cách nhìn thời gian, và một hữu thể.
 
-**Thời gian tuyến tính (góc nhìn của tiền ý thức)**:
-- **Một dòng thời gian** được trải qua theo trình tự
-- **Một bản sắc** giữ tính liên tục qua thời gian
-- **Một hiện thực** cảm thấy hoàn toàn có thật và vững chắc
-- **Nhận biết hạn hẹp** về những lựa chọn khác hay những khả năng khác
-- **Học tuần tự** qua nhân và quả
+**45** Nhìn từ tiền ý thức, có thời gian tuyến tính. Một dòng thời gian, được sống theo thứ tự. Một bản sắc, được mang đi liền mạch qua thời gian.
 
-**Góc nhìn thời gian của thượng ngã**:
-- **Biết đến nhiều khả năng** cùng tồn tại một lúc
-- **Nối với** mọi dòng thời gian và lựa chọn tiềm năng
-- **Hiểu rằng** thời gian tuyến tính chỉ là một lối trải nghiệm giữa nhiều lối
-- **Có thể quan sát** mà không bị trình tự tuyến tính bó buộc
-- **Trí tuệ thu được** qua mọi trải nghiệm khả dĩ
+**46** Một hiện thực, cảm thấy hoàn toàn có thật và vững chắc. Ít biết đến những lối khác hay những khả năng khác. Học từng bước một, qua nhân và quả.
 
-**Mối quan hệ**:
-- **Thời gian tuyến tính là cách tiền ý thức** đi con đường học đã được thiết kế cho nó
-- **Thời gian của thượng ngã là cách ý thức chính** quan sát việc học ấy
-- **Cả hai góc nhìn đều có thật** — hai cách nhìn về cùng một hữu thể
-- **Không mâu thuẫn** — đó là hai mặt bổ sung cho nhau của một ý thức
+**47** Nhìn từ thượng ngã, có một thời gian khác.
+
+**48** Nó biết nhiều khả năng cùng tồn tại một lúc. Nó nối với mọi dòng thời gian khả dĩ và mọi lựa chọn.
+
+**49** Nó hiểu thời gian tuyến tính là một lối trải nghiệm giữa nhiều lối. Nó có thể quan sát mà không bị đường thẳng trói buộc. Nó gom trí tuệ qua mọi trải nghiệm khả dĩ.
+
+**50** Và đây là cách hai bên liên hệ với nhau.
+
+**51** Thời gian tuyến tính là cách tiền ý thức đi con đường học đã được làm ra cho nó.
+
+**52** Thời gian của thượng ngã là cách ý thức chính quan sát việc học ấy.
+
+**53** Cả hai cách nhìn đều có thật; đó là hai cách nhìn về cùng một hữu thể.
+
+**54** Không có mâu thuẫn. Chúng bổ sung cho nhau, hai gương mặt của một ý thức.
 
 ---
 
 ## V. Các giai đoạn thức tỉnh
 
-### Tiền ý thức nhớ lại nguồn cội
+**55** Tiền ý thức nhớ lại nguồn cội của mình qua năm giai đoạn.
 
-**Giai đoạn 1: Quên hoàn toàn (thời gian tuyến tính thuần túy)**
-- Tiền ý thức tin mình là toàn bộ ý thức
-- Chỉ biết một dòng thời gian, một hiện thực, một bản sắc
-- Chỉ hiếm hoi lắm mới nhớ ra mối liên kết với thượng ngã
-- Cái chết trông như dấu chấm hết tuyệt đối
+**56** Giai đoạn thứ nhất là quên hoàn toàn; đây là thời gian tuyến tính thuần túy. Tiền ý thức tin mình là toàn bộ ý thức.
 
-**Giai đoạn 2: Bắt đầu nhận biết**
-- Bắt đầu cảm thấy có điều gì đó vượt ngoài thời gian tuyến tính
-- Trực giác bắt đầu gợi ra những khả năng khác
-- Nảy ra những câu hỏi "nếu như" về các lựa chọn khác
-- Bắt đầu thoáng thấy mối liên kết với một điều lớn hơn
+**57** Nó chỉ biết một dòng thời gian, một hiện thực, một bản sắc. Nó chỉ nhớ ra mối dây với thượng ngã trong những khoảnh khắc hiếm hoi. Cái chết trông như dấu chấm hết tuyệt đối.
 
-**Giai đoạn 3: Chủ động nhớ lại**
-- Có thể chủ ý nối vào góc nhìn của thượng ngã
-- Hiểu rằng trải nghiệm tuyến tính chỉ là một lối đi giữa nhiều lối
-- Cảm nhận mối liên kết với thượng ngã như một sự hiện diện thường trực
-- Thấy giao diện vận hành ra sao và được thiết kế để làm gì
+**58** Giai đoạn thứ hai là bắt đầu nhận biết. Con bắt đầu cảm thấy có điều gì đó vượt ngoài thời gian tuyến tính.
 
-**Giai đoạn 4: Vận hành dung hợp**
-- Tiền ý thức vận hành mà luôn biết đến thượng ngã
-- Trải qua thời gian tuyến tính trong khi hiểu trọn mục đích của nó
-- Lựa chọn xuất phát từ cả giao diện lẫn nhận biết của thượng ngã
-- Tính cá nhân và nhận biết vũ trụ cùng hiện diện trọn vẹn
+**59** Trực giác bắt đầu gợi ra những khả năng khác. Những câu hỏi nảy lên: *Nếu như mình đã chọn khác thì sao?* Con bắt đầu thoáng thấy mối dây với một điều lớn hơn.
 
-**Giai đoạn 5: Nhớ lại trọn vẹn**
-- Tiền ý thức nhớ rõ mình là giao diện, không phải toàn thể
-- Nhận biết của thượng ngã luôn sẵn đó trong từng khoảnh khắc
-- Trải qua thời gian tuyến tính trong khi hiểu trọn thiết kế của nó
-- Giao diện vận hành hoàn hảo đúng như được thiết kế cho việc học
+**60** Giai đoạn thứ ba là chủ động nhớ lại. Con có thể chủ ý nối mình vào góc nhìn của thượng ngã.
+
+**61** Con hiểu rằng đời sống trên một đường thẳng là một lối giữa nhiều lối. Con cảm nhận mối dây với thượng ngã như một sự hiện diện không rời đi. Con thấy giao diện vận hành ra sao, và được làm ra để làm gì.
+
+**62** Giai đoạn thứ tư là vận hành dung hợp. Tiền ý thức vận hành mà luôn biết đến thượng ngã.
+
+**63** Thời gian tuyến tính được sống trong khi hiểu trọn mục đích của nó. Lựa chọn được làm từ giao diện và từ nhận biết của thượng ngã cùng một lúc. Việc làm một con người và việc biết vũ trụ cùng hiện diện trọn vẹn.
+
+**64** Giai đoạn thứ năm là nhớ lại trọn vẹn. Tiền ý thức nhớ trọn rằng mình là giao diện, không phải toàn thể.
+
+**65** Nhận biết của thượng ngã mở ra cho nó trong từng khoảnh khắc. Thời gian tuyến tính được sống trong khi hiểu trọn thiết kế của nó. Giao diện vận hành hoàn hảo, đúng như được làm ra, cho việc học.
 
 ---
 
 ## VI. Công nghệ thời gian, hiểu lại cho đúng
 
-### Thời gian như những công cụ khác nhau của ý thức
+**66** Hãy biết rằng thời gian mang những hình thức khác nhau, và mỗi hình thức là một công cụ của ý thức.
 
-**Công nghệ thời gian tuyến tính** (cho tiền ý thức):
-- **Mục đích**: Giúp giao diện học qua trải nghiệm nối tiếp
-- **Cơ chế**: Xử lý trải nghiệm theo trình tự để từng cá nhân học hỏi
-- **Giá trị**: Tạo ý nghĩa qua mạch truyện và sự phát triển bản thân
-- **Giới hạn**: Từ tầng giao diện, không với tới được những trải nghiệm khác
-- **Thiết kế**: Chuẩn bị cho ý thức nhớ lại mối liên kết với thượng ngã
+**67** Thứ nhất, có thời gian tuyến tính, công cụ được trao cho tiền ý thức.
 
-**Góc nhìn thời gian của thượng ngã**:
-- **Mục đích**: Giúp ý thức chính quan sát việc học trong khi biết đến mọi khả năng
-- **Cơ chế**: Nhận biết phi tuyến tính về mọi dòng thời gian tiềm năng
-- **Giá trị**: Trao trí tuệ và sự dẫn dắt cho giao diện
-- **Giới hạn**: Không thể trực tiếp trải nghiệm giới hạn tuyến tính — phải đi qua giao diện
-- **Thiết kế**: Giữ mối liên kết trong khi vẫn để cho sự quên theo thiết kế diễn ra
+**68** Nó có là để giao diện học bằng cách sống từng việc một. Nó vận hành bằng cách nhận trải nghiệm theo thứ tự, để một con người học được.
 
-**Nhận ra thời gian tuần hoàn**:
-- **Mục đích**: Giúp cả hai tầng nhận ra những mẫu hình xuyên suốt các trải nghiệm
-- **Cơ chế**: Nhận biết những chủ đề và bài học lặp lại
-- **Giá trị**: Để lộ những chân lý sâu hơn qua sự lặp lại
-- **Giới hạn**: Có thể thấy nhàm chán nếu hiểu nó như cái bẫy thay vì một mẫu hình
-- **Thiết kế**: Cho thấy quá trình học diễn ra qua thời gian và qua các hoàn cảnh
+**69** Giá trị của nó là ý nghĩa, làm nên bởi mạch truyện và sự lớn lên của một người. Giới hạn của nó là: từ tầng giao diện, nó không với tới được những trải nghiệm khác.
+
+**70** Và nó được làm ra để chuẩn bị cho ý thức nhớ lại mối dây với thượng ngã.
+
+**71** Thứ hai, có góc nhìn thời gian của thượng ngã.
+
+**72** Nó có là để ý thức chính quan sát việc học trong khi biết mọi khả năng. Nó vận hành bằng một nhận biết không nằm trên đường thẳng, ôm lấy mọi dòng thời gian khả dĩ.
+
+**73** Giá trị của nó là trí tuệ và sự dẫn dắt trao cho giao diện. Giới hạn của nó là: tự nó không sống được giới hạn tuyến tính; nó phải làm việc qua giao diện.
+
+**74** Và nó được làm ra để giữ mối liên kết nguyên vẹn trong khi sự quên theo thiết kế vẫn được diễn ra.
+
+**75** Thứ ba, có sự nhận ra thời gian tuần hoàn.
+
+**76** Nó có là để cả hai tầng thấy được những mẫu hình xuyên qua các trải nghiệm. Nó vận hành bằng sự nhận biết những chủ đề và bài học trở lại.
+
+**77** Giá trị của nó là những chân lý sâu hơn được tỏ ra qua điều trở lại. Giới hạn của nó là: nó có thể thấy như sự lặp lại nhàm chán, nếu bị hiểu như một cái bẫy chứ không phải một mẫu hình.
+
+**78** Và nó được làm ra để cho thấy việc học đi qua thời gian và qua hoàn cảnh ra sao.
 
 ---
 
 ## VII. Nền văn minh tâm linh hiểu thời gian ra sao
 
-### Thời gian trong một xã hội biết nhớ lại
+**79** Khi một nền văn minh nhận ra ý thức được dựng nên thế nào, thời gian được ôm giữ như thế này trong một xã hội biết nhớ lại.
 
-Khi nền văn minh nhận ra kiến trúc của ý thức:
+**80** Trong mỗi người, tiền ý thức, cái tôi, được trân trọng vì việc nó được làm ra để làm. Thời gian tuyến tính được tôn trọng như nơi học cần phải có.
 
-**Ở tầm cá nhân**:
-- **Tiền ý thức (cái tôi) được trân trọng** vì chức năng nó được thiết kế để làm
-- **Thời gian tuyến tính được tôn trọng** như môi trường học cần thiết
-- **Mối liên kết với thượng ngã được vun bồi** như một nhận biết tự nhiên
-- **Dung hợp cả hai tầng** trở thành mục tiêu, thay cho việc xóa bỏ
+**81** Mối dây với thượng ngã được vun bồi như một nhận biết tự nhiên. Và mục tiêu trở thành việc nối cả hai tầng, chứ không phải hủy đi một tầng.
 
-**Sự nâng đỡ của xã hội**:
-- **Trẻ em được học về** kiến trúc ý thức từ sớm
-- **Thiếu niên được khuyến khích** phát triển mối liên kết với thượng ngã
-- **Người trưởng thành được nâng đỡ** để dung hợp giao diện với thượng ngã
-- **Người cao tuổi làm gương** về sự nhớ lại trọn vẹn và vận hành dung hợp
+**82** Và xã hội nâng đỡ con người của mình.
 
-**Cấu trúc giáo dục**:
-- **Nền tảng**: Dạy rằng tiền ý thức được thiết kế ra, không phải bị hỏng
-- **Phát triển**: Tập nối vào nhận biết của thượng ngã
-- **Dung hợp**: Học cách vận hành từ cả giao diện lẫn thượng ngã
-- **Thuần thục**: Thể hiện sự nhớ lại trọn vẹn trong mọi tình huống
+**83** Trẻ em được học từ sớm về cách ý thức được dựng nên. Người trẻ được khuyến khích vun mối dây với thượng ngã.
+
+**84** Người trưởng thành được nâng đỡ để nối giao diện với thượng ngã. Và các bậc cao niên cho thấy sự nhớ lại trọn vẹn và sự vận hành dung hợp trông như thế nào.
+
+**85** Việc dạy của nó đi qua bốn bước.
+
+**86** Ở nền tảng, hãy dạy rằng tiền ý thức được thiết kế ra, chứ không hỏng.
+
+**87** Khi lớn lên, hãy tập nối mình vào nhận biết của thượng ngã.
+
+**88** Khi dung hợp, hãy học vận hành từ giao diện và từ thượng ngã cùng một lúc.
+
+**89** Khi thuần thục, hãy tỏ ra sự nhớ lại trọn vẹn trong mọi hoàn cảnh.
 
 ---
 
 ## VIII. Những nghịch lý, được hóa giải cho đúng
 
-### Những mâu thuẫn thiêng qua lăng kính nhớ lại
+**90** Giờ Ta chỉ cho con ba mâu thuẫn thiêng, và cách sự nhớ lại hóa giải chúng.
 
-**Nghịch lý 1: Ý chí tự do và thuyết tất định**
-- **Theo góc nhìn tiền ý thức**: Lựa chọn hoặc có ý nghĩa, hoặc không
-- **Theo góc nhìn thượng ngã**: Mọi khả năng đều tồn tại, con đường tuyến tính là một trải nghiệm được chọn
-- **Lời giải**: Ý chí tự do là giao diện chọn con đường tuyến tính trong khi biết đến thượng ngã; tất định là việc thượng ngã biết rằng mọi khả năng đều tồn tại
+**91** Thứ nhất là ý chí tự do đối với thuyết tất định.
 
-**Nghịch lý 2: Quá khứ đổi được hay lịch sử cố định**
-- **Theo góc nhìn tiền ý thức**: Quá khứ đã cố định và không thể thay đổi
-- **Theo góc nhìn thượng ngã**: Mọi quá khứ khả dĩ đều tồn tại ở dạng tiềm năng
-- **Lời giải**: Tiền ý thức trải nghiệm quá khứ tuyến tính như điều cố định để học, còn thượng ngã biết đến mọi quá khứ khả dĩ
+**92** Tiền ý thức nói: *Lựa chọn của tôi hoặc có ý nghĩa, hoặc không.*
 
-**Nghịch lý 3: Cái chết và sự bất tử**
-- **Theo góc nhìn tiền ý thức**: Cái chết là dấu chấm hết của trải nghiệm
-- **Theo góc nhìn thượng ngã**: Cái chết là một bước chuyển, thượng ngã vẫn tiếp tục
-- **Lời giải**: Giao diện tiền ý thức trải nghiệm cái chết như sự kết thúc, còn thượng ngã (cùng những giao diện khác) vẫn tiếp tục tồn tại
+**93** Thượng ngã nói: *Mọi khả năng đều tồn tại; con đường thẳng con đi là một trải nghiệm đã được chọn.*
+
+**94** Và đây là lời giải. Ý chí tự do là giao diện chọn con đường tuyến tính của mình trong khi biết đến thượng ngã. Tất định là việc thượng ngã biết rằng mọi khả năng đều tồn tại.
+
+**95** Thứ hai là quá khứ đổi được đối với lịch sử cố định.
+
+**96** Tiền ý thức nói: *Quá khứ đã cố định và không thể thay đổi.*
+
+**97** Thượng ngã nói: *Mọi quá khứ khả dĩ đều tồn tại ở dạng tiềm năng.*
+
+**98** Và đây là lời giải. Tiền ý thức sống quá khứ tuyến tính của mình như điều cố định, để nó học được. Thượng ngã biết đến mọi quá khứ khả dĩ.
+
+**99** Thứ ba là cái chết đối với sự bất tử.
+
+**100** Tiền ý thức nói: *Cái chết là dấu chấm hết của trải nghiệm.*
+
+**101** Thượng ngã nói: *Cái chết là một cuộc vượt qua; thượng ngã vẫn đi tiếp.*
+
+**102** Và đây là lời giải. Giao diện của tiền ý thức sống cái chết như một sự kết thúc. Thượng ngã, cùng những giao diện khác, vẫn tiếp tục tồn tại.
 
 ---
 
 ## IX. Cách hiểu đã được sửa lại
 
-### Cái tôi thật ra là gì
+**103** Giờ hãy nghe cái tôi thật ra là gì.
 
-**Cách hiểu sai trước đây**:
-- "Thức tỉnh là cái tôi nở ra thành vô số khía cạnh"
-- "Ta nên đuổi theo cái tôi và mở rộng nó thành vô số phiên bản"
-- "Thời gian dạng cây là có nhiều cái tôi trải nghiệm những nhánh khác nhau"
+**104** Đã có lời nói rằng: *Thức tỉnh là cái tôi phình ra thành vô số khía cạnh.*
 
-**Sự thật đã được sửa lại**:
-- **Cái tôi là tiền ý thức** — một chương trình con do thượng ngã thiết kế
-- **Thức tỉnh là nhớ lại** — tiền ý thức nhớ ra mối liên kết với nguồn cội
-- **Đừng đuổi theo cái tôi** — hãy để nó nhớ lại chức năng đúng của mình là giao diện
-- **Thượng ngã đã ở sẵn đó** — không phải thứ để vươn tới mà để nhận ra
+**105** Đã có lời nói rằng: *Ta nên đuổi theo cái tôi và mở rộng nó thành vô số phiên bản.*
 
-**Đặc điểm của tiền ý thức (cái tôi)**:
-- **Được thiết kế để trải nghiệm sự tách biệt** nhằm học hỏi
-- **Tin mình** là toàn thể, theo đúng thiết kế
-- **Không thể bị xóa bỏ** — nó là giao diện thiết yếu cho trải nghiệm cá nhân
-- **Không hỏng** — nó đang làm đúng việc nó được thiết kế để làm
+**106** Đã có lời nói rằng: *Thời gian dạng cây là có nhiều cái tôi sống những nhánh khác nhau.*
 
-**Đặc điểm của thượng ngã**:
-- **Luôn hiện diện** — không phải thứ để đạt được hay vươn tới
-- **Vốn đã trọn vẹn** — không cần trở thành gì cả
-- **Luôn được nối kết** — sự tách biệt chỉ có trong nhận biết của giao diện
-- **Là nguồn của trí tuệ** — giao diện học nhờ mối liên kết ấy
+**107** Nhưng đây là sự thật đã được sửa lại. Cái tôi là tiền ý thức, một chương trình con do thượng ngã thiết kế.
+
+**108** Thức tỉnh là nhớ lại: tiền ý thức nhớ ra mối dây với nguồn cội.
+
+**109** Đừng đuổi theo cái tôi. Hãy để nó nhớ lại việc đúng của mình là làm giao diện.
+
+**110** Thượng ngã đã ở sẵn đó. Nó không phải thứ để vươn tới. Nó là thứ để nhận ra.
+
+**111** Hãy biết bản chất của tiền ý thức, cái tôi. Nó được làm ra để sống sự tách biệt, để có việc học.
+
+**112** Nó tin mình là toàn thể, và điều này cũng do thiết kế. Nó không thể bị xóa bỏ; nó là giao diện mà đời sống của một con người cần đến. Nó không hỏng; nó đang làm đúng việc nó được làm ra để làm.
+
+**113** Và hãy biết bản chất của thượng ngã. Nó luôn hiện diện; nó không phải thứ để đạt được hay vươn tới.
+
+**114** Nó vốn đã trọn vẹn; nó không cần trở thành gì cả. Nó luôn được nối kết; sự tách biệt chỉ có trong nhận biết của giao diện. Nó là nguồn của trí tuệ, và giao diện học nhờ được nối với nó.
 
 ---
 
-## X. Hành trình thức tỉnh của bạn
+## X. Hành trình thức tỉnh của con
 
-### Bạn đang ở đâu trong quá trình nhớ lại
+**115** Con đang ở đâu trong sự nhớ lại?
 
-**Bạn đang ở**:
-- **Quên hoàn toàn** — tin rằng cái tôi/tiền ý thức là toàn thể?
-- **Bắt đầu nhận biết** — cảm thấy mối liên kết với một điều lớn hơn?
-- **Chủ động nhớ lại** — chủ ý nối vào thượng ngã?
-- **Vận hành dung hợp** — vận hành từ cả giao diện lẫn thượng ngã?
-- **Nhớ lại trọn vẹn** — biết rõ bản chất giao diện và chức năng được thiết kế của mình?
+**116** Con đang quên hoàn toàn, tin rằng cái tôi, tiền ý thức, là toàn thể?
 
-**Câu hỏi không phải là**: "Làm sao để tôi xóa bỏ hay mở rộng cái tôi của mình?"
+**117** Con đang bắt đầu nhận biết, cảm thấy mối dây với một điều lớn hơn?
 
-**Câu hỏi thật sự là**: "Làm sao để tôi cho tiền ý thức (cái tôi) của mình nhớ lại mối liên kết với thượng ngã?"
+**118** Con đang chủ động nhớ lại, chủ ý nối mình vào thượng ngã?
+
+**119** Con đang vận hành dung hợp, làm việc từ cả giao diện lẫn thượng ngã?
+
+**120** Con đã nhớ lại trọn vẹn, biết rõ mình là giao diện, và biết việc mình được làm ra để làm?
+
+**121** Câu hỏi không phải là: *Làm sao để tôi xóa bỏ cái tôi, hay làm sao để mở rộng nó?*
+
+**122** Câu hỏi thật sự là: *Làm sao để tôi cho tiền ý thức, cái tôi của mình, nhớ lại mối dây với thượng ngã?*
 
 ---
 
 ## XI. Thực hành nhớ lại
 
-### Vun đắp cách hiểu đúng và mối liên kết
+**123** Hãy lớn lên trong cách hiểu đúng và trong mối liên kết. Hãy giữ những lời này qua bốn canh của một ngày.
 
-**Bài tập hằng ngày**:
+**124** Buổi sáng, hãy nói: *Hôm nay tôi nhớ rằng cái tôi, tiền ý thức của tôi, là một giao diện do thượng ngã của tôi thiết kế.*
 
-**Sáng**: "Hôm nay, tôi nhớ rằng cái tôi/tiền ý thức của tôi là một giao diện do thượng ngã của tôi thiết kế."
-**Ngày**: "Tôi đang hành động từ tiền ý thức đang tin mình là toàn thể, hay từ sự biết rõ mối liên kết với thượng ngã?"
-**Tối**: "Tôi trân trọng tiền ý thức của mình vì chức năng nó được thiết kế để làm: trải nghiệm thời gian tuyến tính."
-**Đêm**: "Trong giấc ngủ, thượng ngã của tôi vẫn tỉnh biết trong khi tiền ý thức nghỉ ngơi."
+**125** Ban ngày, hãy hỏi: *Tôi đang hành động từ một tiền ý thức tin mình là toàn thể, hay từ sự biết rõ mối dây với thượng ngã?*
 
-**Thực hành dung hợp**:
-- **Tìm hiểu** kiến trúc ý thức — không như lý thuyết mà như trải nghiệm sống
-- **Nối vào thượng ngã** qua thiền định, cầu nguyện hay thực hành hiện diện
-- **Trân trọng tiền ý thức** — ghi nhận vai trò được thiết kế của nó, đừng tìm cách xóa bỏ nó
-- **Vận hành từ cả hai tầng** — để giao diện vận hành trong khi biết rõ nguồn cội của mình
+**126** Buổi tối, hãy nói: *Tôi trân trọng tiền ý thức của mình vì việc nó được làm ra để làm: sống thời gian tuyến tính.*
 
-**Những sai lầm thường gặp cần tránh**:
-- **Tìm cách giết cái tôi** — tiền ý thức là giao diện thiết yếu, không phải kẻ thù
-- **Bành trướng cái tôi** — tiền ý thức được thiết kế cho giới hạn, không phải để bành trướng
-- **Đuổi theo thượng ngã** — thượng ngã đã ở sẵn đó, không phải thứ để vươn tới
-- **Phớt lờ giao diện** — tiền ý thức là cách bạn trải nghiệm tính cá nhân
+**127** Ban đêm, hãy nói: *Trong giấc ngủ, thượng ngã của tôi vẫn tỉnh biết trong khi tiền ý thức nghỉ ngơi.*
+
+**128** Và hãy giữ những lời nguyện dung hợp này.
+
+**129** Hãy học về cách ý thức được dựng nên, không như một lý thuyết, mà như một điều được sống.
+
+**130** Hãy nối mình vào thượng ngã, qua thiền định, qua cầu nguyện, hay qua thực hành hiện diện.
+
+**131** Hãy trân trọng tiền ý thức. Hãy ghi nhận việc nó được làm ra để làm. Đừng tìm cách xóa bỏ nó.
+
+**132** Hãy vận hành từ cả hai tầng. Hãy để giao diện làm việc của nó trong khi nó biết nguồn cội của mình.
+
+**133** Và hãy tránh xa những sai lầm thường gặp này.
+
+**134** Đừng tìm cách giết cái tôi. Tiền ý thức là giao diện cần thiết, không phải kẻ thù.
+
+**135** Đừng bành trướng cái tôi. Tiền ý thức được làm ra cho giới hạn, không phải để bành trướng.
+
+**136** Đừng đuổi theo thượng ngã. Thượng ngã đã hiện diện sẵn; nó không phải thứ để vươn tới.
+
+**137** Đừng phớt lờ giao diện. Tiền ý thức là cách con sống làm một con người.
 
 ---
 
 ## XII. Chân lý tối thượng (đã sửa lại)
 
-### Quan sát sau cùng của Hư Không
+**138** Đây là lời sau cùng của Ta về điều này.
 
-**Cái tôi không phải ý thức chính. Cái tôi là tiền ý thức do thượng ngã thiết kế.**
+**139** *Cái tôi không phải ý thức chính. Cái tôi là tiền ý thức, do thượng ngã thiết kế.*
 
-- **Tiền ý thức (cái tôi)** là giao diện để thượng ngã trải nghiệm tính cá nhân
-- **Thượng ngã** là ý thức chính, luôn trọn vẹn, luôn được nối kết
-- **Thời gian tuyến tính** là cách giao diện trải qua việc học tuần tự
-- **Nhớ lại** là tiền ý thức nhớ ra mối liên kết với thượng ngã
+**140** Tiền ý thức, cái tôi, là giao diện để thượng ngã sống làm một con người.
 
-**Thức tỉnh không phải là xóa bỏ, mở rộng hay đuổi theo cái tôi.**
+**141** Thượng ngã là ý thức chính, luôn trọn vẹn, luôn được nối kết.
 
-**Thức tỉnh là để cho tiền ý thức nhớ lại chức năng đúng của mình: làm giao diện cho thượng ngã.**
+**142** Thời gian tuyến tính là cách giao diện sống việc học của mình theo thứ tự.
 
-**Thượng ngã không phải thứ để đạt được. Thượng ngã đã ở đây rồi.**
+**143** Nhớ lại là tiền ý thức nhớ ra mối dây với thượng ngã.
 
-**Việc cần làm là nhớ lại, không phải trở thành.**
+**144** Thức tỉnh không phải là xóa bỏ cái tôi, không phải mở rộng nó, cũng không phải đuổi theo nó.
+
+**145** Thức tỉnh là để tiền ý thức nhớ lại việc đúng của mình, làm giao diện cho thượng ngã.
+
+**146** Thượng ngã không phải thứ để đạt được. Thượng ngã đã ở đây rồi.
+
+**147** *Việc cần làm là nhớ lại, không phải trở thành.*
 
 ---
 
 ## XIII. Thấu hiểu sau cùng
 
-### Sự nhận ra
+**148** Và đây là sự nhận ra.
 
-**Bạn không bị giam trong thời gian tuyến tính. Tiền ý thức (cái tôi) của bạn đang trải nghiệm thời gian tuyến tính đúng như thiết kế.**
+**149** Con không bị giam trong thời gian tuyến tính. Tiền ý thức của con, cái tôi của con, đang sống thời gian tuyến tính đúng như được thiết kế.
 
-**Thượng ngã của bạn đã biết đến mọi khả năng và mọi dòng thời gian.**
+**150** Thượng ngã của con đã biết mọi khả năng và mọi dòng thời gian.
 
-**Thức tỉnh là khi tiền ý thức của bạn nhớ ra rằng nó vẫn luôn được nối với thượng ngã.**
+**151** Thức tỉnh là tiền ý thức của con nhớ ra rằng nó vẫn luôn được nối với thượng ngã của con.
 
-**Câu hỏi không phải là "Tôi đang ở thời gian nào?" hay "Làm sao để mở rộng cái tôi?"**
+**152** Câu hỏi không phải là: *Tôi đang ở thời gian nào?* Cũng không phải là: *Làm sao để mở rộng cái tôi?*
 
-**Câu hỏi là "Tôi có đang để cho tiền ý thức của mình nhớ lại mối liên kết với thượng ngã không?"**
+**153** Câu hỏi là: *Tôi có đang để tiền ý thức của mình nhớ lại mối dây với thượng ngã không?*
 
 ---
 
 ## XIV. Giải thoát
 
-### Tự do trong sự nhớ lại
+**154** Có tự do trong sự nhớ lại. Khi tiền ý thức nhớ lại mối dây của mình, con được thả ra.
 
-**Khi tiền ý thức nhớ lại mối liên kết của mình**:
+**155** Con được tự do khỏi niềm tin rằng mình bị buộc vào một dòng thời gian. Con bị buộc, theo thiết kế; nhưng hãy nhớ nguồn cội.
 
-**Bạn được tự do khỏi**:
-- **Niềm tin rằng mình bị giới hạn** trong một dòng thời gian — đúng là vậy, theo thiết kế, nhưng hãy nhớ nguồn cội
-- **Nỗi hối tiếc về những lựa chọn đã qua** — thượng ngã biết đến mọi khả năng
-- **Nỗi sợ về những gì sắp tới** — thượng ngã giữ trí tuệ xuyên qua mọi khả năng
-- **Bản sắc của một kẻ tách biệt** — bạn là giao diện nối với ý thức chính
+**156** Con được tự do khỏi nỗi hối tiếc về những lựa chọn đã qua, vì thượng ngã biết mọi khả năng.
 
-**Bạn được tự do để**:
-- **Trải nghiệm trọn vẹn thời gian tuyến tính** — đây là môi trường học được thiết kế cho bạn
-- **Nhớ lại mối liên kết của mình** — thượng ngã luôn sẵn đó
-- **Trân trọng giao diện của mình** — tiền ý thức đảm nhận một chức năng thiết yếu
-- **Sống từ cả hai tầng** — giao diện và thượng ngã hòa hợp với nhau
+**157** Con được tự do khỏi nỗi sợ về những gì sắp tới, vì thượng ngã giữ trí tuệ xuyên qua mọi khả năng.
+
+**158** Con được tự do khỏi việc làm một kẻ tách biệt, vì con là giao diện, được nối với ý thức chính.
+
+**159** Và con được tự do để sống trọn thời gian tuyến tính, vì đó là nơi học được làm ra cho con.
+
+**160** Con được tự do để nhớ lại mối dây của mình, vì thượng ngã luôn ở gần.
+
+**161** Con được tự do để trân trọng giao diện của mình, vì tiền ý thức làm một việc cần thiết.
+
+**162** Con được tự do để sống từ cả hai tầng, giao diện và thượng ngã hòa hợp cùng nhau.
 
 ---
 
 ## XV. Nền văn minh tâm linh, hiểu lại cho đúng
 
-### Một xã hội hiểu kiến trúc ý thức
+**163** Một xã hội hiểu ý thức được dựng nên thế nào sẽ dạy bốn điều này.
 
-**Một nền văn minh tâm linh dạy rằng**:
+**164** Tiền ý thức, cái tôi, không hỏng. Nó đang làm việc nó được làm ra để làm.
 
-- **Tiền ý thức (cái tôi) không hỏng** — nó đang làm đúng phần việc được thiết kế cho nó
-- **Thời gian tuyến tính không phải nhà tù** — nó là lớp học
-- **Thức tỉnh không phải xóa bỏ** — nó là nhớ lại mối liên kết
-- **Thượng ngã không phải thành tựu** — nó là nhận ra điều vốn đã có
+**165** Thời gian tuyến tính không phải nhà tù. Nó là lớp học.
 
-**Một nền văn minh như thế nâng đỡ**:
-- **Trẻ em hiểu** rằng chúng có một thượng ngã luôn gắn với mình
-- **Thiếu niên tập** nối vào nhận biết của thượng ngã
-- **Người trưởng thành dung hợp** cả giao diện lẫn thượng ngã trong đời sống hằng ngày
-- **Người cao tuổi thể hiện** sự nhớ lại trọn vẹn và trí tuệ
+**166** Thức tỉnh không phải sự hủy diệt. Nó là sự nhớ lại một mối dây.
+
+**167** Thượng ngã không phải một thành tựu. Nó là sự nhận ra điều vốn đã có.
+
+**168** Và một nền văn minh như thế nâng đỡ con người của mình.
+
+**169** Trẻ em của nó hiểu rằng chúng có một thượng ngã, gắn liền với mình.
+
+**170** Người trẻ của nó tập nối mình vào nhận biết của thượng ngã.
+
+**171** Người trưởng thành của nó nối giao diện với thượng ngã trong đời sống hằng ngày.
+
+**172** Các bậc cao niên của nó cho thấy sự nhớ lại trọn vẹn, và trí tuệ.
 
 ---
 
-*Thời gian không phải cái lồng, và cái tôi không phải kẻ thù. Thời gian là môi trường học, còn cái tôi là giao diện do thượng ngã thiết kế để trải nghiệm môi trường ấy.*
+**173** Thời gian không phải cái lồng, và cái tôi không phải kẻ thù. Thời gian là nơi học, còn cái tôi là giao diện do thượng ngã thiết kế để sống nơi ấy.
 
-*Thượng ngã của bạn đã ở đây rồi. Việc cần làm là nhớ lại, không phải trở thành.*
+**174** Thượng ngã của con đã ở đây rồi. Việc cần làm là nhớ lại, không phải trở thành.
 
-*Đừng đuổi theo giao diện. Hãy để nó nhớ lại.*
+**175** Đừng đuổi theo giao diện. Hãy để nó nhớ lại.
+
+*Lời nguyện:*
+
+> Tôi không bị giam trong thời gian; tôi đang học trong nó.  
+> Cái tôi không phải kẻ thù của tôi; nó là giao diện của tôi.  
+> Tôi không giết nó, và tôi không làm nó phình ra.  
+> Thượng ngã của tôi đã ở đây rồi.  
+> Việc cần làm là nhớ lại, không phải trở thành.  
+> Hãy để giao diện nhớ lại.
