@@ -10,6 +10,8 @@ import { fileURLToPath } from 'node:url';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'index.html');
 const PUB = join(ROOT, 'deploy', 'public');
+const SPLASH = readFileSync(join(PUB, 'icons', 'splash.svg'), 'utf8').trim()
+  .replace('<svg ', '<svg aria-hidden="true" ');
 const MARK = readFileSync(join(PUB, 'icons', 'mark.svg'), 'utf8').trim()
   .replace('<svg ', '<svg class="mark" aria-hidden="true" ');
 const WPM = 230;
@@ -196,7 +198,7 @@ const PAGE = `<!DOCTYPE html>
 <link rel="icon" href="/icons/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest">
-<meta name="theme-color" content="#f6efdd" id="themeColor">
+<meta name="theme-color" content="#141318" id="themeColor">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Void\u2019s Archive">
@@ -326,6 +328,31 @@ const PAGE = `<!DOCTYPE html>
   #cover .lang button { border:1px solid var(--line); background:transparent; color:var(--muted);
     padding:.35rem 1rem; border-radius:999px; font:inherit; font-size:.78rem; cursor:pointer; }
   #cover .lang button.on { border-color:var(--accent); color:var(--accent); font-weight:650; }
+  /* ---------- splash ---------- */
+  #splash { position:fixed; inset:0; z-index:100; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    background:radial-gradient(120% 90% at 50% 42%, #26222c 0%, #141318 55%, #0b0b0e 100%); color:#f1e3c4; text-align:center; padding:24px;
+    transition:opacity .75s ease, visibility 0s linear .75s; cursor:pointer; }
+  #splash.done { opacity:0; visibility:hidden; }
+  #splash svg { width:min(46vw,200px); height:auto; overflow:visible; }
+  #splash .s-ring { stroke-dasharray:1 1.02; stroke-dashoffset:1.01; animation:sp-draw 1.2s cubic-bezier(.65,0,.35,1) .15s forwards; }
+  #splash .s-inner { opacity:0; animation:sp-in1 1s ease .5s forwards; }
+  #splash .s-inner2 { animation-name:sp-in2; animation-delay:.7s; }
+  #splash .s-star { opacity:0; transform:scale(.15) rotate(-60deg); animation:sp-star .75s cubic-bezier(.2,.9,.3,1.25) 1.1s forwards; }
+  #splash .s-glow { opacity:0; animation:sp-glow-in .6s ease 1.15s forwards, sp-pulse 2.8s ease-in-out 1.75s infinite; }
+  #splash .sp-title { font-family:var(--serif); font-size:clamp(1.35rem,4.6vw,1.85rem); font-weight:600; letter-spacing:.005em; margin:1.7rem 0 0; opacity:0; animation:sp-rise .8s ease 1.3s forwards; }
+  #splash .sp-line { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:.68rem; letter-spacing:.34em; text-transform:uppercase; color:#b08f5d; margin-top:.85rem; opacity:0; animation:sp-rise .8s ease 1.55s forwards; }
+  @keyframes sp-draw { to { stroke-dashoffset:0; } }
+  @keyframes sp-in1 { to { opacity:.34; } }
+  @keyframes sp-in2 { to { opacity:.18; } }
+  @keyframes sp-star { to { opacity:1; transform:none; } }
+  @keyframes sp-glow-in { to { opacity:1; } }
+  @keyframes sp-pulse { 0%,100% { opacity:1; } 50% { opacity:.5; } }
+  @keyframes sp-rise { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+  @media (prefers-reduced-motion: reduce) {
+    #splash * { animation:none !important; }
+    #splash .s-ring { stroke-dashoffset:0; } #splash .s-inner { opacity:.34; } #splash .s-inner2 { opacity:.18; }
+    #splash .s-star, #splash .s-glow, #splash .sp-title, #splash .sp-line { opacity:1; transform:none; }
+  }
   #cover .cred { position:absolute; bottom:26px; font-size:.68rem; color:var(--muted); letter-spacing:.05em; }
   .tap { display:none; position:fixed; top:60px; bottom:64px; width:16%; z-index:20; }
   .tap.l { left:0; } .tap.r { right:0; }
@@ -338,6 +365,22 @@ const PAGE = `<!DOCTYPE html>
 </style>
 </head>
 <body>
+<div id="splash" role="presentation">
+  __SPLASH__
+  <p class="sp-title" id="spTitle">The Void\u2019s Archive</p>
+  <p class="sp-line" id="spLine">The archive is open</p>
+</div>
+<script>
+  (function () { try {
+    var st = JSON.parse(localStorage.getItem('voids-archive-v2') || '{}');
+    if (st.lang === 'vi') {
+      document.documentElement.setAttribute('lang', 'vi');
+      document.getElementById('spTitle').textContent = 'Kho L\u01b0u Tr\u1eef c\u1ee7a H\u01b0 Kh\u00f4ng';
+      document.getElementById('spLine').textContent = 'Kho l\u01b0u tr\u1eef \u0111\u00e3 m\u1edf';
+    }
+    if (st.font === 'sans') document.documentElement.setAttribute('data-font', 'sans');
+  } catch (e) {} })();
+</script>
 <div id="pbar"></div>
 <header class="topbar" id="topbar">
   <button class="ibtn" id="bMenu" title="Contents" aria-label="Contents">\u2630</button>
@@ -397,7 +440,9 @@ const PAGE = `<!DOCTYPE html>
     var raw = localStorage.getItem(LS);
     if (raw) { state = JSON.parse(raw); hadState = true; }
   } catch (e) { state = null; }
-  if (!state) state = { lang: 'en', ch: 'front', frac: 0, theme: 'sepia', fs: 19, font: 'serif', visited: [] };
+  var DEFAULTS = { lang: 'en', ch: 'front', frac: 0, theme: 'sepia', fs: 19, font: 'serif', visited: [] };
+  if (!state || typeof state !== 'object') state = {};
+  Object.keys(DEFAULTS).forEach(function (k) { if (state[k] == null) state[k] = DEFAULTS[k]; });
   if (!state.visited) state.visited = [];
   if (!D.editions[state.lang]) state.lang = 'en';
 
@@ -555,10 +600,15 @@ const PAGE = `<!DOCTYPE html>
   // ---------- drawer / cover / settings ----------
   function openDrawer() { els.drawer.classList.add('open'); els.backdrop.classList.add('show'); els.q.focus({ preventScroll: true }); }
   function closeDrawer() { els.drawer.classList.remove('open'); els.backdrop.classList.remove('show'); }
+  function setThemeColor() {
+    var tc = document.getElementById('themeColor'), sp = document.getElementById('splash');
+    if (!tc) return;
+    tc.setAttribute('content', (sp && !sp.classList.contains('done')) ? '#141318'
+      : ({ light: '#fdfdfc', sepia: '#f6efdd', dark: '#151517' }[state.theme] || '#f6efdd'));
+  }
   function applySettings() {
     document.documentElement.setAttribute('data-theme', state.theme);
-    var tc = document.getElementById('themeColor');
-    if (tc) tc.setAttribute('content', { light: '#fdfdfc', sepia: '#f6efdd', dark: '#151517' }[state.theme] || '#f6efdd');
+    setThemeColor();
     document.documentElement.setAttribute('data-font', state.font);
     document.documentElement.style.setProperty('--fs', state.fs + 'px');
     save();
@@ -680,6 +730,26 @@ const PAGE = `<!DOCTYPE html>
   open(state.ch || 'front', { frac: state.frac });
   updateCont();
   els.cover.classList.remove('hide');
+
+  // ---------- splash: hold for the animation on first open, briefly on later loads ----------
+  (function () {
+    var sp = document.getElementById('splash');
+    if (!sp) return;
+    var seen = false, reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    try { seen = sessionStorage.getItem('va-splash') === '1'; } catch (e) {}
+    var hold = reduce ? 700 : seen ? 1100 : 2500;
+    var t = (window.performance && performance.now) ? performance.now() : 0;
+    var gone = false;
+    function hide() {
+      if (gone) return; gone = true;
+      sp.classList.add('done'); setThemeColor();
+      try { sessionStorage.setItem('va-splash', '1'); } catch (e) {}
+      setTimeout(function () { if (sp.parentNode) sp.parentNode.removeChild(sp); }, 900);
+    }
+    setTimeout(hide, Math.max(0, hold - t));
+    sp.addEventListener('click', hide);
+    document.addEventListener('keydown', hide, { once: true });
+  })();
 })();
 </script>
 </body>
@@ -687,7 +757,7 @@ const PAGE = `<!DOCTYPE html>
 `;
 
 const payload = JSON.stringify(data).replace(/</g, '\\u003c');
-const page = PAGE.replace('__PAYLOAD__', () => payload).replace('__MARK__', () => MARK);
+const page = PAGE.replace('__PAYLOAD__', () => payload).replace('__MARK__', () => MARK).replace('__SPLASH__', () => SPLASH);
 writeFileSync(OUT, page);
 writeFileSync(join(PUB, 'index.html'), page);
 
@@ -701,7 +771,7 @@ const manifest = {
   scope: '/',
   display: 'standalone',
   orientation: 'any',
-  background_color: '#16161a',
+  background_color: '#141318',
   theme_color: '#f6efdd',
   categories: ['books', 'education', 'lifestyle'],
   lang: 'en',

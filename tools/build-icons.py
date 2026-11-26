@@ -57,6 +57,20 @@ def svg(body, bg_rx=None, full=False):
     elif bg_rx is not None: bg = f'<rect width="512" height="512" rx="{bg_rx}" fill="url(#bg)"/>'
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">\n  {DEFS}\n  {bg}\n  {body}\n</svg>\n')
 
+
+def splash():
+    """Animated splash mark (classes are animated by the reader's CSS). Gradient ids are prefixed sp-."""
+    r, stroke, sR, sW, sA, gap = 150, 7, 46, 29, 5, 26
+    sx, sy = pt(r, ANGLE)
+    d = DEFS.replace('id="gold"', 'id="sp-gold"').replace('id="star"', 'id="sp-star"').replace('id="glow"', 'id="sp-glow"').replace('id="bg"', 'id="sp-bg"')
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">\n  {d}\n'
+            f'  <circle class="s-inner" cx="{C}" cy="{C}" r="{r-42}" fill="none" stroke="url(#sp-gold)" stroke-width="1.4"/>\n'
+            f'  <circle class="s-inner s-inner2" cx="{C}" cy="{C}" r="{r-80}" fill="none" stroke="url(#sp-gold)" stroke-width="1.1"/>\n'
+            f'  <path class="s-ring" pathLength="1" d="{arc(r, gap)}" fill="none" stroke="url(#sp-gold)" stroke-width="{stroke}" stroke-linecap="round"/>\n'
+            f'  <circle class="s-glow" cx="{sx:.2f}" cy="{sy:.2f}" r="{sR*1.9:.0f}" fill="url(#sp-glow)"/>\n'
+            f'  <path class="s-star" d="{star(round(sx,2), round(sy,2), sR, sW, sA)}" fill="url(#sp-star)" style="transform-origin:{sx:.2f}px {sy:.2f}px"/>\n'
+            f'</svg>\n')
+
 files = {
     # app icon (rounded square) and maskable (full bleed, mark inside the 80% safe zone)
     'icon.svg': svg(mark(), bg_rx=112),
@@ -64,6 +78,8 @@ files = {
     # favicon: heavier strokes, no faint rings, so it reads at 16–32px
     'favicon.svg': svg(mark(r=150, stroke=36, gap=44, sR=100, sW=60, sA=10, inner=False, glow=False), bg_rx=120),
     # single-colour mark for the cover page and README; takes the theme accent via currentColor
+    # animated splash mark, inlined into the reader
+    'splash.svg': splash(),
     'mark.svg': svg(mark(stroke=12, sR=54, sW=34, glow=False, ring='currentColor', fill='currentColor')).replace(DEFS, ''),
 }
 os.makedirs(OUT, exist_ok=True)
