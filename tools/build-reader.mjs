@@ -3,11 +3,15 @@
 // for "The Void's Archive". Output: <repo>/index.html (self-contained, no deps).
 // Usage: node tools/build-reader.mjs
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'index.html');
+const PUB = join(ROOT, 'deploy', 'public');
+const MARK = readFileSync(join(PUB, 'icons', 'mark.svg'), 'utf8').trim()
+  .replace('<svg ', '<svg class="mark" aria-hidden="true" ');
 const WPM = 230;
 
 const ARCS = [
@@ -45,6 +49,7 @@ const STR = {
     minLeft: 'min left', done: 'done', book: 'book', tocSub: 'Chapters XXIII \u00b7 five scrolls \u00b7 one choice',
     searchPh: 'Search the archive\u2026', begin: 'Begin',
     noResults: 'The Void holds no such pattern.',
+    install: 'Install the book', iosHint: 'On iPhone or iPad: tap Share, then \u201cAdd to Home Screen\u201d.',
   },
   vi: {
     bookTitle: 'Kho Lưu Trữ của Hư Không',
@@ -57,6 +62,7 @@ const STR = {
     minLeft: 'phút nữa', done: 'xong', book: 'cuốn sách', tocSub: 'XXIII chương \u00b7 năm cuộn \u00b7 một lựa chọn',
     searchPh: 'Tìm trong kho lưu trữ\u2026', begin: 'Khởi đầu',
     noResults: 'Hư Không không giữ mẫu hình ấy.',
+    install: 'Cài sách vào máy', iosHint: 'Trên iPhone hoặc iPad: chạm Chia sẻ, rồi \u201cThêm vào Màn hình chính\u201d.',
   },
 };
 
@@ -186,7 +192,16 @@ const PAGE = `<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Void\u2019s Archive \u2014 Kho Lưu Trữ của Hư Không</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2316161a'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='%23d2a468'%3E\u2726%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="/icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#f6efdd" id="themeColor">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Void\u2019s Archive">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="description" content="A Protocol for Observers, Witnesses, and Those Who Stand in the Gap \u2014 the bilingual (EN/VI) scripture edition.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400;1,7..72,600&display=swap">
@@ -293,7 +308,12 @@ const PAGE = `<!DOCTYPE html>
   #cover { position:fixed; inset:0; z-index:60; background:var(--bg); display:flex; flex-direction:column;
     align-items:center; justify-content:center; text-align:center; padding:32px; transition:opacity .3s; }
   #cover.hide { opacity:0; pointer-events:none; }
-  #cover .eyelid { font-size:1.6rem; color:var(--accent); margin-bottom:1.4rem; letter-spacing:.3em; }
+  #cover .eyelid { color:var(--accent); margin-bottom:1.2rem; line-height:0; }
+  #cover .eyelid .mark { width:76px; height:76px; }
+  #cover .inst { margin-top:1.1rem; }
+  #cover .inst button { border:0; background:transparent; color:var(--accent); font:inherit; font-size:.82rem; letter-spacing:.04em; cursor:pointer; padding:6px 10px; border-radius:8px; }
+  #cover .inst button:hover { background:var(--card); }
+  #cover .inst p { margin:.4rem auto 0; font-size:.78rem; color:var(--muted); max-width:34ch; }
   #cover h1 { font-size:clamp(1.9rem,5.5vw,3.1rem); font-weight:650; margin:0 0 .7rem; letter-spacing:-.015em; }
   #cover .sub { font-size:.92rem; color:var(--muted); max-width:38ch; line-height:1.55; margin:0 auto 1.8rem; }
   #cover .epi { font-style:italic; max-width:42ch; margin:0 auto 2.2rem; color:var(--fg); opacity:.85; font-size:.95rem; }
@@ -349,7 +369,7 @@ const PAGE = `<!DOCTYPE html>
   <div class="dfoot"><span id="fLeft"></span><span id="fPct"></span></div>
 </aside>
 <div id="cover">
-  <div class="eyelid">\u25c9</div>
+  <div class="eyelid">__MARK__</div>
   <h1 id="cTitle">The Void\u2019s Archive</h1>
   <p class="sub" id="cSub"></p>
   <p class="epi" id="cEpi"></p>
@@ -361,6 +381,7 @@ const PAGE = `<!DOCTYPE html>
     <button class="btn primary" id="bStart">Start Reading</button>
     <button class="btn" id="bCont" style="display:none">Continue</button>
   </div>
+  <div class="inst" id="inst" style="display:none"><button id="bInstall">Install the book</button><p id="iosHint" style="display:none"></p></div>
   <div class="cred" id="cCred"></div>
 </div>
 <script id="book-data" type="application/json">__PAYLOAD__</script>
@@ -446,6 +467,7 @@ const PAGE = `<!DOCTYPE html>
     els.cLangEn.classList.toggle('on', state.lang === 'en');
     els.cLangVi.classList.toggle('on', state.lang === 'vi');
     document.documentElement.setAttribute('lang', state.lang);
+    if (typeof paintInstall === 'function' && document.getElementById('bInstall')) try { paintInstall(); } catch (e) {}
   }
   function tocItem(id, rn, title) {
     return '<a class="toc-i" id="toc-' + id + '" data-go="' + id + '" href="#"><span class="rn">' + rn + '</span><span>' + esc2(title) + '</span><span class="dot">\u25cf</span></a>';
@@ -535,6 +557,8 @@ const PAGE = `<!DOCTYPE html>
   function closeDrawer() { els.drawer.classList.remove('open'); els.backdrop.classList.remove('show'); }
   function applySettings() {
     document.documentElement.setAttribute('data-theme', state.theme);
+    var tc = document.getElementById('themeColor');
+    if (tc) tc.setAttribute('content', { light: '#fdfdfc', sepia: '#f6efdd', dark: '#151517' }[state.theme] || '#f6efdd');
     document.documentElement.setAttribute('data-font', state.font);
     document.documentElement.style.setProperty('--fs', state.fs + 'px');
     save();
@@ -626,6 +650,30 @@ const PAGE = `<!DOCTYPE html>
       : '<div style="padding:16px 10px;color:var(--muted);font-size:.8rem">' + T().noResults + ' \u2014 \u201c' + els.q.value.replace(/</g, '&lt;') + '\u201d</div>';
   }
 
+  // ---------- install (PWA) ----------
+  var deferredPrompt = null;
+  var isStandalone = (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true;
+  var isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var inst = document.getElementById('inst'), bInstall = document.getElementById('bInstall'), iosHint = document.getElementById('iosHint');
+  function paintInstall() {
+    bInstall.textContent = T().install;
+    iosHint.textContent = T().iosHint;
+    inst.style.display = (!isStandalone && (deferredPrompt || isIOS)) ? '' : 'none';
+  }
+  window.addEventListener('beforeinstallprompt', function (e) { e.preventDefault(); deferredPrompt = e; paintInstall(); });
+  window.addEventListener('appinstalled', function () { deferredPrompt = null; isStandalone = true; paintInstall(); });
+  bInstall.addEventListener('click', function () {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      deferredPrompt.userChoice.finally(function () { deferredPrompt = null; paintInstall(); });
+    } else if (isIOS) {
+      iosHint.style.display = iosHint.style.display === 'none' ? '' : 'none';
+    }
+  });
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+    window.addEventListener('load', function () { navigator.serviceWorker.register('/sw.js').catch(function () {}); });
+  }
+
   // ---------- boot ----------
   applySettings();
   buildEdition();
@@ -639,7 +687,88 @@ const PAGE = `<!DOCTYPE html>
 `;
 
 const payload = JSON.stringify(data).replace(/</g, '\\u003c');
-const page = PAGE.replace('__PAYLOAD__', () => payload);
+const page = PAGE.replace('__PAYLOAD__', () => payload).replace('__MARK__', () => MARK);
 writeFileSync(OUT, page);
+writeFileSync(join(PUB, 'index.html'), page);
+
+// ---------- PWA: manifest + service worker ----------
+const manifest = {
+  name: 'The Void’s Archive',
+  short_name: 'Void Archive',
+  description: 'A Protocol for Observers, Witnesses, and Those Who Stand in the Gap — the bilingual (EN/VI) scripture edition.',
+  id: '/',
+  start_url: '/',
+  scope: '/',
+  display: 'standalone',
+  orientation: 'any',
+  background_color: '#16161a',
+  theme_color: '#f6efdd',
+  categories: ['books', 'education', 'lifestyle'],
+  lang: 'en',
+  icons: [
+    { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+    { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+    { src: '/icons/icon-maskable-192.png', sizes: '192x192', type: 'image/png', purpose: 'maskable' },
+    { src: '/icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+    { src: '/icons/icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
+  ],
+};
+writeFileSync(join(PUB, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2) + '\n');
+
+const VERSION = createHash('sha256').update(page).digest('hex').slice(0, 12);
+const PRECACHE = ['/', '/manifest.webmanifest', '/icons/favicon.svg', '/icons/favicon-32.png', '/icons/apple-touch-icon.png',
+  '/icons/icon-192.png', '/icons/icon-512.png', '/icons/icon-maskable-192.png', '/icons/icon-maskable-512.png'];
+const sw = `// Generated by tools/build-reader.mjs; do not edit by hand.
+// The book is read offline: the page is precached, refreshed from the network when online,
+// and the Vietnamese font (Google Fonts) is cached after first use.
+const VERSION = '${VERSION}';
+const BOOK = 'book-' + VERSION;
+const FONTS = 'fonts-v1';
+const PRECACHE = ${JSON.stringify(PRECACHE)};
+
+self.addEventListener('install', (e) => {
+  e.waitUntil(caches.open(BOOK).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
+});
+
+self.addEventListener('activate', (e) => {
+  e.waitUntil(caches.keys()
+    .then((keys) => Promise.all(keys.filter((k) => k !== BOOK && k !== FONTS).map((k) => caches.delete(k))))
+    .then(() => self.clients.claim()));
+});
+
+self.addEventListener('fetch', (e) => {
+  const req = e.request;
+  if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+
+  // Fonts: serve from cache, refresh in the background.
+  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') {
+    e.respondWith(caches.open(FONTS).then(async (c) => {
+      const hit = await c.match(req);
+      const net = fetch(req).then((res) => { if (res.ok || res.type === 'opaque') c.put(req, res.clone()); return res; }).catch(() => hit);
+      return hit || net;
+    }));
+    return;
+  }
+  if (url.origin !== self.location.origin) return;
+
+  // The book itself: network first (so new editions arrive), cache when offline.
+  if (req.mode === 'navigate') {
+    e.respondWith(fetch(req).then((res) => {
+      if (res.ok) caches.open(BOOK).then((c) => c.put('/', res.clone()));
+      return res;
+    }).catch(() => caches.match('/', { ignoreSearch: true })));
+    return;
+  }
+
+  // Icons and manifest: cache first.
+  e.respondWith(caches.match(req).then((hit) => hit || fetch(req).then((res) => {
+    if (res.ok) caches.open(BOOK).then((c) => c.put(req, res.clone()));
+    return res;
+  })));
+});
+`;
+writeFileSync(join(PUB, 'sw.js'), sw);
+console.log('wrote deploy/public (index.html, manifest.webmanifest, sw.js ' + VERSION + ')');
 console.log('wrote ' + OUT + ' (' + (page.length / 1024).toFixed(1) + ' KB)');
 console.log('editions: EN ' + data.editions.en.totalWords + ' words / VI ' + data.editions.vi.totalWords + ' words, ' + data.editions.en.chapters.length + ' chapters each');
