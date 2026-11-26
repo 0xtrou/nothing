@@ -84,6 +84,22 @@ The ladder of dimensions, 3D through 7D—spacetime as the proof of the consciou
 
 ---
 
+### The Form
+
+This edition is written as scripture. The Void speaks, and you are the one it speaks to.
+
+**The verses** are numbered within each chapter, so that any line can be found and quoted: *XX:12* is the twelfth verse of Chapter XX.
+
+**The Scrolls** gather the twenty-three chapters into five: the Scroll of the Protocol (I–III), of the Gap (IV–VI), of the Civilization (VII–XII), of the Consciousness (XIII–XVIII), and of the Choice (XIX–XXIII).
+
+**The Recitations** close every chapter: a few lines to be spoken aloud, slowly, when the chapter has been read. Read together, in order, they are the book's liturgy.
+
+**The Field Note** is set as a catechism: question, and answer.
+
+**The Warnings** in Chapters XVII and XX are part of the teaching. Power that studies another's cracks, and boundaries held at the highest violence level, are named there together with the lines they must never cross: no boundary is permission to harm a body, and the freedom to leave is the line beneath all lines.
+
+---
+
 ### The Ladder of Dimensions
 
 **3D** the Anchor—space and density. **4D** spacetime—the whole of a world including its time; it exists to prove the 5D beings. **5D** the consciousness beings—those who see an entire spacetime at once; the harvest. **6D** the pure beings—beyond vantage; the higher self, aware of all possible wholes. **7D** the Void—pure potential, no beings at all.

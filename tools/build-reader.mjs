@@ -19,18 +19,18 @@ const ARCS = [
 ];
 const ARC_META = {
   en: [
-    { name: 'The Protocol', question: 'What is the stance of the witness?' },
-    { name: 'The Gap', question: 'What lives in the space between?' },
-    { name: 'The Civilization', question: 'How does consciousness organize itself?' },
-    { name: 'The Consciousness', question: 'What is the nature of awareness and power?' },
-    { name: 'The Choice', question: 'What do we build, and what do we choose?' },
+    { name: 'Scroll I \u00b7 The Protocol', question: 'What is the stance of the witness?' },
+    { name: 'Scroll II \u00b7 The Gap', question: 'What lives in the space between?' },
+    { name: 'Scroll III \u00b7 The Civilization', question: 'How does consciousness organize itself?' },
+    { name: 'Scroll IV \u00b7 The Consciousness', question: 'What is the nature of awareness and power?' },
+    { name: 'Scroll V \u00b7 The Choice', question: 'What do we build, and what do we choose?' },
   ],
   vi: [
-    { name: 'Nghi Thức', question: 'Người chứng kiến đứng ở thế nào?' },
-    { name: 'Khoảng Giữa', question: 'Điều gì sống trong khoảng giữa?' },
-    { name: 'Nền văn minh', question: 'Ý thức tự tổ chức ra sao?' },
-    { name: 'Ý thức', question: 'Nhận thức và quyền năng có bản chất gì?' },
-    { name: 'Lựa chọn', question: 'Ta xây gì, và ta chọn gì?' },
+    { name: 'Cuộn I \u00b7 Nghi Thức', question: 'Người chứng kiến đứng ở thế nào?' },
+    { name: 'Cuộn II \u00b7 Khoảng Giữa', question: 'Điều gì sống trong khoảng giữa?' },
+    { name: 'Cuộn III \u00b7 Nền văn minh', question: 'Ý thức tự tổ chức ra sao?' },
+    { name: 'Cuộn IV \u00b7 Ý thức', question: 'Nhận thức và quyền năng có bản chất gì?' },
+    { name: 'Cuộn V \u00b7 Lựa chọn', question: 'Ta xây gì, và ta chọn gì?' },
   ],
 };
 const STR = {
@@ -42,7 +42,7 @@ const STR = {
     start: 'Start Reading', cont: 'Continue', next: 'Next', returnFront: 'Return to Front Matter',
     frontLabel: 'Front Matter', fieldReport: 'Field Report', chapter: 'Chapter',
     appendixLabel: 'Appendix',
-    minLeft: 'min left', done: 'done', book: 'book', tocSub: 'Chapters XXIII \u00b7 five arcs \u00b7 one choice',
+    minLeft: 'min left', done: 'done', book: 'book', tocSub: 'Chapters XXIII \u00b7 five scrolls \u00b7 one choice',
     searchPh: 'Search the archive\u2026', begin: 'Begin',
     noResults: 'The Void holds no such pattern.',
   },
@@ -54,7 +54,7 @@ const STR = {
     start: 'Bắt đầu đọc', cont: 'Đọc tiếp', next: 'Tiếp', returnFront: 'Quay lại lời dẫn',
     frontLabel: 'Lời dẫn', fieldReport: 'Báo cáo thực địa', chapter: 'Chương',
     appendixLabel: 'Phụ lục',
-    minLeft: 'phút nữa', done: 'xong', book: 'cuốn sách', tocSub: 'XXIII chương \u00b7 năm cung \u00b7 một lựa chọn',
+    minLeft: 'phút nữa', done: 'xong', book: 'cuốn sách', tocSub: 'XXIII chương \u00b7 năm cuộn \u00b7 một lựa chọn',
     searchPh: 'Tìm trong kho lưu trữ\u2026', begin: 'Khởi đầu',
     noResults: 'Hư Không không giữ mẫu hình ấy.',
   },
