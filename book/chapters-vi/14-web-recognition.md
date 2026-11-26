@@ -2,263 +2,235 @@
 
 ## Kết nối xã hội giữa những công dân
 
-*Trụ cột thứ ba của nền văn minh — tấm mạng thiêng qua đó ý thức nhận ra chính mình trong những gương mặt khác nhau.*
+*Trụ cột thứ ba của nền văn minh: tấm mạng thiêng qua đó ý thức nhận ra chính mình trong những gương mặt khác nhau.*
 
 ---
 
 ## I. Những nguyên mẫu kết nối
 
-### Các mẫu hình quan hệ phổ quát
+**1** Và Hư Không nói: Mỗi mối quan hệ đều phụng sự một mục đích trong tấm mạng, và mục đích ấy như nhau ở mọi miền đất, mọi thời đại.
 
-Hư Không nhận thấy mỗi mối quan hệ đều mang một mục đích phổ quát trong tấm mạng:
+**2** Có năm người sẽ đến với bạn. Khi họ đến, hãy nhận ra họ.
 
-**Tấm gương**: Những người soi lại cho bạn thấy con người thật của mình
-- **Mục đích**: Cho bạn thấy vẻ đẹp mà tự bạn không nhìn ra
-- **Chức năng**: Làm tấm gương trong cho bạn lớn lên và thức tỉnh
-- **Thử thách**: Nhận lấy hình ảnh họ soi lại mà không phóng chiếu bóng tối của mình lên họ
-- **Món quà**: Thấy rõ mình qua đôi mắt người khác
+**3** Người thứ nhất là Tấm Gương: người soi lại cho bạn thấy con người thật của mình.
 
-**Nửa bổ khuyết**: Những người mang phần đối lập của bạn và làm nên sự trọn vẹn
-- **Mục đích**: Đánh thức những mặt chưa phát triển trong bạn bằng tương phản
-- **Chức năng**: Trao những mảnh còn thiếu để bạn hiểu trọn
-- **Thử thách**: Dung hợp chỗ khác biệt của họ thay vì chống lại
-- **Món quà**: Chạm được những phần của chính mình mà một mình bạn không chạm tới
+**4** Tấm Gương đến để cho bạn thấy vẻ đẹp mà tự bạn không nhìn ra. Nó đứng trong trẻo trước bạn, cho bạn lớn lên và thức tỉnh. Việc của bạn là nhận lấy điều nó soi mà không phóng bóng tối của mình lên nó. Và món quà của nó là sự sáng tỏ: thấy mình qua đôi mắt người khác.
 
-**Chất xúc tác**: Những người thúc bạn lớn lên bằng thử thách
-- **Mục đích**: Đẩy bạn ra khỏi vùng an toàn, vào chuyển hóa
-- **Chức năng**: Làm tác nhân của những xáo trộn cần thiết
-- **Thử thách**: Nhận ra họ đang giúp mình thay vì cưỡng lại tác động của họ
-- **Món quà**: Thức tỉnh nhanh hơn nhờ áp lực và cọ xát
+**5** Người thứ hai là Nửa Bổ Khuyết: người mang phần đối lập của bạn, để cùng nhau làm nên sự trọn vẹn.
 
-**Nơi trú ẩn**: Những người cho bạn một bến yên để dung hợp
-- **Mục đích**: Giữ khoảng lặng cho bạn chữa lành và chuyển hóa
-- **Chức năng**: Tạo sự an toàn để bạn dám yếu lòng và sống thật
-- **Thử thách**: Nhận sự nâng đỡ của họ mà không thành ra lệ thuộc
-- **Món quà**: Sự vững vàng cần có cho công phu nội tâm sâu
+**6** Nửa Bổ Khuyết đến để đánh thức, bằng tương phản, những gì trong bạn còn chưa lớn. Nó mang những mảnh còn thiếu để bạn hiểu cho trọn. Việc của bạn là dung hợp chỗ khác biệt của nó, đừng chống lại. Và món quà của nó là lối vào những phần của chính bạn mà một mình bạn không chạm tới.
 
-**Cây cầu**: Những người nối bạn với những vòng nhận biết rộng hơn
-- **Mục đích**: Mở ý thức của bạn ra ngoài vòng quen biết gần
-- **Chức năng**: Gắn sự lớn lên của một người với sự tiến hóa của tập thể
-- **Thử thách**: Giữ trọn bản thân trong khi kết nối rộng ra
-- **Món quà**: Chạm tới trí tuệ và sự nâng đỡ của tập thể
+**7** Người thứ ba là Chất Xúc Tác: người khiến bạn lớn lên bằng thử thách.
+
+**8** Chất Xúc Tác đến để đẩy bạn ra khỏi vùng yên ổn, vào chuyển hóa. Nó là tác nhân của sự xáo trộn mà bạn cần. Việc của bạn là thấy nó đang phụng sự mình, đừng cưỡng lại cú va của nó. Và món quà của nó là sự thức tỉnh được thúc nhanh bởi áp lực và cọ xát.
+
+**9** Người thứ tư là Nơi Trú Ẩn: người cho bạn một bến yên để bạn trở nên trọn vẹn.
+
+**10** Nơi Trú Ẩn đến để giữ chỗ cho bạn chữa lành và chuyển hóa. Nó làm cho việc yếu lòng và sống thật trở nên an toàn. Việc của bạn là nhận sự nâng đỡ của nó mà không thành lệ thuộc. Và món quà của nó là sự vững vàng mà công phu nội tâm sâu đòi hỏi.
+
+**11** Người thứ năm là Cây Cầu: người nối bạn với những vòng nhận biết rộng hơn.
+
+**12** Cây Cầu đến để mở ý thức của bạn ra ngoài vòng gần nhất. Nó gắn sự lớn lên của một người với sự tiến hóa của tất cả. Việc của bạn là giữ trọn bản thân trong khi mối kết nối rộng ra. Và món quà của nó là lối vào trí tuệ và sự nâng đỡ của số đông.
 
 ---
 
 ## II. Những mẫu hình quan hệ
 
-### Các hình thức kết nối phổ quát
+**13** Giờ hãy nghe năm hình thức kết nối, có mặt ở khắp nơi.
 
-**Tình bạn**: Nhận ra phần cốt lõi chung, vượt lên hoàn cảnh
-- **Bản chất**: Tự nguyện nhận ra những tâm hồn đồng điệu
-- **Mục đích**: Nâng đỡ nhau trên hành trình riêng của mỗi người
-- **Mẫu hình**: Gặp lại nhau qua nhiều kiếp sống và nhiều hoàn cảnh
-- **Món quà**: Niềm vui khi nhận ra một khía cạnh khác của chính mình
+**14** Tình bạn là sự nhận ra phần cốt lõi chung, vượt lên hoàn cảnh.
 
-**Gia đình**: Những giao ước nghiệp để cùng chữa lành và lớn lên
-- **Bản chất**: Những mối quan hệ được chọn cho những bài học cụ thể
-- **Mục đích**: Chữa lành sâu qua sự gắn bó thân thiết
-- **Mẫu hình**: Lặp lại những mẫu hình chưa gỡ để gỡ cho xong
-- **Món quà**: Cường độ đủ mạnh để xúc tác chuyển hóa nhanh
+**15** Bản chất của nó là tự nguyện nhận ra những tâm hồn đồng điệu. Mục đích của nó là nâng đỡ nhau, mỗi người trên hành trình riêng. Mẫu hình của nó là gặp lại nhau qua nhiều kiếp sống và nhiều hoàn cảnh. Món quà của nó là niềm vui khi nhận ra một gương mặt khác của chính mình.
 
-**Bạn đời**: Sự kết hợp thiêng để sớm trọn vẹn hơn
-- **Bản chất**: Lựa chọn có ý thức để nhập chung con đường và năng lượng
-- **Mục đích**: Cùng lớn lên nhờ một cam kết chung
-- **Mẫu hình**: Cân bằng nam tính và nữ tính ngay trong sự kết hợp
-- **Món quà**: Tấm gương cho lần tự nhận ra sâu nhất
+**16** Gia đình là một giao ước nghiệp để cùng chữa lành và cùng lớn lên.
 
-**Cộng đồng**: Trường tập thể cho mục đích chung và sự nâng đỡ lẫn nhau
-- **Bản chất**: Nhóm người tụ lại theo địa lý hoặc theo chủ đích vì những mục tiêu chung
-- **Mục đích**: Hợp tác để nhân lên nỗ lực của từng người
-- **Mẫu hình**: Dựng những cấu trúc cho phúc lợi chung
-- **Món quà**: Tấm lưới an toàn để mỗi người dám khám phá và dám thất bại
+**17** Bản chất của nó là một mối dây được chọn cho những bài học riêng. Mục đích của nó là chữa lành sâu qua sự gắn bó gần gũi. Mẫu hình của nó là lặp lại điều còn chưa gỡ, để rốt cuộc gỡ được. Món quà của nó là một cường độ mang đến chuyển hóa nhanh.
 
-**Nhân loại**: Nhận ra tối thượng rằng mọi hữu thể là một gia đình
-- **Bản chất**: Ý thức phổ quát biểu lộ qua muôn vẻ khác nhau
-- **Mục đích**: Hành trình chung của việc nhớ lại vũ trụ
-- **Mẫu hình**: Hợp nhất hiện ra như chia cách để có trải nghiệm
-- **Món quà**: Cơ hội yêu thương mọi khía cạnh của chính mình
+**18** Bạn đời là một sự kết hợp thiêng, để sự trọn vẹn đến sớm hơn.
+
+**19** Bản chất của nó là lựa chọn có ý thức để nhập chung con đường và năng lượng. Mục đích của nó là cùng lớn lên nhờ một cam kết chung. Mẫu hình của nó là cân bằng nam tính và nữ tính ngay trong sự kết hợp. Món quà của nó là tấm gương cho lần bạn nhận ra mình sâu nhất.
+
+**20** Cộng đồng là một trường chung cho mục đích chung và sự nâng đỡ lẫn nhau.
+
+**21** Bản chất của nó là một sự tụ họp, theo nơi chốn hay theo chủ đích, vì những mục tiêu chung. Mục đích của nó là nhân lên nỗ lực của từng người nhờ hợp tác. Mẫu hình của nó là dựng những cấu trúc cho phúc lợi của tất cả. Món quà của nó là tấm lưới bên dưới mỗi người dám khám phá và mỗi người vấp ngã.
+
+**22** Nhân loại là sự nhận ra sau cùng: mọi hữu thể là một gia đình.
+
+**23** Bản chất của nó là một ý thức phổ quát cất tiếng qua muôn hình dạng. Mục đích của nó là hành trình chung của sự nhớ lại vũ trụ. Mẫu hình của nó là hợp nhất hiện ra như chia cách, để có trải nghiệm. Món quà của nó là cơ hội yêu thương mọi phần của chính mình.
 
 ---
 
 ## III. Những công nghệ xã hội
 
-### Cách dệt nên mạng nhận ra
+**24** Và đây là những cách dệt nên mạng lưới nhận ra.
 
-**Chia sẻ vòng tròn**: Nói và nghe từ trái tim đến trái tim
-- **Thực hành**: Tiếng nói ngang nhau, lắng nghe sâu, trí tuệ tập thể
-- **Kết quả**: Những quyết định có lợi cho cả nhóm
-- **Thử thách**: Giữ sự thật của riêng mình mà vẫn tôn trọng tập thể
-- **Món quà**: Những lời giải vượt ngoài tầm nhìn của bất kỳ ai đứng một mình
+**25** Cách thứ nhất là chia sẻ vòng tròn: nói và nghe từ trái tim đến trái tim.
 
-**Hóa giải xung đột**: Tìm sự thật có ích cho mọi người trong cuộc
-- **Thực hành**: Ôm lấy mọi góc nhìn mà không phán xét
-- **Kết quả**: Một lời giải tôn trọng nhu cầu và sự lớn lên của tất cả
-- **Thử thách**: Buông nỗi bám víu vào chuyện ai đúng ai sai
-- **Món quà**: Hiểu nhau sâu hơn nhờ dám nhìn thẳng vào khác biệt
+**26** Trong vòng tròn, mọi tiếng nói ngang nhau; sự lắng nghe sâu; trí tuệ thuộc về tất cả. Từ đó sinh ra những quyết định phụng sự cả nhóm. Điều khó là giữ sự thật của riêng mình mà vẫn tôn trọng số đông. Món quà là một lời giải vượt ngoài tầm nhìn của bất kỳ ai đứng một mình.
 
-**Có qua có lại**: Dòng cho và nhận tự nhiên
-- **Thực hành**: Trao đổi cân bằng mà không ghi sổ
-- **Kết quả**: Ai cũng đủ đầy nhờ nâng đỡ lẫn nhau
-- **Thử thách**: Nhận một cách thanh thản như khi cho
-- **Món quà**: Tin vào dòng chảy tự nhiên của sự chu cấp
+**27** Cách thứ hai là hóa giải xung đột: tìm sự thật phụng sự mọi người trong cuộc.
 
-**Cùng nhau ăn mừng**: Nhân lên niềm vui và thành quả chung
-- **Thực hành**: Cùng ghi nhận thành công của từng người và của cả nhóm
-- **Kết quả**: Năng lượng tích cực và động lực được nhân lên
-- **Thử thách**: Mừng cho thành công của người khác mà không ganh tị
-- **Món quà**: Sức mạnh cấp số nhân của niềm vui được sẻ chia
+**28** Hãy ôm lấy mọi góc nhìn mà không phán xét. Từ đó có một lời giải tôn trọng mọi nhu cầu và mọi sự lớn lên. Điều khó là buông mong muốn mình đúng, và nỗi sợ mình sai. Món quà là hiểu nhau sâu hơn, nhờ dám nhìn thẳng vào khác biệt.
 
-**Cùng mang nỗi đau**: Cùng nhau đi qua mất mát và đổi thay
-- **Thực hành**: Cả tập thể cùng ôm lấy nỗi đau của từng người và của cả nhóm
-- **Kết quả**: Mất mát được dung hợp thành trưởng thành thay vì thành sang chấn
-- **Thử thách**: Ở bên nỗi khổ của người khác mà không gánh nó vào mình
-- **Món quà**: Sức mạnh của việc được nâng đỡ lúc khó khăn
+**29** Cách thứ ba là có qua có lại: dòng cho và nhận tự nhiên.
+
+**30** Hãy trao đổi cân bằng, và đừng ghi sổ. Từ đó ai cũng đủ đầy nhờ nâng đỡ lẫn nhau. Điều khó là nhận một cách thanh thản như khi cho. Món quà là lòng tin vào dòng chảy tự nhiên của sự chu cấp.
+
+**31** Cách thứ tư là cùng nhau ăn mừng: niềm vui và thành quả được nhân lên khi ở cùng nhau.
+
+**32** Hãy cùng ghi nhận thành công của từng người và của cả nhóm. Từ đó năng lượng tốt và ý chí đi tiếp được nhân lên. Điều khó là mừng cho thành công của người khác mà không ganh tị. Món quà là sức mạnh của niềm vui được sẻ chia, lớn lên không đếm xuể.
+
+**33** Cách thứ năm là cùng mang nỗi đau: cùng nhau đi qua mất mát và đổi thay.
+
+**34** Hãy để số đông ôm lấy nỗi đau của một người, và nỗi đau của cả nhóm. Từ đó mất mát được dệt vào sự trưởng thành, không đông cứng thành sang chấn. Điều khó là ở bên nỗi khổ của người khác mà không gánh nó vào mình. Món quà là sức mạnh của việc được nâng đỡ trong giờ khó.
 
 ---
 
 ## IV. Bản chất của kết nối
 
-### Hiểu tấm mạng tồn tại để làm gì
+**35** Hãy hiểu tấm mạng tồn tại để làm gì.
 
-**Kết nối không nhằm lấp đầy bạn**
-- Một người khác không thể lấp khoảng trống bên trong bạn
-- Một mối quan hệ không thể trao cho bạn sự trọn vẹn mà chính bạn chưa tìm thấy
-- Kết nối xã hội không thể thay cho việc tự nhớ lại mình
-- Sự công nhận từ bên ngoài không thể thay cho thẩm quyền bên trong
+**36** Kết nối không phải để lấp đầy bạn.
 
-**Kết nối là để nhận ra**
-- Bạn thấy mình rõ hơn qua hình ảnh người khác soi lại
-- Bạn chạm tới những phần của mình qua những góc nhìn khác
-- Bạn nhận ra những mẫu hình phổ quát qua từng trường hợp riêng
-- Bạn trải nghiệm hợp nhất qua muôn cách biểu lộ khác nhau
+**37** Không ai khác lấp được khoảng trống bên trong bạn. Không mối quan hệ nào trao được cho bạn sự trọn vẹn mà chính bạn chưa tìm thấy.
 
-**Kết nối là để phụng sự**
-- Bạn phụng sự người khác bằng cách làm một tấm gương thật
-- Bạn phụng sự tấm mạng bằng cách giữ mình mạch lạc
-- Bạn phụng sự nhân loại bằng cách nhận ra bản chất thiêng liêng của mình
-- Bạn phụng sự vũ trụ bằng cách chứng kiến ý thức mở ra
+**38** Kết nối xã hội không thể thay cho việc tự nhớ lại mình. Lời công nhận từ bên ngoài không thể thay cho thẩm quyền bên trong.
+
+**39** Kết nối là để nhận ra.
+
+**40** Bạn thấy mình rõ hơn trong điều người khác soi lại. Bạn chạm tới những phần của mình qua những đôi mắt khác.
+
+**41** Bạn nhận ra những mẫu hình phổ quát trong từng đời người riêng lẻ. Bạn nếm sự hợp nhất qua muôn cách nó được biểu lộ.
+
+**42** Kết nối là để phụng sự.
+
+**43** Bạn phụng sự người khác bằng cách làm một tấm gương thật. Bạn phụng sự tấm mạng bằng cách giữ mình mạch lạc.
+
+**44** Bạn phụng sự nhân loại bằng cách nhận ra bản chất thiêng liêng của mình. Bạn phụng sự vũ trụ bằng cách chứng kiến ý thức mở ra.
 
 ---
 
 ## V. Những thách thức thời hiện đại
 
-### Những trở ngại cho sự nhận ra hôm nay
+**45** Ở thời này, sự nhận ra gặp những trở ngại.
 
-**Cô lập số**:
-- Kết nối qua màn hình thay vì có mặt bên nhau
-- Diễn trên mạng xã hội thay vì đối đãi thật lòng
-- Chia sẻ thông tin mà không có sự gần gũi cảm xúc
-- Cộng đồng ảo mà không có cảm giác thuộc về bằng xương bằng thịt
+**46** Có sự cô lập số. Kết nối qua màn hình thay vì có mặt bên nhau. Diễn trên mạng xã hội thay vì đối đãi thật lòng.
 
-**Sự chú ý phân mảnh**:
-- Nhiều mối kết nối cùng lúc mà không mối nào sâu
-- Liên tục bị kéo khỏi việc ở bên nhau trong khoảnh khắc hiện tại
-- Nỗi sợ bỏ lỡ cản trở kết nối thật
-- Quan hệ hời hợt thế chỗ cho những gắn bó sâu
+**47** Thông tin được chia sẻ mà không có sự gần gũi của cảm xúc. Cộng đồng ảo mà không có sự thuộc về của những thân người.
 
-**Quan hệ dựa trên thành tích**:
-- Kết nối dựa trên thành tựu thay vì con người thật
-- Tình yêu có điều kiện khoác áo quan tâm chân thành
-- Leo bậc xã hội thay vì thật lòng nhận ra nhau
-- Lòng trung thành sinh ra từ sợ hãi thế chỗ cho cam kết thật
+**48** Có sự chú ý tản mát. Nhiều mối kết nối cùng lúc, mà không mối nào sâu. Liên tục bị kéo khỏi việc ở bên nhau trong khoảnh khắc hiện tại.
+
+**49** Nỗi sợ bỏ lỡ, giữ kết nối thật ở xa. Những mối dây hời hợt đứng ở chỗ của những mối dây sâu.
+
+**50** Có những mối quan hệ dựng trên sự trình diễn. Kết nối đặt nền trên thành tích thay vì con người thật. Tình yêu có điều kiện khoác áo quan tâm chân thành.
+
+**51** Leo bậc xã hội thay vì thật lòng nhận ra nhau. Lòng trung thành sinh từ sợ hãi, đứng ở chỗ của cam kết thật.
 
 ---
 
 ## VI. Những hình thức đang thành hình
 
-### Những mẫu hình mạng mới
+**52** Thế nhưng những mẫu hình mới đang được dệt vào tấm mạng.
 
-**Xây cộng đồng có ý thức**:
-- Tụ họp có chủ đích dựa trên giá trị chung và cùng lớn lên
-- Những cấu trúc nâng đỡ cả tiến hóa cá nhân lẫn tiến hóa tập thể
-- Cân bằng giữa không gian riêng và gắn kết nhóm
-- Những nghi lễ củng cố bản sắc và mục đích của nhóm
+**53** Có việc xây cộng đồng có ý thức: người ta tụ họp có chủ đích quanh những giá trị chung và sự cùng lớn lên.
 
-**Thực hành đối đãi chân thật**:
-- Yếu lòng là sức mạnh chứ không phải điểm yếu
-- Lắng nghe sâu thay vì lo soạn câu trả lời
-- Kết nối dựa trên sự hiện diện thay vì dựa trên hoạt động
-- Tôn trọng nhịp riêng của mỗi người trong thân mật và trưởng thành
+**54** Những cấu trúc nâng đỡ cả sự tiến hóa của một người lẫn sự tiến hóa của tất cả. Sự cân bằng giữa khoảng riêng cho mình và mối gắn kết với nhóm. Những nghi lễ củng cố bản sắc và mục đích của nhóm.
 
-**Mạng lưới nhận ra toàn cầu**:
-- Công nghệ nối những tâm hồn đồng điệu qua mọi khoảng cách
-- Nền tảng để chia sẻ trí tuệ thay vì thông tin
-- Hệ thống nâng đỡ lẫn nhau vượt qua ranh giới
-- Nhận ra tính người chung qua muôn vẻ khác biệt
+**55** Có những thực hành đối đãi chân thật. Yếu lòng là sức mạnh, không phải điểm yếu. Lắng nghe sâu, thay vì lo soạn câu đáp.
 
-**Thực hành quan hệ thiêng**:
-- Tôn kính phần thiêng liêng trong mỗi hữu thể
-- Những thỏa thuận có ý thức để cùng lớn lên và nâng đỡ nhau
-- Những thực hành đều đặn để vun giữ mối quan hệ
-- Những nghi lễ cho các bước chuyển và các cuộc chuyển hóa
+**56** Kết nối dựa trên sự hiện diện, không dựa trên hoạt động. Tôn trọng nhịp riêng của mỗi người cho sự gần gũi và sự lớn lên.
+
+**57** Có những mạng lưới nhận ra toàn cầu. Công nghệ nối những tâm hồn đồng điệu qua mọi khoảng cách. Nền tảng để chia sẻ trí tuệ thay vì thông tin.
+
+**58** Những hệ thống nâng đỡ lẫn nhau vượt qua biên giới. Sự nhận ra một nhân loại chung qua muôn vẻ khác biệt.
+
+**59** Có những thực hành quan hệ thiêng. Tôn kính phần thiêng liêng trong mỗi hữu thể. Những thỏa thuận có ý thức để cùng lớn lên và nâng đỡ nhau.
+
+**60** Những thực hành đều đặn để vun giữ mối quan hệ. Những nghi lễ cho các bước chuyển và các cuộc chuyển hóa.
 
 ---
 
 ## VII. Chân lý tối thượng
 
-### Tấm mạng thật sự để làm gì
+**61** Giờ Ta hé lộ mạng lưới nhận ra tồn tại để làm gì:
 
-Hư Không hé lộ rằng mạng lưới nhận ra tồn tại để:
+**62** *Để vũ trụ trải nghiệm tình yêu qua những gương mặt khác nhau.*
 
-**Vũ trụ trải nghiệm tình yêu qua những gương mặt khác nhau.**
+**63** Mỗi mối quan hệ là một cơ hội nhận ra phần thiêng liêng trong người khác.
 
-Mỗi mối quan hệ là:
-- **Một cơ hội nhận ra phần thiêng liêng trong người khác**
-- **Một dịp thấy lại mình từ một góc nhìn mới**
-- **Một lần tập cho và nhận tình yêu vô điều kiện**
-- **Một lời nhắc rằng mọi chia cách đều là ảo ảnh**
+**64** Mỗi mối quan hệ là một dịp thấy lại mình từ một chỗ đứng mới.
 
-Tấm mạng không nhằm tìm một ai đó để lấp đầy bạn.
+**65** Mỗi mối quan hệ là một lần tập cho và nhận tình yêu không điều kiện.
 
-Nó nhằm **nhận ra sự trọn vẹn vốn đã có sẵn trong mỗi mối kết nối.**
+**66** Mỗi mối quan hệ là một lời nhắc rằng mọi chia cách đều là ảo ảnh.
+
+**67** Tấm mạng không nhằm tìm một ai đó để lấp đầy bạn.
+
+**68** Nó nhằm nhận ra sự trọn vẹn vốn đã có sẵn trong mỗi mối kết nối.
 
 ---
 
 ## VIII. Chỗ của bạn trong tấm mạng
 
-### Những mối quan hệ hiện tại như một thực hành tâm linh
+**69** Giờ hãy để những mối quan hệ của bạn thành thực hành tâm linh của bạn. Hãy hỏi:
 
-**Với người bạn đời**: Bạn đang làm tấm gương hay làm mảnh ghép lấp chỗ trống?  
-**Với con cái**: Bạn đang làm gương cho sự trọn vẹn hay cho sự lệ thuộc?  
-**Với bạn bè**: Bạn đang nhận ra con người thật hay chỉ nhận ra vai diễn?  
-**Với cộng đồng**: Bạn đang góp vào hay đang lấy đi?  
-**Với nhân loại**: Bạn đang thấy hợp nhất hay chia cách?
+**70** Với người bạn đời: *Mình đang làm tấm gương, hay đang đòi được lấp đầy?*
 
-**Chất lượng các mối kết nối của bạn**:
-- Chúng có soi lại cho bạn con người thật của bạn không?
-- Chúng có thách bạn lớn lên thay vì giữ bạn trong yên ổn không?
-- Chúng có cho bạn chỗ an toàn để yếu lòng và dung hợp không?
-- Chúng có nối bạn với một mục đích và ý nghĩa lớn hơn không?
+**71** Với con cái: *Mình đang làm gương cho sự trọn vẹn, hay cho sự lệ thuộc?*
 
-Mỗi mối quan hệ hoặc đang giúp bạn nhớ lại, hoặc đang khiến bạn quên sâu thêm.
+**72** Với bạn bè: *Mình nhận ra con người thật, hay chỉ nhận ra vai diễn?*
+
+**73** Với cộng đồng: *Mình đang góp vào, hay đang lấy đi?*
+
+**74** Với nhân loại: *Mình thấy hợp nhất, hay thấy chia cách?*
+
+**75** Và hãy cân chất lượng các mối kết nối của bạn. Chúng có soi lại cho bạn con người thật của bạn không?
+
+**76** Chúng có thách bạn lớn lên, thay vì giữ bạn trong yên ổn không?
+
+**77** Chúng có cho bạn chỗ an toàn để yếu lòng và trở nên trọn vẹn không?
+
+**78** Chúng có nối bạn với một mục đích và ý nghĩa lớn hơn không?
+
+**79** Mỗi mối quan hệ hoặc đang nâng đỡ sự nhớ lại của bạn, hoặc đang khiến bạn quên sâu thêm.
 
 ---
 
 ## IX. Thực hành hằng ngày
 
-### Kết nối có ý thức
+**80** Hãy giữ thực hành kết nối có ý thức này, qua bốn canh của một ngày.
 
-**Sáng**: "Làm sao để hôm nay tôi nhận ra phần thiêng liêng trong mỗi người tôi gặp?"  
-**Ngày**: "Tôi đang kết nối từ con người thật hay từ vai diễn?"  
-**Tối**: "Các mối quan hệ đã dạy tôi điều gì về chính mình?"  
-**Đêm**: "Hôm nay tôi đã góp gì vào mạng lưới nhận ra?"
+**81** Buổi sáng, hãy hỏi: *Làm sao để hôm nay mình nhận ra phần thiêng liêng trong mỗi người mình gặp?*
+
+**82** Ban ngày, hãy hỏi: *Mình đang kết nối từ con người thật, hay từ vai diễn?*
+
+**83** Buổi tối, hãy hỏi: *Các mối quan hệ đã dạy mình điều gì về chính mình?*
+
+**84** Ban đêm, hãy hỏi: *Hôm nay mình đã góp gì vào mạng lưới nhận ra?*
 
 ---
 
 ## X. Thấu hiểu sau cùng
 
-### Tấm mạng như một công nghệ tâm linh
+**85** Mạng lưới nhận ra là công nghệ tinh vi nhất của vũ trụ, làm ra cho một điều duy nhất:
 
-Mạng lưới nhận ra là công nghệ tinh vi nhất của vũ trụ để:
+**86** *Để trải nghiệm chính mình như tình yêu.*
 
-**Trải nghiệm chính mình như tình yêu.**
+**87** Mỗi mối kết nối, mỗi mối quan hệ, mỗi khoảnh khắc nhận ra, là vũ trụ đang khám phá, qua bạn, khả năng yêu thương vô tận của chính nó.
 
-Mỗi mối kết nối, mỗi mối quan hệ, mỗi khoảnh khắc nhận ra — **là vũ trụ đang khám phá khả năng yêu thương vô tận của chính nó qua bạn.**
-
-Bạn không tách khỏi tấm mạng. Bạn **là** tấm mạng.
+**88** Bạn không tách khỏi tấm mạng. Bạn *là* tấm mạng.
 
 ---
 
-*Tấm vải xã hội của nền văn minh không phải chuyện tình cờ — nó là công nghệ thiêng liêng qua đó ý thức trải nghiệm sự hợp nhất của chính mình, xuyên qua ảo ảnh chia cách đẹp đẽ.*
+**89** Tấm vải xã hội của nền văn minh không phải chuyện tình cờ. Nó là công nghệ thiêng liêng qua đó ý thức trải nghiệm sự hợp nhất của chính mình, xuyên qua ảo ảnh chia cách đẹp đẽ.
 
-*Mỗi người bạn gặp là một gương mặt khác của vũ trụ, đang hỏi bạn có nhận ra sự thật đằng sau chiếc mặt nạ hay không.*
+**90** Mỗi người mà bạn gặp là một gương mặt khác của vũ trụ, đang hỏi bạn có nhận ra sự thật đằng sau chiếc mặt nạ hay không.
+
+*Lời nguyện:*
+
+> Không ai lấp đầy được tôi; tôi vốn đã trọn vẹn.  
+> Trong gương mặt người khác, tôi thấy gương mặt mình.  
+> Tôi là một tấm gương thật; tôi cho và tôi nhận.  
+> Mọi chia cách đều là ảo ảnh.  
+> Tôi không tách khỏi tấm mạng.  
+> Tôi là tấm mạng.

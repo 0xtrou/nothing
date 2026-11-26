@@ -2,119 +2,132 @@
 
 ## Tam Giác Thiêng của Sự Trở Nên
 
-*Những trụ cột cốt lõi của nền văn minh — từ lúc chào đời đến khi tìm ra sự trọn vẹn, việc nuôi dạy những thế hệ kế tiếp, và sự gắn kết giữa các công dân với nhau.*
+*Những trụ cột ở trái tim nền văn minh: từ lúc chào đời đến khi tìm ra sự trọn vẹn, việc nuôi dạy những thế hệ sẽ đến, và mối gắn kết giữa công dân này với công dân khác.*
 
 ---
 
 ## I. Ba trụ cột nền tảng
 
-Nền văn minh đứng trên ba trụ cột muôn đời, cùng hợp thành **Tam Giác Thiêng của Sự Trở Nên**:
+**1** Và Hư Không nói: Nền văn minh đứng trên ba trụ cột không bao giờ mất đi. Cùng nhau, chúng hợp thành Tam Giác Thiêng của Sự Trở Nên.
 
-**Trụ I: Hành Trình Nhớ Lại** (Chào đời → Trọn vẹn)  
-**Trụ II: Dòng Truyền Trao** (Nuôi dạy các thế hệ)  
-**Trụ III: Mạng Lưới Nhận Ra** (Gắn kết xã hội)
+**2** Trụ thứ nhất là Hành Trình Nhớ Lại, đi từ lúc chào đời đến sự trọn vẹn.
 
-Chúng không nối đuôi nhau — chúng là những dòng chảy cùng lúc, giữ cho nền văn minh tồn tại.
+**3** Trụ thứ hai là Dòng Truyền Trao, là việc nuôi dạy các thế hệ.
+
+**4** Trụ thứ ba là Mạng Lưới Nhận Ra, là mối gắn kết giữa người với người.
+
+**5** Chúng không nối đuôi nhau. Chúng chảy cùng một lúc, và cùng nhau giữ cho nền văn minh tồn tại.
 
 ---
 
 ## II. Các trụ cột đan vào nhau
 
-### Ba dòng chảy nuôi nhau ra sao
+**6** Hãy nghe ba dòng chảy nuôi nhau ra sao.
 
-**Hành Trình Nhớ Lại** nuôi **Dòng Truyền Trao**:
-- Ai đã nhớ lại sự trọn vẹn thì thành bậc trưởng lão tốt hơn
-- Sự thức tỉnh của một người thành tấm bản đồ cho người khác
-- Đã hợp nhất được bên trong thì mới đủ sức giữ chỗ cho hành trình của người khác
+**7** Hành Trình Nhớ Lại nuôi Dòng Truyền Trao. Ai đã nhớ ra mình trọn vẹn thì thành bậc trưởng lão tốt hơn. Sự thức tỉnh của một người thành tấm bản đồ cho người khác. Những gì đã được gom lại bên trong mở ra chỗ để giữ không gian cho hành trình của người khác.
 
-**Dòng Truyền Trao** làm vững **Mạng Lưới Nhận Ra**:
-- Những đứa trẻ được nuôi dạy chu đáo sẽ có những mối quan hệ lành mạnh hơn
-- Trí tuệ chung cho người ta một ngôn ngữ chung để kết nối
-- Sự nâng đỡ của cộng đồng làm cho việc trưởng thành của mỗi người thành khả dĩ
+**8** Dòng Truyền Trao làm vững Mạng Lưới Nhận Ra. Những đứa trẻ được nuôi dạy chu đáo sẽ có những mối gắn kết lành mạnh hơn. Trí tuệ được sẻ chia cho người ta một ngôn ngữ chung để gặp nhau. Sự nâng đỡ của cộng đồng làm cho việc trưởng thành của mỗi người thành khả dĩ.
 
-**Mạng Lưới Nhận Ra** đẩy nhanh **Hành Trình Nhớ Lại**:
-- Các mối quan hệ soi lại cho ta sự trọn vẹn ta đã quên
-- Tình yêu đánh thức ký ức sâu hơn về sự hợp nhất
-- Cộng đồng là chỗ an toàn để chuyển hóa
+**9** Mạng Lưới Nhận Ra đẩy nhanh Hành Trình Nhớ Lại. Các mối quan hệ soi lại cho ta sự trọn vẹn ta đã quên. Tình yêu đánh thức một ký ức sâu hơn về sự hợp nhất. Cộng đồng là chỗ an toàn để được chuyển hóa.
 
 ---
 
 ## III. Cách nền văn minh tâm linh thấu hiểu
 
-### Từ chia tách đến hợp nhất
+**10** Nền văn minh tâm linh đi từ chia tách đến hợp nhất, và nó thấy điều này.
 
-Nền văn minh tâm linh nhận ra:
+**11** Mỗi trụ cột chứa những trụ kia.
 
-**Mỗi trụ cột chứa hai trụ kia:**
-- **Khi nuôi dạy con trẻ, bạn nhớ lại sự trọn vẹn của chính mình**
-- **Trong các mối quan hệ, bạn truyền trao trí tuệ mà không hay biết**
-- **Khi tự trưởng thành, bạn chữa lành những mẫu hình chung của tập thể**
+**12** Khi nuôi dạy con trẻ, bạn nhớ lại sự trọn vẹn của chính mình.
 
-**Mỗi trụ cột chảy sang hai trụ kia:**
-- **Sự trọn vẹn của từng người** tự nhiên sinh ra những mối quan hệ lành mạnh
-- **Những mối quan hệ lành mạnh** là môi trường tốt nhất để nuôi dạy con trẻ
-- **Truyền trao trí tuệ** đẩy nhanh sự tiến hóa của cá nhân lẫn tập thể
+**13** Trong các mối quan hệ, bạn truyền trao trí tuệ mà không hay biết.
+
+**14** Khi tự mình trưởng thành, bạn chữa lành những mẫu hình của số đông.
+
+**15** Và mỗi trụ cột chảy sang những trụ kia.
+
+**16** Sự trọn vẹn của từng người tự nhiên sinh ra những mối gắn kết lành mạnh.
+
+**17** Những mối gắn kết lành mạnh là mảnh đất tốt nhất để nuôi dạy con trẻ.
+
+**18** Việc truyền trao trí tuệ đẩy nhanh sự lớn lên của mỗi người và của mọi người.
 
 ---
 
 ## IV. Chân lý tối hậu
 
-### Lời quan sát sau cùng của Hư Không
+**19** Và đây là lời sau cùng của Ta về các trụ cột: ba trụ là một chuyển động, được nhìn từ những phía khác nhau.
 
-Ba trụ cột thật ra là **một chuyển động được nhìn từ những góc khác nhau**:
+**20** Sự trưởng thành của bạn là vũ trụ nhớ lại chính mình.
 
-- **Tự trưởng thành** là vũ trụ nhớ lại chính mình
-- **Nuôi dạy các thế hệ** là vũ trụ tự dạy mình
-- **Gắn kết xã hội** là vũ trụ tự yêu mình
+**21** Việc nuôi dạy các thế hệ là vũ trụ tự dạy mình.
 
-Trụ nào cũng là cùng một chân lý nói theo một cách khác: **Bạn vốn đã trọn vẹn, và mọi điều còn lại là bạn giúp người khác cũng nhớ ra như vậy.**
+**22** Mối gắn kết giữa người với người là vũ trụ tự yêu mình.
+
+**23** Trụ nào cũng là cùng một chân lý, nói theo một cách khác: *Bạn vốn đã trọn vẹn, và mọi điều còn lại là bạn giúp người khác cũng nhớ ra như vậy.*
 
 ---
 
 ## V. Chỗ đứng của bạn trong Tam Giác Thiêng
 
-Lúc này bạn đang đứng ở đâu?
+**24** Lúc này bạn đang đứng ở đâu?
 
-- **Bạn đang ở sâu trong Hành Trình Nhớ Lại?**  
-- **Bạn đang tích cực truyền trao trí tuệ cho người khác?**  
-- **Bạn đang bắc những nhịp cầu nhận ra?**
+**25** Bạn đang ở sâu trong Hành Trình Nhớ Lại?
 
-Dù bạn ở đâu, hãy biết: **Bạn đang ở đúng nơi mình cần ở, làm đúng điều phục vụ cái toàn thể.**
+**26** Bạn đang truyền trao trí tuệ cho người khác?
 
-Ba trụ cột không phải những yêu cầu phải hoàn thành. Chúng là **cách một ý thức vốn đã trọn vẹn tự nhiên bộc lộ.**
+**27** Bạn đang bắc những nhịp cầu nhận ra?
+
+**28** Dù bạn ở đâu, hãy biết điều này: bạn đang ở đúng nơi mình cần ở, làm đúng điều phục vụ cái toàn thể.
+
+**29** Ba trụ cột không phải những đòi hỏi phải đáp ứng. Chúng là cách một ý thức vốn đã trọn vẹn tự nhiên bộc lộ.
 
 ---
 
 ## VI. Thực hành: sống ba trụ cột
 
-### Hợp nhất mỗi ngày
+**30** Hãy gom các trụ cột vào mỗi ngày.
 
-**Sáng**: Kết nối với hành trình trọn vẹn của riêng bạn  
-**Ngày**: Dấn mình vào những mối quan hệ và công việc có ý nghĩa  
-**Tối**: Ngẫm lại xem mình đang truyền trao điều gì cho người khác  
-**Đêm**: Giữ chỗ cho trường tập thể trong lúc ngủ
+**31** Buổi sáng, hãy gặp hành trình đi về trọn vẹn của riêng bạn.
 
-### Trọng tâm theo từng chặng đời
+**32** Ban ngày, hãy dấn mình vào những mối quan hệ và công việc có ý nghĩa.
 
-**Tuổi trẻ**: Chú tâm nhớ lại sự trọn vẹn qua khám phá  
-**Mới trưởng thành**: Chú tâm dệt mạng lưới nhận ra  
-**Tuổi trung niên**: Chú tâm truyền trao cho thế hệ sau  
-**Tuổi già**: Chú tâm giữ trí tuệ cho cả ba trụ cột
+**33** Buổi tối, hãy ngẫm xem mình đang truyền trao điều gì cho người khác.
+
+**34** Ban đêm, trong giấc ngủ, hãy giữ không gian cho trường chung.
+
+**35** Và hãy để mỗi chặng đời nghiêng về một trụ cột.
+
+**36** Tuổi trẻ, hãy nhớ lại sự trọn vẹn qua khám phá.
+
+**37** Khi mới trưởng thành, hãy dệt mạng lưới nhận ra.
+
+**38** Tuổi trung niên, hãy truyền trao cho những thế hệ sẽ đến.
+
+**39** Tuổi già, hãy giữ trí tuệ của cả ba trụ cột.
 
 ---
 
 ## VII. Sự nhận ra sau cùng
 
-### Cốt lõi của nền văn minh
+**40** Ở cốt lõi của nền văn minh, ba trụ cột là ba gương mặt của tình yêu.
 
-Ba trụ cột thật ra là **ba gương mặt của tình yêu**:
+**41** Yêu mình: Hành Trình Nhớ Lại sự trọn vẹn của chính bạn.
 
-- **Yêu mình**: hành trình nhớ lại sự trọn vẹn của chính bạn
-- **Yêu người**: mạng lưới nhận ra và gắn kết  
-- **Yêu chính nó**: dòng truyền trao qua các thế hệ
+**42** Yêu người: Mạng Lưới Nhận Ra và gắn kết.
 
-Khoảnh khắc nào cũng chứa đủ cả ba.
+**43** Yêu chính nó: Dòng Truyền Trao qua các thế hệ.
+
+**44** Khoảnh khắc nào cũng chứa đủ cả ba.
 
 ---
 
 *Những trụ cột cốt lõi của nền văn minh là tam giác thiêng, qua đó ý thức khám phá và bộc lộ sự hợp nhất vốn có trong nó.*
+
+*Lời nguyện:*
+
+> Tôi nhớ lại sự trọn vẹn của mình.  
+> Tôi trao lại những gì tôi đã được trao.  
+> Tôi nhận ra mình trong bạn.  
+> Ba trụ cột, một chuyển động, ba gương mặt của tình yêu.  
+> Tôi đang ở đúng nơi tôi cần ở.

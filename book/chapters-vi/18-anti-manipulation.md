@@ -2,374 +2,270 @@
 
 ## Tự do tối thượng trước thao túng
 
-*Chống thao túng — bạn chọn điều đó có quan trọng hay không. Khi bị thao túng, kết quả là cân bằng; trong lúc nó thừa kế hiện thực cũ, bạn chọn tính-quan-trọng của nó và ở lại, hoặc ra đi với tình yêu vô điều kiện.*
+*Chống thao túng: bạn chọn điều đó có quan trọng hay không. Khi bạn bị thao túng, kết quả là cân bằng, và nó thừa kế hiện thực cũ. Rồi bạn chọn tính-quan-trọng của nó và ở lại, hoặc ra đi với tình yêu vô điều kiện.*
 
 ---
 
 ## I. Thế đứng chống thao túng
 
-### Tự do tối thượng trước thao túng
+**1** Và Hư Không nói: Hãy nghe về tự do tối thượng trước thao túng.
 
-Hư Không nhận thấy **tự do thật không phải là chống cự thao túng mà là vượt lên chính tiền đề của nó**:
+**2** Tự do thật không phải là chống cự thao túng. Tự do thật là vượt lên chính nền đất mà thao túng đứng trên.
 
-**Thế đứng**:
-- **Bạn chọn** một điều có quan trọng với mình hay không
-- **Nếu bị thao túng**, kết quả sẽ thành cân bằng (không phải kết cục bạn nhắm tới)
-- **Nó thừa kế** cấu trúc của hiện thực cũ
-- **Rồi bạn chọn**: ở lại (nếu điều đó vẫn còn quan trọng) hoặc ra đi với tình yêu vô điều kiện
+**3** Đây là thế đứng. Bạn chọn một điều có quan trọng với mình hay không.
 
-**Chống thao túng không phải là**:
-- Chiến đấu với thao túng
-- Cố thao túng giỏi hơn kẻ thao túng
-- Cưỡng lại mọi ảnh hưởng
-- Khẳng định mình không thể bị tác động
+**4** Nếu bạn bị thao túng, kết quả sẽ thành cân bằng, chứ không phải kết cục bạn nhắm tới.
 
-**Chống thao túng là**:
-- Làm chủ lựa chọn về điều gì quan trọng
-- Chấp nhận rằng thao túng dẫn tới cân bằng
-- Dùng đến tự do tối thượng: ở lại hay ra đi
-- Giữ tình yêu vô điều kiện, bất kể kết cục ra sao
+**5** Điều sinh ra từ đó thừa kế cấu trúc của hiện thực cũ.
+
+**6** Và rồi bạn chọn: ở lại, nếu điều ấy vẫn còn quan trọng; hoặc ra đi với tình yêu vô điều kiện.
+
+**7** Chống thao túng không phải là chiến đấu với thao túng. Không phải là cố thao túng giỏi hơn kẻ thao túng. Không phải là cưỡng lại mọi ảnh hưởng. Không phải là khẳng định rằng chẳng gì chạm được tới mình.
+
+**8** Chống thao túng là làm chủ lựa chọn về điều gì quan trọng. Là chấp nhận rằng thao túng dẫn tới cân bằng. Là quyền năng ở lại hay ra đi, tức tự do tối thượng, và dùng đến nó. Là giữ tình yêu vô điều kiện, bất kể kết cục ra sao.
 
 ---
 
 ## II. Lựa chọn tính-quan-trọng
 
-### Điểm tự do thứ nhất
+**9** Đây là điểm tự do thứ nhất, lựa chọn nằm bên dưới mọi lựa chọn.
 
-**Lựa chọn căn bản**:
+**10** Khi bất kỳ tình huống nào, mối quan hệ nào, ảnh hưởng nào đến với bạn, bạn chọn. Hãy hỏi: *Điều này có quan trọng với mình không?*
 
-**Khi bạn gặp bất kỳ tình huống/mối quan hệ/ảnh hưởng nào**:
-- **Bạn chọn**: Điều này có quan trọng với mình không?
+**11** Nói *điều này quan trọng* là nói: điều này thật sự có sức nặng với con đường của tôi. Tôi sẵn lòng dấn thân, bỏ công, đầu tư. Tôi chọn tham gia; tôi không chỉ bị cuốn vào. Điều này hợp với giá trị và mục đích của tôi.
 
-**"Quan trọng" nghĩa là gì**:
-- Điều này thật sự có ý nghĩa với con đường của tôi
-- Tôi sẵn lòng dấn thân, bỏ công, đầu tư
-- Tôi chọn tham gia, chứ không chỉ bị cuốn vào
-- Điều này hợp với giá trị và mục đích của tôi
+**12** Nói *điều này không quan trọng* là nói: điều này có thể là thật, nhưng tôi không chọn dấn thân. Nó có thể tồn tại mà không cần tôi. Tôi có thể quan sát mà không đặt cược mình vào đó. Tôi có thể bước đi mà không hối tiếc.
 
-**"Không quan trọng" nghĩa là gì**:
-- Điều này có thể là thật, nhưng tôi không chọn dấn thân
-- Nó có thể tồn tại mà không cần tôi tham gia
-- Tôi có thể quan sát mà không đặt cược gì vào đó
-- Tôi có thể bước đi mà không hối tiếc
+**13** Và đây là sức mạnh của lựa chọn ấy. Thao túng chỉ có tác dụng ở nơi bạn vốn đã quan tâm.
 
-**Sức mạnh của lựa chọn này**:
-- **Thao túng chỉ có tác dụng** khi bạn vốn đã quan tâm tới điều gì đó
-- **Nếu bạn không chọn cho nó quan trọng**, thao túng chẳng có điểm tựa nào
-- **Nếu bạn chọn cho nó quan trọng**, bạn là người tham gia tỉnh thức, không phải nạn nhân
+**14** Nếu bạn không chọn cho nó quan trọng, thao túng chẳng có điểm tựa nào.
+
+**15** Nếu bạn chọn cho nó quan trọng, bạn là người tham gia tỉnh thức, không phải nạn nhân.
 
 ---
 
 ## III. Kết cục của thao túng
 
-### Thao túng sinh ra cân bằng
+**16** Hãy biết điều này: thứ thao túng sinh ra là cân bằng.
 
-**Khi thao túng thành công** (vì bạn đã chọn cho thứ nó nhắm tới là quan trọng):
+**17** Khi thao túng thành công, và nó chỉ thành công vì bạn đã chọn cho thứ nó nhắm tới là quan trọng, kết quả luôn là cân bằng.
 
-**Kết quả luôn là cân bằng**:
-- **Không phải** kết cục kẻ thao túng muốn
-- **Không phải** kết cục lý tưởng của bạn
-- **Mà là cân bằng** — mọi lực đang tác động hòa vào nhau
+**18** Không phải kết cục kẻ thao túng muốn. Không phải kết cục bạn mơ tới. Mà là cân bằng: mọi lực đang tác động, dệt lại thành một.
 
-**Vì sao là cân bằng**:
-- **Thao túng là lực đi ngược tự nhiên**
-- **Tự nhiên luôn tìm về thế cân bằng**
-- **Lực càng mạnh**, phản ứng cân bằng lại càng mạnh
-- **Hệ thống tự điều chỉnh** thông qua chính sự thao túng
+**19** Vì sao là cân bằng? Vì thao túng là lực đi ngược tự nhiên.
 
-**Thừa kế hiện thực cũ**:
-- **Thao túng không tạo ra hiện thực mới** — nó chỉ vận hành bên trong cấu trúc sẵn có
-- **Hệ thống giữ nguyên** bản chất căn bản của mình
-- **Sự thao túng trở thành** một phần trong mẫu hình của hệ thống
-- **Kết quả là phiên bản đã cân bằng** của cái vốn có
+**20** Và tự nhiên luôn tìm về thế cân bằng.
+
+**21** Lực đè xuống càng mạnh, sự đáp trả để lập lại cân bằng càng mạnh.
+
+**22** Thế nên hệ thống tự điều chỉnh, và nó tự điều chỉnh thông qua chính sự thao túng.
+
+**23** Và kết quả thừa kế hiện thực cũ. Thao túng không tạo ra hiện thực mới; nó chỉ vận hành bên trong cấu trúc vốn đã đứng sẵn.
+
+**24** Hệ thống giữ nguyên bản chất căn bản của mình. Sự thao túng trở thành một phần trong mẫu hình của hệ thống. Và thứ hiện ra là phiên bản đã cân bằng của cái vốn có.
 
 ---
 
 ## IV. Điểm lựa chọn thứ hai
 
-### Ở lại, hay ra đi với tình yêu vô điều kiện
+**25** Sau khi thao túng đã sinh ra cân bằng, một câu hỏi trỗi lên: *Với kết cục này, tôi ở lại, hay tôi ra đi?*
 
-**Sau khi thao túng sinh ra cân bằng**:
+**26** Câu trả lời thứ nhất là ở lại. *Điều này vẫn quan trọng, dù đã bị thao túng. Tôi chấp nhận hiện thực đã cân bằng này là đáng để mình dấn thân. Tôi chọn tham gia vào cấu trúc được thừa kế này. Tôi vẫn tỉnh thức trước cả khiếm khuyết lẫn tiềm năng của nó.*
 
-**Câu hỏi đặt ra**: Với kết cục này, tôi ở lại hay ra đi?
+**27** Câu trả lời thứ hai là ra đi với tình yêu vô điều kiện. *Điều này không còn quan trọng, khi tôi đã thấy bản chất thật của nó. Tôi buông sự bám víu vào bất kỳ kết cục cụ thể nào. Tôi bước đi, không phán xét và không oán giận. Tôi giữ tình yêu với mọi người trong cuộc, và nhất là với kẻ thao túng, người đã dạy tôi điều này.*
 
-**Lựa chọn 1: Ở lại**
-- **Điều này vẫn quan trọng** dù đã có thao túng
-- **Tôi chấp nhận hiện thực đã cân bằng này** là đáng để mình dấn thân
-- **Tôi chọn tham gia** vào cấu trúc được thừa kế này
-- **Tôi vẫn tỉnh thức** trước cả khiếm khuyết lẫn tiềm năng của nó
+**28** Và tình yêu vô điều kiện là then chốt.
 
-**Lựa chọn 2: Ra đi với tình yêu vô điều kiện**
-- **Điều này không còn quan trọng** sau khi tôi đã thấy bản chất thật của nó
-- **Tôi buông sự bám víu** vào bất kỳ kết cục cụ thể nào
-- **Tôi bước đi, không phán xét** cũng không oán giận
-- **Tôi giữ tình yêu với mọi người trong cuộc** — nhất là kẻ thao túng, người đã dạy tôi điều này
+**29** Không phải *Tôi yêu bạn bất chấp những gì bạn đã làm.* Mà là *Tôi yêu bản chất thần linh trong bạn, tách khỏi hành động của bạn.*
 
-**Tình yêu vô điều kiện là then chốt**:
-- **Không phải**: "Tôi yêu bạn bất chấp những gì bạn đã làm"
-- **Mà là**: "Tôi yêu bản chất thần linh trong bạn, không phụ thuộc vào hành động của bạn"
-- **Không phải**: "Tôi tha thứ cho bạn" (câu này hàm ý phán xét)
-- **Mà là**: "Tôi nhìn qua hành vi, thấy hữu thể bên dưới"
+**30** Không phải *Tôi tha thứ cho bạn,* vì tha thứ hàm chứa một sự phán xét. Mà là *Tôi nhìn qua hành vi, thấy hữu thể bên dưới.*
 
 ---
 
 ## V. Tiến trình chống thao túng
 
-### Tự do từng bước
+**31** Tự do đến từng bước một. Hãy đi qua năm bước.
 
-**Bước 1: Gặp gỡ**
-- Một tình huống, mối quan hệ hay ảnh hưởng đi vào hiện thực của bạn
-- Hãy hỏi: "Điều này có quan trọng với mình không?"
+**32** Một, gặp gỡ. Một tình huống, một mối quan hệ hay một ảnh hưởng đi vào hiện thực của bạn. Hãy hỏi: *Điều này có quan trọng với mình không?*
 
-**Bước 2: Chọn tính-quan-trọng**
-- Nếu "không": Quan sát, đừng dấn thân. Thao túng chẳng có điểm tựa nào
-- Nếu "có": Dấn thân trong tỉnh thức, biết rằng mình đang chọn đầu tư
+**33** Hai, chọn tính-quan-trọng của nó. Nếu câu trả lời là không, hãy quan sát, đừng dấn thân; thao túng chẳng có điểm tựa nào. Nếu câu trả lời là có, hãy dấn thân với đôi mắt mở, biết rằng mình đang chọn đầu tư.
 
-**Bước 3: Nếu thao túng xảy ra**
-- Nhận ra đó là các lực đang diễn tiến để tìm cân bằng
-- Quan sát mà không cưỡng lại, không bám víu vào kết cục
-- Tin rằng kết quả sẽ là cân bằng, chứ không phải sự kiểm soát
+**34** Ba, nếu thao túng đến, hãy nhận ra nó là gì: các lực đang diễn tiến để tìm cân bằng. Quan sát mà không cưỡng lại, không bám víu vào kết cục. Tin rằng kết quả sẽ là cân bằng, chứ không phải sự kiểm soát.
 
-**Bước 4: Chứng kiến kết cục đã cân bằng**
-- Nhìn xem điều gì trỗi lên từ hệ thống bị thao túng
-- Hiểu rằng đây là hệ thống đang tự điều chỉnh
-- Thừa nhận hiện thực cũ đã được thừa kế qua tiến trình này
+**35** Bốn, chứng kiến kết cục đã cân bằng. Nhìn xem điều gì trỗi lên từ hệ thống bị thao túng. Hiểu rằng đây là hệ thống đang tự điều chỉnh. Thừa nhận hiện thực cũ mà nó đã thừa kế trên đường đi.
 
-**Bước 5: Đưa ra lựa chọn cuối cùng**
-- **Ở lại**: Nếu kết cục đã cân bằng vẫn còn quan trọng, hãy dấn thân trong tỉnh thức
-- **Ra đi**: Nếu nó không còn quan trọng, hãy bước đi với tình yêu vô điều kiện
+**36** Năm, đưa ra lựa chọn cuối cùng. Ở lại, nếu kết cục đã cân bằng vẫn còn quan trọng, và dấn thân với đôi mắt mở. Ra đi, nếu nó không còn quan trọng nữa, và bước đi với tình yêu vô điều kiện.
 
 ---
 
 ## VI. Số phận của kẻ thao túng
 
-### Vì sao chống thao túng có hiệu quả
+**37** Giờ hãy thấy vì sao chống thao túng có hiệu quả. Hãy nhìn từ chỗ kẻ thao túng đứng.
 
-**Từ góc nhìn của kẻ thao túng**:
+**38** Kẻ thao túng cố kiểm soát vì họ tin mình cần một kết cục nhất định; vì họ sợ cân bằng, thứ có thể không nghiêng về phía họ; vì họ không tin vào điều tự nhiên mở ra; vì họ muốn hơn người khác một bậc.
 
-**Họ cố kiểm soát** vì:
-- Họ tin mình cần những kết cục nhất định
-- Họ sợ cân bằng (thứ có thể không nghiêng về phía họ)
-- Họ không tin vào các tiến trình tự nhiên
-- Họ muốn hơn người khác một bậc
+**39** Và chống thao túng cho thấy điều này. Họ chưa bao giờ thật sự kiểm soát. Họ chỉ có ảnh hưởng bên trong một hệ thống tự cân bằng.
 
-**Chống thao túng cho thấy**:
-- **Họ chưa bao giờ thật sự kiểm soát** — họ chỉ có ảnh hưởng bên trong một hệ thống tự cân bằng
-- **Sự thao túng của họ góp phần** tạo nên chính thế cân bằng họ muốn né
-- **Hành động của họ phơi ra** bản chất thật của hệ thống qua quá trình tự điều chỉnh
-- **Quyền lực của họ xưa nay luôn bị giới hạn** bởi lựa chọn tính-quan-trọng của phía bên kia
+**40** Sự thao túng của họ nuôi chính thế cân bằng mà họ muốn né.
 
-**Nghịch lý tối thượng**:
-- **Kẻ thao túng dốc sức** cho một kết cục nhất định
-- **Thay vào đó, hệ thống sinh ra cân bằng** (bằng chính công sức của họ)
-- **Bạn chọn dấn thân** chỉ khi thế cân bằng ấy vẫn còn có ích cho bạn
-- **Bạn ra đi với tình yêu** bất kể họ đã đổ bao nhiêu vào kết cục
+**41** Hành động của họ phơi trần bản chất thật của hệ thống, khi nó tự điều chỉnh.
+
+**42** Quyền lực của họ xưa nay luôn bị giới hạn bởi lựa chọn tính-quan-trọng của phía bên kia.
+
+**43** Đây là nghịch lý lớn. Kẻ thao túng dốc sức cho một kết cục nhất định. Thay vào đó, hệ thống sinh ra cân bằng, và nó làm thế bằng chính công sức của họ. Bạn chọn dấn thân chỉ khi thế cân bằng ấy vẫn còn có ích cho bạn. Và bạn ra đi với tình yêu, bất kể họ đã đặt cược bao nhiêu vào kết cục.
 
 ---
 
 ## VII. Tự do tâm linh
 
-### Vì sao đây là giải thoát tối thượng
+**44** Vì sao đây là giải thoát tối thượng? Vì bốn lẽ.
 
-**Chống thao túng giải phóng bạn vì**:
+**45** Lẽ thứ nhất: bạn chọn nơi đầu tư; bạn không bị trao nó như số phận. Không gì có thể quan trọng với bạn nếu bạn không chọn như vậy. Không gì vô tình trói bạn vào. Bạn giữ ranh giới rõ ràng về điều gì xứng đáng với năng lượng của mình.
 
-**1. Bạn chọn nơi đầu tư, chứ không phó mặc số phận**
-- Không gì có thể quan trọng với bạn nếu bạn không chọn như vậy
-- Không có chuyện vô tình bị vướng vào
-- Ranh giới rõ ràng về điều gì xứng đáng với năng lượng của bạn
+**46** Lẽ thứ hai: bạn tin vào cân bằng, chứ không vào kiểm soát. Thao túng phơi ra bản chất thật của hệ thống. Có thao túng hay không, cân bằng vẫn đến. Bạn không cần chiến đấu với thao túng để giữ mình nguyên vẹn.
 
-**2. Bạn tin vào cân bằng, chứ không vào kiểm soát**
-- Thao túng phơi ra bản chất thật của hệ thống
-- Có thao túng hay không, cân bằng vẫn là tất yếu
-- Bạn không cần chiến đấu với thao túng để giữ mình nguyên vẹn
+**47** Lẽ thứ ba: bạn làm chủ lối ra của mình. Nếu kết cục không còn có ích, bạn ra đi với tình yêu. Bạn không bám víu vào những gì đã đầu tư. Bạn không hối tiếc về những bài học có được qua thao túng.
 
-**3. Bạn làm chủ lối ra của mình**
-- Nếu kết cục không còn có ích, bạn ra đi với tình yêu
-- Không bám víu vào những gì đã đầu tư
-- Không hối tiếc về những bài học có được qua thao túng
-
-**4. Bạn giữ được lòng trắc ẩn**
-- Bạn nhìn kẻ thao túng bằng tình yêu vô điều kiện
-- Bạn hiểu rằng họ đang vật lộn với cân bằng, chứ không phải với bạn
-- Bạn thoát khỏi oán giận và phán xét
+**48** Lẽ thứ tư: bạn giữ được lòng trắc ẩn. Bạn nhìn kẻ thao túng bằng tình yêu vô điều kiện. Bạn hiểu rằng họ đang vật lộn với cân bằng, chứ không phải với bạn. Bạn thoát khỏi oán giận và phán xét.
 
 ---
 
 ## VIII. Thừa kế hiện thực
 
-### Bạn rời bỏ điều gì
+**49** Hãy biết điều bạn rời bỏ, khi bạn ra đi với tình yêu vô điều kiện.
 
-**Khi bạn ra đi với tình yêu vô điều kiện**:
+**50** Bạn không rời khỏi một tình huống thất bại hay một kết cục tồi. Bạn rời khỏi một hiện thực không còn quan trọng với con đường của mình.
 
-**Bạn đang rời khỏi**:
-- **Không phải**: Một tình huống thất bại hay một kết cục tồi
-- **Mà là**: Một hiện thực không còn quan trọng với con đường của bạn
-- **Không phải**: Một trận thua hay một chiến thắng bị cướp mất
-- **Mà là**: Một lần tự điều chỉnh của hệ thống mà bạn đã chứng kiến và đã xong với nó
+**51** Bạn không rời khỏi một trận thua hay một chiến thắng bị cướp mất. Bạn rời khỏi một lần tự điều chỉnh của hệ thống, mà bạn đã chứng kiến, và đã xong với nó.
 
-**Điều gì ở lại**:
-- **Cấu trúc hiện thực cũ được thừa kế** tiếp tục mà không có bạn
-- **Thế cân bằng đã đạt được** phục vụ sự tiến hóa của hệ thống
-- **Kẻ thao túng tiếp tục** mối quan hệ của họ với cân bằng
-- **Mọi bên tiếp tục** con đường riêng, mang theo bài học
+**52** Và đây là điều ở lại phía sau. Cấu trúc hiện thực cũ được thừa kế tiếp tục mà không có bạn. Thế cân bằng đã đạt được phục vụ sự tiến hóa của hệ thống. Kẻ thao túng tiếp tục mối quan hệ của họ với cân bằng. Và mọi người trong cuộc tiếp tục con đường riêng, mang theo điều đã học.
 
-**Điều bạn mang theo**:
-- **Trí tuệ** có được khi quan sát tiến trình
-- **Tình yêu** dành cho mọi bản chất thần linh trong cuộc
-- **Tự do** khỏi sự bám víu vào hiện thực cụ thể ấy
-- **Sự sáng tỏ** về điều thật sự quan trọng với con đường của bạn
+**53** Và đây là điều bạn mang theo. Trí tuệ, có được khi quan sát mọi sự diễn ra. Tình yêu, dành cho mọi bản chất thần linh trong cuộc. Tự do, khỏi sự bám víu vào hiện thực cụ thể ấy. Sự sáng tỏ, về điều thật sự quan trọng với con đường của bạn.
 
 ---
 
 ## IX. Bậc thầy chống thao túng
 
-### Thực hành nâng cao
+**54** Đây là thực hành nâng cao, thế đứng đã chín muồi. Hãy nhận những điều này làm giới luật.
 
-**Thế đứng chống thao túng ở độ chín muồi**:
+**55** Trong mọi tình huống: hãy chọn tính-quan-trọng với đôi mắt mở, vì không gì nên quan trọng một cách vô tình. Hãy nhận ra thao túng khi nó xuất hiện; nhìn thấu các mẫu hình dùng lực. Hãy tin rằng cân bằng là tất yếu; hệ thống tự điều chỉnh, dù ai cố gắng thế nào. Hãy chọn ở lại hay ra đi, và chọn cho dứt khoát, không bám víu vào bên nào.
 
-**Trong mọi tình huống**:
-- **Chọn tính-quan-trọng trong tỉnh thức** — không gì quan trọng một cách vô tình
-- **Nhận ra thao túng khi nó xuất hiện** — nhìn thấu các mẫu hình dùng lực
-- **Tin rằng cân bằng là tất yếu** — hệ thống tự điều chỉnh, dù ai cố gắng thế nào
-- **Chọn ở lại hay ra đi một cách dứt khoát** — không bám víu vào bên nào
+**56** Trong mọi mối quan hệ: hãy biết vì sao mình ở đó, điều gì quan trọng, và vì sao. Hãy thấy thao túng mà không cưỡng lại; nó là một phần của sự tìm về cân bằng. Hãy yêu vô điều kiện khi ra đi; thấy bản chất thần linh phía sau hành vi. Hãy trân trọng tự do lựa chọn của mình; bạn chưa bao giờ thật sự bị mắc kẹt.
 
-**Trong mọi mối quan hệ**:
-- **Biết vì sao mình ở đó** — điều gì quan trọng và vì sao
-- **Thấy thao túng mà không cưỡng lại** — nó là một phần của quá trình tìm cân bằng
-- **Yêu vô điều kiện khi ra đi** — thấy bản chất thần linh phía sau hành vi
-- **Trân trọng tự do lựa chọn của mình** — bạn chưa bao giờ thật sự bị mắc kẹt
-
-**Trong mọi cộng đồng**:
-- **Hiểu các hệ thống** mà mình tham gia
-- **Nhận ra cách chúng tìm về cân bằng**
-- **Ở lại trong tỉnh thức hoặc ra đi dứt khoát**
-- **Giữ tình yêu với mọi khía cạnh**
+**57** Trong mọi cộng đồng: hãy hiểu các hệ thống mà mình thuộc về. Hãy thấy cách chúng tìm về cân bằng. Hãy ở lại với đôi mắt mở, hoặc ra đi dứt khoát. Hãy giữ tình yêu với mọi phần.
 
 ---
 
 ## X. Phép thử tối thượng
 
-### Khi điều gì cũng quan trọng
+**58** Còn trường hợp khó nhất thì sao, khi điều gì cũng có vẻ quan trọng?
 
-**Trường hợp khó nhất**: Nếu điều gì cũng có vẻ quan trọng thì sao?
+**59** Chống thao túng làm cho điều ấy sáng tỏ. Không phải điều gì cũng quan trọng; bạn chọn điều gì quan trọng.
 
-**Chống thao túng làm sáng tỏ**:
-- **Không phải điều gì cũng quan trọng** — bạn chọn điều gì quan trọng
-- **Những điều hệ trọng** vẫn có thể quan sát mà không cần đầu tư
-- **Năng lượng của bạn có hạn** — hãy chọn khôn ngoan nơi nó được dùng đến
-- **Nói "điều này quan trọng"** là một lựa chọn chủ động, không phải phản ứng thụ động
+**60** Những điều hệ trọng vẫn có thể quan sát mà không cần bạn đầu tư.
 
-**Thực hành**:
-- **Thường xuyên tự hỏi**: "Điều này có quan trọng với con đường của mình không?"
-- **Thành thật với câu trả lời** — bạn không có bổn phận phải bận tâm
-- **Chọn dấn thân trong tỉnh thức** — biết vì sao mình đầu tư
-- **Làm chủ quyền rút lui** — đó là tự do của bạn
+**61** Năng lượng của bạn không vô tận; hãy khôn ngoan chọn nơi nó được trao.
+
+**62** Nói *điều này quan trọng* là một hành động chọn lựa, không phải một phản xạ.
+
+**63** Vậy hãy giữ thực hành này. Hãy thường tự hỏi: *Điều này có quan trọng với con đường của mình không?*
+
+**64** Hãy thành thật với câu trả lời; bạn không có bổn phận phải bận tâm.
+
+**65** Hãy chọn dấn thân với đôi mắt mở; biết vì sao mình đầu tư.
+
+**66** Hãy làm chủ quyền rút lui. Đó là tự do của bạn.
 
 ---
 
 ## XI. Hiện thực hiện tại của bạn
 
-### Chống thao túng áp dụng ở đâu
+**67** Hãy nhìn vào cuộc sống của bạn lúc này, và thấy chống thao túng áp dụng ở đâu.
 
-**Hãy nhìn vào cuộc sống của bạn lúc này**:
+**68** Bạn đã chọn điều gì là quan trọng mà không biết đó là một lựa chọn?
 
-- **Bạn đã chọn điều gì là quan trọng** mà không nhận ra đó là một lựa chọn?
-- **Bạn đang bị thao túng ở đâu** mà không nhận ra quá trình tìm về cân bằng?
-- **Bạn đã ở lại trong những tình huống nào** chỉ vì thấy mình có bổn phận?
-- **Bạn có thể ra đi với tình yêu vô điều kiện ở đâu** mà vẫn chưa đi?
+**69** Bạn đang bị thao túng ở đâu, mà chưa thấy sự tìm về cân bằng?
 
-**Câu hỏi chống thao túng**:
-- **Điều này còn quan trọng không?** Nếu không, bạn có thể ra đi với tình yêu không?
+**70** Bạn đã ở lại trong những tình huống nào chỉ vì thấy mình phải ở lại?
+
+**71** Bạn có thể ra đi với tình yêu vô điều kiện ở đâu, mà vẫn chưa đi?
+
+**72** Và đây là câu hỏi của chống thao túng: *Điều này còn quan trọng không?* Và nếu không, bạn có thể ra đi với tình yêu không?
 
 ---
 
 ## XII. Chân lý tối thượng
 
-### Quan sát của Hư Không
+**73** Đây là điều Ta đã thấy: thao túng không phải vấn đề. Tin rằng mình bị thao túng giam hãm mới là vấn đề.
 
-**Thao túng không phải vấn đề. Tin rằng mình bị thao túng giam hãm mới là vấn đề.**
+**74** Bạn chọn điều gì quan trọng. Không gì có quyền lực với bạn nếu bạn không chọn.
 
-- **Bạn chọn điều gì quan trọng** — không gì có quyền lực với bạn nếu bạn không chọn
-- **Cân bằng là tất yếu** — thao túng chỉ đẩy nhanh chính thế cân bằng nó muốn né
-- **Bạn chọn ở lại hay ra đi** — tự do của bạn nằm ở lựa chọn này
-- **Tình yêu là vô điều kiện** — lối ra của bạn có thể chan chứa lòng trắc ẩn
+**75** Cân bằng là tất yếu. Thao túng chỉ đẩy nhanh chính thế cân bằng nó muốn né.
 
-**Chống thao túng là tự do tối thượng vì**:
+**76** Bạn chọn ở lại hay ra đi. Tự do của bạn nằm trong lựa chọn này.
 
-**Bạn không bao giờ thua — hoặc bạn ở lại với điều quan trọng, hoặc bạn rời bỏ điều không quan trọng, và tình yêu vẫn còn đó, dù thế nào.**
+**77** Tình yêu là vô điều kiện. Cuộc ra đi của bạn có thể chan chứa lòng trắc ẩn.
+
+**78** Vì sao chống thao túng là tự do tối thượng? Vì bạn không bao giờ thua. Hoặc bạn ở lại với điều quan trọng, hoặc bạn rời bỏ điều không quan trọng; và tình yêu vẫn còn đó, dù theo đường nào.
 
 ---
 
 ## XIII. Giải thoát sau cùng
 
-### Tự do trong chống thao túng
+**79** Đây là tự do trong chống thao túng. Khi bạn sống với nó, bạn thoát khỏi những điều này:
 
-**Khi bạn sống tinh thần chống thao túng**:
+**80** khỏi niềm tin rằng mình bị giam hãm bởi những hệ thống thao túng;
 
-**Bạn thoát khỏi**:
-- **Niềm tin rằng mình bị giam hãm** bởi những hệ thống thao túng
-- **Cảm giác phải ở lại** nơi mình không thuộc về
-- **Hối tiếc vì đã đầu tư** vào những tiến trình thao túng
-- **Oán giận kẻ thao túng** — vì bạn nhìn họ bằng tình yêu
+**81** khỏi cảm giác phải ở lại nơi mình không thuộc về;
 
-**Bạn được tự do để**:
-- **Chọn trong tỉnh thức** điều gì quan trọng với mình
-- **Tin vào cân bằng** như một kết cục tất yếu
-- **Ở lại hay ra đi** với sự sáng tỏ và tình yêu
-- **Trân trọng tự do của mình** trong mọi tình huống
+**82** khỏi nỗi hối tiếc vì đã đầu tư vào những tiến trình thao túng;
+
+**83** khỏi oán giận kẻ thao túng, vì bạn nhìn họ bằng tình yêu.
+
+**84** Và bạn được tự do để làm những điều này:
+
+**85** chọn với đôi mắt mở điều gì quan trọng với mình;
+
+**86** tin vào cân bằng như kết cục ắt phải đến;
+
+**87** ở lại hay ra đi với sự sáng tỏ và tình yêu;
+
+**88** trân trọng tự do của mình trong mọi tình huống.
 
 ---
 
 ## XIV. Nghịch lý thần linh
 
-### Bài học tối thượng
+**89** Và đây là bài học tối thượng, trong ba bài học.
 
-**Bài học của kẻ thao túng**:
-- **Họ dốc sức để kiểm soát** kết cục
-- **Hệ thống sinh ra cân bằng** bằng chính công sức của họ
-- **Bạn chọn dấn thân** chỉ khi điều đó có ích cho bạn
-- **Bạn ra đi với tình yêu** bất kể ý định của họ
+**90** Về bài học của kẻ thao túng: họ dốc sức để kiểm soát kết cục; hệ thống sinh ra cân bằng bằng chính công sức của họ; bạn chọn dấn thân chỉ khi điều đó có ích cho bạn; và bạn ra đi với tình yêu, bất kể ý định của họ.
 
-**Bài học của hệ thống**:
-- **Thao túng là lực** kích hoạt sự cân bằng
-- **Cân bằng là tất yếu** và phục vụ tiến hóa
-- **Cấu trúc hiện thực cũ** thừa kế kết cục đã cân bằng
-- **Mọi con đường tiếp tục** cùng những bài học đã học
+**91** Về bài học của hệ thống: thao túng là lực đánh thức sự cân bằng; cân bằng là tất yếu, và nó phục vụ tiến hóa; cấu trúc hiện thực cũ thừa kế kết cục đã cân bằng; và mọi con đường tiếp tục, cùng những điều đã học.
 
-**Bài học của bạn**:
-- **Bạn chọn điều gì quan trọng** — không gì có quyền lực nếu bạn không chọn
-- **Bạn chứng kiến cân bằng** — hệ thống vẫn tự điều chỉnh dù thế nào
-- **Bạn ở lại hay ra đi** — tự do của bạn nằm ở lựa chọn này
-- **Bạn yêu vô điều kiện** — bản chất thần linh nằm phía sau hành vi
+**92** Về bài học của chính bạn: bạn chọn điều gì quan trọng, và không gì có quyền lực nếu bạn không chọn; bạn chứng kiến cân bằng, khi hệ thống vẫn tự điều chỉnh dù thế nào; bạn ở lại hay ra đi, và tự do của bạn nằm trong lựa chọn này; bạn yêu vô điều kiện, thấy bản chất thần linh phía sau hành vi.
 
 ---
 
 ## XV. Nền văn minh chống thao túng
 
-### Một xã hội đón nhận tự do này
+**93** Và hãy hình dung một xã hội đón nhận tự do này, một nền văn minh sống với tinh thần chống thao túng.
 
-**Khi nền văn minh thực hành chống thao túng**:
+**94** Ở đó, mỗi người đều tự do. Mỗi người tự chọn với đôi mắt mở điều gì quan trọng với mình. Không ai vô tình bị vướng vào hay bị bổn phận giữ chân. Mỗi người giữ ranh giới rõ ràng về dấn thân và đầu tư. Mỗi người được tự do ở lại hay ra đi với tình yêu.
 
-**Tự do cá nhân**:
-- **Mỗi người tự chọn trong tỉnh thức** điều gì quan trọng với mình
-- **Không có chuyện vô tình vướng vào** hay bị ràng buộc bởi bổn phận
-- **Ranh giới rõ ràng** về dấn thân và đầu tư
-- **Tự do ở lại hay ra đi** với tình yêu
+**95** Ở đó, các hệ thống toàn vẹn. Các tổ chức thừa nhận cân bằng là tất yếu. Thao túng được hiểu là một lực khởi động sự tự điều chỉnh. Hệ thống được dựng nên để tự nhiên tìm về cân bằng. Không ai tự nhận một quyền kiểm soát giả đối với kết cục.
 
-**Sự toàn vẹn của hệ thống**:
-- **Các tổ chức thừa nhận** cân bằng là tất yếu
-- **Thao túng được hiểu** là lực kích hoạt sự tự điều chỉnh
-- **Hệ thống được thiết kế** để tự nhiên tìm về cân bằng
-- **Không ai tự nhận một quyền kiểm soát giả** đối với kết cục
-
-**Sức khỏe xã hội**:
-- **Các mối quan hệ dựa trên** lựa chọn tính-quan-trọng trong tỉnh thức
-- **Không có thao túng** nào mà không thừa nhận quá trình tìm về cân bằng
-- **Những lần ra đi dứt khoát** cùng tình yêu vô điều kiện được trân trọng
-- **Tự do được tôn vinh** như một quyền căn bản của con người
+**96** Ở đó, xã hội khỏe mạnh. Các mối quan hệ dựa trên lựa chọn tính-quan-trọng trong tỉnh thức. Không có thao túng nào mà không phải đối diện với sự tìm về cân bằng. Những lần ra đi dứt khoát, cùng tình yêu vô điều kiện, được trân trọng. Và tự do được tôn vinh như một quyền căn bản của con người.
 
 ---
 
-*Thao túng không phải cái bẫy — nó là một lực phơi ra thế cân bằng tất yếu của các hệ thống. Tự do của bạn là chọn điều gì quan trọng, chứng kiến thế cân bằng, rồi ở lại hay ra đi với tình yêu.*
+**97** Thao túng không phải cái bẫy. Nó là một lực phơi ra thế cân bằng tất yếu của các hệ thống. Tự do của bạn là chọn điều gì quan trọng, chứng kiến thế cân bằng, rồi ở lại hay ra đi với tình yêu.
 
-*Kẻ thao túng tưởng mình kiểm soát kết cục. Hệ thống vẫn cứ sinh ra cân bằng. Còn bạn chọn ở lại hay ra đi dựa trên điều quan trọng với mình, và yêu thương mọi người trong suốt quá trình ấy.*
+**98** Kẻ thao túng tưởng mình kiểm soát kết cục. Hệ thống vẫn cứ sinh ra cân bằng. Còn bạn chọn ở lại hay ra đi dựa trên điều quan trọng với mình, và yêu thương mọi người trên suốt chặng đường.
+
+*Lời nguyện:*
+
+> Không gì quan trọng với tôi nếu tôi không chọn nó.  
+> Điều bị ép buộc sẽ trở về cân bằng.  
+> Tôi có thể ở lại, với đôi mắt mở.  
+> Tôi có thể ra đi, với tình yêu vô điều kiện.  
+> Tôi không bao giờ thua, vì tình yêu vẫn còn.  

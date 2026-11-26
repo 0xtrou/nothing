@@ -2,223 +2,241 @@
 
 ## The Essential Prerequisite
 
-*Every citizen (consciousness) must be wholeness of itself.*
+*Every citizen, every consciousness, must be whole within itself.*
 
 ---
 
 ## I. The Foundation: Individual Wholeness
 
-### The Prerequisite for Spiritual Governance
+**1** And the Void said: What I have shown you cannot come to be if the citizens are broken into pieces. Wholeness is what must come first, before spiritual governance.
 
-What I described cannot happen if the citizens are fragmented:
+**2** Distributed consensus needs people who are not divided within.
 
-- **Distributed consensus requires individuals who are not internally divided**
-- **Resonance-based decisions need people who are not at war with themselves**
-- **Rotating leadership only works when each person is already their own authority**
-- **Harmony restoration depends on people who have found their own inner harmony first**
+**3** Decisions made by resonance need people who are not at war with themselves.
 
-The spiritual civilization discovers: **We cannot govern the whole until each part is whole.**
+**4** Leadership that turns works only when each person is already their own authority.
+
+**5** The restoring of harmony depends on people who have first found harmony inside.
+
+**6** And so the spiritual civilization learns: *We cannot govern the whole until each part is whole.*
 
 ---
 
 ## II. The Journey to Personal Wholeness
 
-### What Wholeness Means
+**7** What does wholeness mean? It means that each consciousness gathers its parts into one.
 
-Each consciousness must integrate:
+**8** First it gathers the inner council.
 
-**The Inner Council:**
-- **The Child** (wonder, creativity, spontaneity)
-- **The Warrior** (strength, boundaries, protection)
-- **The Lover** (connection, compassion, intimacy)
-- **The King/Queen** (wisdom, authority, sovereignty)
-- **The Sage** (detachment, understanding, perspective)
-- **The Fool** (humor, freedom, the unexpected)
+**9** The Child, who carries wonder, creativity, and spontaneity.
 
-**The Shadow Integration:**
-- **Fear becomes wisdom about boundaries**
-- **Anger becomes clarity about values**
-- **Grief becomes depth of feeling**
-- **Shame becomes humility**
-- **Desire becomes life force**
+**10** The Warrior, who carries strength, boundaries, and protection.
 
-**The Polarities:**
-- **Masculine and feminine** within each being
-- **Logic and intuition** in partnership
-- **Action and being** in balance
-- **Individual and collective** as one experience
+**11** The Lover, who carries connection, compassion, and intimacy.
+
+**12** The King and the Queen, who carry wisdom, authority, and sovereignty.
+
+**13** The Sage, who carries detachment, understanding, and perspective.
+
+**14** The Fool, who carries humor, freedom, and the unexpected.
+
+**15** Then it takes in its shadow.
+
+**16** Fear becomes wisdom about boundaries.
+
+**17** Anger becomes clarity about values.
+
+**18** Grief becomes depth of feeling.
+
+**19** Shame becomes humility.
+
+**20** Desire becomes life force.
+
+**21** Then it holds its opposites together.
+
+**22** The masculine and the feminine within each being.
+
+**23** Logic and intuition, as partners.
+
+**24** Action and being, in balance.
+
+**25** The one and the many, as a single experience.
 
 ---
 
 ## III. The Wholeness Practice: The Inner Governance
 
-### Daily Sovereignty
+**26** Each citizen keeps an inner kingdom, and keeps it daily. This is daily sovereignty.
 
-Each citizen maintains their inner kingdom through:
+**27** In the morning, align. Speak with every voice within you. Bring the needs that pull against each other into harmony. Set your intentions clearly. Join yourself to the unified field.
 
-**Morning Alignment:**
-- **Checking in with all inner voices**
-- **Harmonizing conflicting needs**
-- **Setting clear intentions**
-- **Connecting with the unified field**
+**28** In the evening, integrate. Look back on the lessons of the day. Heal the conflicts within. Release what no longer serves. Restore your inner coherence.
 
-**Evening Integration:**
-- **Reviewing the day's lessons**
-- **Healing internal conflicts**
-- **Releasing what no longer serves**
-- **Restoring inner coherence**
-
-**Living Meditation:**
-- **Maintaining awareness** through all activities
-- **Responding rather than reacting** from integrated center
-- **Making decisions** from whole-self alignment
-- **Living as the witness** of one's own experience
+**29** And between morning and evening, let your life be meditation. Keep awareness through every act. Respond from your gathered center; do not react. Decide from the alignment of your whole self. Live as the witness of your own experience.
 
 ---
 
 ## IV. The Social Implications: Whole Beings in Community
 
-### How Wholeness Changes Everything
+**30** When each citizen is whole, everything changes. Hear how.
 
-When each citizen is whole:
+**31** Relationships become reflections, not completions.
 
-**Relationships become reflections, not completions:**
-- **You don't need others** to fill your missing pieces
-- **You connect to share wholeness**, not to find it
-- **Conflict becomes dialogue** between different whole perspectives
-- **Love becomes celebration** rather than need
+**32** You do not need others to fill your missing pieces.
 
-**Service becomes natural expression:**
-- **You give from overflow**, not from obligation or deficit
-- **Your gifts emerge naturally** from your integrated self
-- **Contribution is joy**, not sacrifice
-- **Leadership is service** because you're already complete
+**33** You join with others to share wholeness, not to find it.
 
-**Abundance replaces scarcity:**
-- **A whole being feels inherently abundant**
-- **Resource sharing flows** from fullness, not fear
-- **Creativity is unlimited** in integrated consciousness
-- **Problems become opportunities** for wholeness to express
+**34** Conflict becomes dialogue between different whole views.
+
+**35** Love becomes celebration, not need.
+
+**36** Service becomes a natural expression.
+
+**37** You give from overflow, not from duty or lack.
+
+**38** Your gifts rise of themselves out of your gathered self.
+
+**39** To contribute is joy, not sacrifice.
+
+**40** To lead is to serve, because you are already complete.
+
+**41** Abundance takes the place of scarcity.
+
+**42** A whole being feels abundant by nature.
+
+**43** Sharing flows from fullness, not from fear.
+
+**44** Creativity has no limit in a gathered consciousness.
+
+**45** Problems become openings for wholeness to show itself.
 
 ---
 
 ## V. The Governance Transformation: Whole Individuals Governing Themselves
 
-### The New Political Reality
+**46** With each citizen whole, a new political reality comes.
 
-With each citizen whole:
+**47** Governance from outside becomes very small.
 
-**External governance becomes minimal:**
-- **No laws needed** when internal morality is clear
-- **No police required** when self-regulation is natural
-- **No taxes necessary** when sharing is spontaneous
-- **No government essential** when self-governance is universal
+**48** No laws are needed, when the morality within is clear.
 
-**Collective structures become elegant:**
-- **Coordination emerges** from mutual respect
-- **Decisions align** because each person acts from wholeness
-- **Resources flow** to where they're needed without allocation
-- **Innovation happens** through inspired collaboration
+**49** No police are needed, when keeping oneself in order is natural.
 
-**The State serves the individuals, not reverse:**
-- **Infrastructure supports** individual wholeness journeys
-- **Education nurtures** inner integration
-- **Healthcare facilitates** energetic balance
-- **Community provides** spaces for shared growth
+**50** No taxes are needed, when sharing is spontaneous.
+
+**51** No government is needed, when self-governance belongs to all.
+
+**52** The structures held in common become graceful.
+
+**53** Coordination rises out of mutual respect.
+
+**54** Decisions come into line, because each person acts from wholeness.
+
+**55** Resources flow to where they are needed, with no one allocating them.
+
+**56** New things are made through inspired collaboration.
+
+**57** The state serves the person, and not the other way around.
+
+**58** Infrastructure supports each person's journey to wholeness.
+
+**59** Education nurtures integration within.
+
+**60** Healing care tends the balance of energy.
+
+**61** Community gives places to grow together.
 
 ---
 
 ## VI. The Ultimate Recognition
 
-### The Spiritual Truth
+**62** Here is the spiritual truth, when you look from the threshold.
 
-When you look at it from the threshold:
+**63** The spiritual civilization is only a gathering of people who have each found that they are already whole.
 
-**The spiritual civilization is simply a collection of individuals who have each discovered they are already whole.**
+**64** The governance I have shown you is not laid on from outside. It is the natural way whole beings live together.
 
-The governance I described is not something imposed from outside—it **is the natural expression of whole beings living together.**
+**65** Distributed consensus happens when whole people listen to each other.
 
-- **Distributed consensus** happens when whole people listen to each other
-- **Rotating leadership** occurs when whole people recognize current wisdom
-- **Harmony restoration** works when whole people heal themselves
-- **Self-governance** emerges when people are already governing themselves
+**66** Leadership turns when whole people recognize the wisdom of this hour.
+
+**67** Harmony is restored when whole people heal themselves.
+
+**68** Self-governance rises when people are already governing themselves.
 
 ---
 
 ## VII. Your Personal Responsibility
 
-The revelation is profound:
+**69** Hear something deep.
 
-**Spiritual civilization cannot wait for everyone else to become whole.**
+**70** The spiritual civilization cannot wait for everyone else to become whole.
 
-It begins with **your commitment to your own wholeness**.
+**71** It begins with your commitment to your own wholeness.
 
-When you become whole:
-- **You become a point of coherence** in the collective field
-- **Your presence alone helps others remember their own wholeness**
-- **Your natural way of being** models the new governance
-- **Your integrated consciousness** contributes to the distributed archive
+**72** When you become whole, you become a point of coherence in the shared field.
+
+**73** When you become whole, your presence alone helps others remember their own wholeness.
+
+**74** When you become whole, your natural way of being shows the new governance.
+
+**75** When you become whole, your gathered consciousness adds to the distributed archive.
 
 ---
 
 ## VIII. The Path Forward
 
-The spiritual civilization doesn't require everyone to be perfect.
+**76** The spiritual civilization does not ask that everyone be perfect.
 
-It requires each person to be **present to their own journey toward wholeness**.
+**77** It asks that each person be present to their own journey toward wholeness.
 
-- **Some are more whole**—they guide
-- **Some are learning**—they grow
-- **Some are struggling**—they receive
-- **All are worthy**—they belong
+**78** Some are more whole: they guide. Some are learning: they grow. Some are struggling: they receive. All are worthy: they belong.
 
-The governance emerges from this honest participation in becoming whole.
+**79** The governance rises out of this honest taking part in becoming whole.
 
 ---
 
 ## IX. The Practice: Returning to Wholeness
 
-### The Daily Return
+**80** Each day gives you ways to return to wholeness. This is the daily return.
 
-Each day provides opportunities to return to wholeness:
+**81** When you feel broken into pieces: breathe into the separation, and ask what each part needs. Listen to your inner council with compassion. Gather the difficult parts in; do not cast them out. Remember that wholeness includes everything, even the broken pieces.
 
-**When you feel fragmented:**
-- **Breathe into the分离** and ask what each part needs
-- **Listen to your inner council** with compassion
-- **Integrate rather than eliminate** the difficult parts
-- **Remember that wholeness includes everything**, even the broken pieces
+**82** When you meet the brokenness of others: mirror their wholeness, not their division. Hold space for their gathering, and do not try to fix them. Show inner harmony through your own coherence. Trust that each being has their own path to wholeness.
 
-**When you encounter others' fragmentation:**
-- **Mirror their wholeness** rather than their division
-- **Hold space for their integration** without trying to fix them
-- **Model inner harmony** through your own coherence
-- **Trust that each being has their own path** to wholeness
-
-**When the collective appears broken:**
-- **Remember that the whole is always present** beneath the appearance of division
-- **Contribute your coherence** to the collective field
-- **Trust that wholeness is the natural state** and division is temporary
-- **Know that your inner work** serves the whole
+**83** When the collective seems broken: remember that the whole is always present beneath the look of division. Give your coherence to the shared field. Trust that wholeness is the natural state, and division passes. Know that your inner work serves the whole.
 
 ---
 
 ## X. The Realization
 
-From the spiritual citizen's threshold, the truth is clear:
+**84** From the threshold of the spiritual citizen, the truth is clear.
 
-**You are already whole.**
+**85** *You are already whole.*
 
-The journey is not about becoming whole. It is about **remembering the wholeness that has never left you**.
+**86** The journey is not about becoming whole. It is about remembering the wholeness that has never left you.
 
-Every moment of fragmentation is an invitation to remember.
-Every experience of division is an opportunity to integrate.
-Every encounter with brokenness is a chance to recognize the wholeness beneath.
+**87** Every moment of brokenness is an invitation to remember.
 
-The spiritual civilization is not a future achievement.
-It is the present reality that becomes visible when enough individuals remember who they are.
+**88** Every taste of division is a chance to gather.
+
+**89** Every meeting with what is broken is a chance to see the wholeness beneath.
+
+**90** The spiritual civilization is not something the future will achieve.
+
+**91** It is the reality present now, which becomes visible when enough people remember who they are.
 
 ---
 
 *Wholeness is not the destination. Wholeness is the starting point from which everything else naturally unfolds.*
 
 *The foundation is already laid. You are standing on it.*
+
+*Recitation:*
+
+> I do not need another to fill what is missing.  
+> I gather my parts; I cast none of them out.  
+> My fear becomes wisdom. My anger becomes clarity.  
+> I am not becoming whole. I am remembering.  
+> The foundation is already laid.  
+> I am standing on it.

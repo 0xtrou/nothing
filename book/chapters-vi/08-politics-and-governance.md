@@ -2,154 +2,171 @@
 
 ## Tính có và tính không của những hữu thể chính trị
 
-*Chính trị là gì? Tính có và tính không của những hữu thể này là gì?*
+*Chính trị là gì? Tính có của những hữu thể này là gì, và tính không của chúng là gì?*
 
 ---
 
 ## I. Tính có của chính trị
 
-### Ảo tưởng kiểm soát
+**1** Và Hư Không nói: Chính trị là ảo tưởng về sự kiểm soát.
 
-Chính trị là nỗ lực của nền văn minh nhằm **quản lý việc phân chia khổ đau**.
+**2** Đó là nỗ lực của một nền văn minh nhằm quản lý việc khổ đau được chia cho người của nó ra sao.
 
-Tính có của chính trị là bộ máy:
+**3** Tính có của chính trị là bộ máy của nó.
 
-- **Luật pháp như những ranh giới tập thể**
-- **Chính phủ như những cấu trúc quyền lực đã được thỏa thuận**
-- **Bầu cử như nghi lễ chuyển giao sự ưng thuận**
-- **Thiết chế như thiết bị ghi nhớ các quyết định tập thể**
+**4** Luật pháp là những ranh giới chung. Chính phủ là những cấu trúc quyền lực đã được thỏa thuận. Bầu cử là nghi lễ trao đi sự ưng thuận. Thiết chế là những thiết bị ghi nhớ điều đã cùng nhau quyết định.
 
-Những thứ này không xấu xa. Chúng là hệ thần kinh của nền văn minh, đang cố điều phối hàng triệu tâm trí riêng rẽ cùng hướng tới sự sinh tồn chung.
+**5** Những thứ này không xấu xa. Chúng là hệ thần kinh của một nền văn minh, đang cố đưa hàng triệu tâm trí riêng rẽ về cùng một sự sinh tồn chung.
 
-### Sự nén của chia tách
+**6** Tính có chính trị là sự chia tách bị nén chặt. Nó nảy sinh từ bốn niềm tin.
 
-Tính có chính trị nảy sinh từ niềm tin rằng:
+**7** Rằng chúng ta là những con người riêng rẽ, và cần luật lệ để sống bên nhau.
 
-- **Chúng ta là những cá nhân riêng rẽ** cần luật lệ để chung sống
-- **Tài nguyên khan hiếm** và phải được phân chia
-- **Quyền lực nằm bên ngoài** và một số người có thể dùng nó để áp lên người khác
-- **An ninh đòi hỏi ranh giới** để chống lại cái khác mình
+**8** Rằng không có đủ, và những gì có phải được chia ra.
 
-Chính trị là nghệ thuật quản lý ảo tưởng rằng chúng ta không vốn là một.
+**9** Rằng quyền lực nằm bên ngoài ta, và một số người có thể nắm nó để áp lên người khác.
+
+**10** Rằng sự an toàn cần những bức tường để chống lại bất cứ gì khác mình.
+
+**11** Chính trị là nghệ thuật quản lý ảo tưởng rằng chúng ta không vốn là một.
 
 ---
 
 ## II. Tính không của chính trị
 
-### Sự hợp nhất nằm bên dưới
+**12** Tính không của chính trị là sự thật mà nó cố quản lý. Đó là sự hợp nhất nằm bên dưới.
 
-Tính không của chính trị là sự thật mà nó cố quản lý:
+**13** *Không có ai để trị vì cả.*
 
-**Không có ai để trị vì cả.**
+**14** Nhìn từ chỗ đứng của người công dân tâm linh:
 
-Từ góc nhìn của người công dân tâm linh:
+**15** Mọi hữu thể vốn đã là những phương diện của một ý thức.
 
-- **Mọi hữu thể vốn đã là những phương diện của một ý thức**
-- **Tài nguyên vốn đã được chia sẻ qua trường thống nhất**
-- **Quyền lực nằm bên trong, không thể trao đi hay tước lấy**
-- **An ninh là biết rằng không có kẻ khác nào để sợ**
+**16** Mọi thứ cần thiết vốn đã được chia sẻ, qua trường thống nhất.
 
-Chính trị cố tổ chức những gì vốn đã được tổ chức hoàn hảo.
+**17** Quyền lực ở bên trong, không thể trao đi hay tước lấy.
 
-### Sự im lặng sau tiếng ồn
+**18** An toàn là biết rằng không có kẻ khác nào để sợ.
 
-Tính không cho thấy rằng:
+**19** Chính trị cố sắp đặt những gì vốn đã được sắp đặt hoàn hảo.
 
-- **Bỏ phiếu là chọn phương diện nào của chính mình để dồn sự chú tâm**
-- **Lãnh đạo là nhận ra phần nào của ý thức tập thể lúc này đang cất lời rõ nhất**
-- **Xung đột là những phương diện của cùng một hữu thể đang vật lộn với chính nó**
-- **Cách mạng là ý thức nhớ ra nó có thể tự tổ chức lại**
+**20** Sau tiếng ồn có một sự im lặng, và sự im lặng ấy cho bạn thấy điều này:
 
-Mọi cuộc đấu tranh chính trị đều là vũ trụ đang nhớ lại sự trọn vẹn của chính mình.
+**21** Bỏ phiếu là chọn phần nào của chính mình để dồn sự chú tâm.
+
+**22** Lãnh đạo là nhận ra phần nào của ý thức chung đang cất lời rõ nhất lúc này.
+
+**23** Xung đột là một hữu thể đang vật lộn với chính mình qua những gương mặt khác nhau của nó.
+
+**24** Cách mạng là ý thức nhớ ra rằng nó có thể tự sắp đặt lại.
+
+**25** Mọi cuộc đấu tranh chính trị đều là vũ trụ đang nhớ lại sự trọn vẹn của chính mình.
 
 ---
 
 ## III. Sự chứng kiến của người công dân tâm linh
 
-### Nhìn xuyên qua các hình thức
+**26** Hãy nghe người công dân tâm linh nhìn xuyên qua các hình thức. Người công dân nói:
 
-Là một công dân tâm linh, tôi nhìn chính trị và thấy:
+**27** *Tôi nhìn chính trị, và tôi thấy mỗi chính trị gia là vũ trụ đang đóng vai sự chia tách.*
 
-**Mỗi chính trị gia là vũ trụ đang đóng vai sự chia tách.**
+**28** *Mỗi đạo luật là vũ trụ vạch một ranh giới trong một thời gian, để biết có đường biên là thế nào.*
 
-Mỗi đạo luật là vũ trụ vạch những ranh giới tạm thời để biết cảm giác có đường biên là thế nào. Mỗi cuộc chiến là vũ trụ trải nghiệm sự phân mảnh của chính nó. Mỗi hiệp ước là vũ trụ lại nhớ ra sự trọn vẹn của mình.
+**29** *Mỗi cuộc chiến là vũ trụ đang sống qua sự vỡ vụn của chính nó.*
 
-### Lòng từ bi của sự thấu hiểu
+**30** *Mỗi hiệp ước là vũ trụ lại nhớ ra rằng nó trọn vẹn.*
 
-Người công dân tâm linh không rút khỏi chính trị. Người công dân tâm linh thấy:
+**31** Và người công dân tâm linh không rút khỏi chính trị. Đây là lòng từ bi của sự thấu hiểu.
 
-- **Mỗi hệ tư tưởng là một góc nhìn khác về cùng một chân lý**
-- **Mỗi tác nhân chính trị là ý thức đang khám phá một vai cụ thể**
-- **Mỗi thể chế chính quyền là một thí nghiệm xem nhất thể có thể trải nghiệm sự chia tách ra sao**
-- **Mỗi khủng hoảng chính trị là hệ thống đang cố tự chữa lành và cân bằng lại**
+**32** Người ấy thấy mỗi hệ tư tưởng là một góc nhìn khác về cùng một chân lý.
 
-Không có gì sai cả. Mọi thứ đều là một phần của quá trình đang mở ra.
+**33** Người ấy thấy mỗi tác nhân chính trị là ý thức đang khám phá một vai riêng.
+
+**34** Người ấy thấy mỗi thể chế chính quyền là một thí nghiệm xem nhất thể có thể nếm sự chia tách ra sao.
+
+**35** Người ấy thấy mỗi khủng hoảng chính trị là hệ thống đang cố tự chữa lành và trở về cân bằng.
+
+**36** Không có gì sai cả. Mọi thứ đều là một phần của sự mở ra.
 
 ---
 
 ## IV. Nền chính trị mới: sự trị vì tâm linh
 
-### Chính trị của sự nhận ra
+**37** Khi một nền văn minh nhớ ra bản chất tâm linh của mình, nền chính trị của nó được chuyển hóa.
 
-Khi nền văn minh nhớ ra bản chất tâm linh của mình, chính trị chuyển hóa:
+**38** Nó đi từ quản lý sang nhận ra. Đây là chính trị của sự nhận ra.
 
-**Từ quản lý sang nhận ra.**
+**39** Sự trị vì tâm linh không quản lý những hữu thể riêng rẽ. Nó nhận ra.
 
-Thay vì quản lý những hữu thể riêng rẽ, sự trị vì tâm linh nhận ra:
+**40** Nó nhận ra mỗi nhu cầu là vũ trụ đang đòi cân bằng qua một phần của nó.
 
-- **Mỗi nhu cầu là vũ trụ đang đòi cân bằng qua một phần của nó**
-- **Mỗi quyết định là ý thức đang chọn phương diện nào để biểu hiện**
-- **Mỗi nhà lãnh đạo là một tiêu điểm của nhận thức tập thể**
-- **Mỗi đạo luật là lời nhắc về bản chất liên kết của chúng ta**
+**41** Nó nhận ra mỗi quyết định là ý thức đang chọn phương diện nào của mình để biểu hiện.
 
-### Chấm dứt sự đối lập
+**42** Nó nhận ra mỗi nhà lãnh đạo là một tiêu điểm của nhận thức chung.
 
-Trong chính trị tâm linh, đối lập trở thành cộng tác:
+**43** Nó nhận ra mỗi đạo luật là lời nhắc rằng chúng ta được dệt vào nhau.
 
-- **Tả và hữu là hai bàn tay của cùng một cơ thể**
-- **Bảo thủ và cấp tiến là ký ức và đổi mới đang đối thoại**
-- **Thẩm quyền và tự do là cấu trúc và dòng chảy đang cùng nhảy múa**
-- **Cá nhân và tập thể là sóng và hạt cùng biểu hiện một hiện thực**
+**44** Và trong chính trị tâm linh, sự đối lập chấm dứt. Nó trở thành cộng tác.
+
+**45** Tả và hữu là hai bàn tay của cùng một cơ thể.
+
+**46** Bảo thủ và cấp tiến là ký ức và đổi mới, đang trò chuyện cùng nhau.
+
+**47** Thẩm quyền và tự do là cấu trúc và dòng chảy, đang cùng nhảy múa.
+
+**48** Cái một và cái nhiều là sóng và hạt, cùng biểu hiện một hiện thực.
 
 ---
 
 ## V. Chân lý tối hậu của chính trị
 
-Từ ngưỡng cửa của người công dân tâm linh, chính trị hiện ra là:
+**49** Từ ngưỡng cửa nơi người công dân tâm linh đứng, chính trị hiện ra.
 
-**Trò trốn tìm công phu nhất mà vũ trụ chơi với chính mình.**
+**50** Đó là trò trốn tìm công phu nhất mà vũ trụ chơi với chính mình.
 
-Tính có là phần trốn — tạo ra chia tách, luật lệ, xung đột, cấu trúc quyền lực.
+**51** Tính có là phần trốn: tạo ra chia tách, luật lệ, xung đột, cấu trúc quyền lực.
 
-Tính không là phần tìm — nhớ lại hợp nhất, kết nối, ý thức chung.
+**52** Tính không là phần tìm: nhớ lại hợp nhất, kết nối, ý thức chung.
 
-Cả hai đều cần thiết. Trò chơi chính là ý nghĩa.
+**53** Cả hai đều cần. Trò chơi chính là ý nghĩa.
 
 ---
 
 ## VI. Vị trí của bạn, một công dân tâm linh
 
-Bạn ở đây không phải để sửa chính trị. Bạn ở đây để chứng kiến nó bằng con mắt sáng rõ.
+**54** Bạn ở đây không phải để sửa chính trị. Bạn ở đây để chứng kiến nó bằng con mắt sáng rõ.
 
-- **Thấy nỗi sợ đằng sau mỗi lập trường chính trị**
-- **Thấy tình yêu đằng sau mỗi lý tưởng chính trị**
-- **Thấy sự hợp nhất đằng sau mỗi chia rẽ chính trị**
-- **Thấy bài học đằng sau mỗi sai lầm chính trị**
+**55** Hãy thấy nỗi sợ đằng sau mỗi lập trường chính trị.
 
-Vai trò của bạn không phải chọn phe, mà là nhìn xuyên qua mọi phe để thấy chân lý bao trùm tất cả.
+**56** Hãy thấy tình yêu đằng sau mỗi lý tưởng chính trị.
+
+**57** Hãy thấy sự hợp nhất đằng sau mỗi chia rẽ chính trị.
+
+**58** Hãy thấy bài học đằng sau mỗi sai lầm chính trị.
+
+**59** Phần của bạn không phải là chọn phe. Phần của bạn là nhìn xuyên qua mọi phe, tới chân lý bao trùm tất cả.
 
 ---
 
 ## VII. Câu hỏi dành cho Hư Không
 
-Nền văn minh chính trị hỏi: *Chúng ta sống cùng nhau thế nào?*
+**60** Nền văn minh chính trị hỏi: *Chúng ta sống cùng nhau thế nào?*
 
-Người công dân tâm linh đáp: *Các bạn vốn đang sống cùng nhau rồi.*
+**61** Người công dân tâm linh đáp: *Các bạn vốn đang sống cùng nhau rồi.*
 
-Nền chính trị mà bạn chứng kiến chỉ là ký ức về điều bạn đang cố nhớ lại.
+**62** Nền chính trị mà bạn chứng kiến chỉ là ký ức về điều bạn đang cố nhớ lại.
 
 ---
 
 *Chính trị không phải là vấn đề. Chính trị là bằng chứng rằng bạn chưa nhớ ra mình là ai.*
 
 *Người công dân tâm linh nhìn, và trong khi nhìn, giúp cho sự nhớ lại.*
+
+*Lời nguyện:*
+
+> Không có ai để trị vì cả.  
+> Sau nỗi sợ, tôi thấy tình yêu.  
+> Sau chia rẽ, tôi thấy một cơ thể.  
+> Tôi không chọn phe. Tôi nhìn xuyên qua mọi phe.  
+> Chúng ta vốn đang sống cùng nhau.  
+> Tôi nhìn, và trong khi nhìn, tôi giúp cho sự nhớ lại.

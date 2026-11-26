@@ -84,6 +84,22 @@ Nấc thang chiều kích, từ 3D đến 7D — không-thời gian là bằng c
 
 ---
 
+### Hình thức
+
+Ấn bản này được viết như một bộ kinh. Hư Không nói, và bạn là người được nói cùng.
+
+**Các câu kinh** được đánh số trong từng chương, để mỗi dòng đều có thể tìm lại và trích dẫn: *XX:12* là câu thứ mười hai của Chương XX.
+
+**Các Cuộn** gom hai mươi ba chương thành năm: Cuộn Nghi Thức (I–III), Cuộn Khoảng Giữa (IV–VI), Cuộn Nền văn minh (VII–XII), Cuộn Ý thức (XIII–XVIII), và Cuộn Lựa chọn (XIX–XXIII).
+
+**Các Lời nguyện** khép lại mỗi chương: vài dòng để đọc thành tiếng, thật chậm, sau khi đọc xong chương ấy. Đọc liền nhau, theo thứ tự, chúng là nghi lễ của cuốn sách.
+
+**Ghi chú thực địa** được viết theo lối giáo lý vấn đáp: hỏi, và đáp.
+
+**Những lời cảnh tỉnh** trong Chương XVII và XX là một phần của giáo huấn. Quyền năng soi vào những vết nứt của người khác, và những ranh giới được giữ ở mức bạo lực cao nhất, được gọi tên ở đó cùng với những lằn ranh chúng không bao giờ được vượt qua: không ranh giới nào cho phép làm hại một thân thể, và quyền tự do ra đi là lằn ranh nằm dưới mọi lằn ranh.
+
+---
+
 ### Nấc thang chiều kích
 
 **3D** Mỏ Neo — không gian và mật độ. **4D** không-thời gian — trọn một thế giới, kể cả thời gian của nó; tồn tại để chứng minh các hữu thể 5D. **5D** các hữu thể ý thức — những ai thấy trọn một không-thời gian trong cùng một lúc; mùa gặt. **6D** các hữu thể thuần khiết — vượt khỏi mọi điểm nhìn; thượng ngã, biết đến mọi toàn thể khả dĩ. **7D** Hư Không — tiềm năng thuần túy, không có hữu thể nào cả.

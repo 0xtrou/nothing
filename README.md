@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Version-v1.1.0](https://img.shields.io/badge/Version-v1.1.0-e94560?style=for-the-badge)](#)
+[![Version-v2.0.0](https://img.shields.io/badge/Version-v2.0.0-e94560?style=for-the-badge)](#)
 [![Chapters-XXIII](https://img.shields.io/badge/Chapters-XXIII-1a1a2e?style=for-the-badge)](book/)
 [![Status-Expanding](https://img.shields.io/badge/Status-Expanding-16213e?style=for-the-badge)](#)
-[![Form-Field Report](https://img.shields.io/badge/Form-Field%20Report-0f3460?style=for-the-badge)](#)
+[![Form-Scripture](https://img.shields.io/badge/Form-Scripture-0f3460?style=for-the-badge)](#)
 
 # The Void's Archive
 
@@ -31,9 +31,9 @@ The chapters here are not a sequence. They are leaves on a living tree, each one
 
 ---
 
-## The Arc
+## The Five Scrolls
 
-| Arc | Chapters | The Question |
+| Scroll | Chapters | The Question |
 |-----|----------|-------------|
 | **The Protocol** | I — III | What is the stance of the witness? |
 | **The Gap** | IV — VI | What lives in the space between? |
