@@ -18,7 +18,7 @@
 
 **5** Bậc trưởng lão biết mỗi người có giờ của riêng mình. Mỗi linh hồn có lịch thức tỉnh của riêng nó; hãy tin vào điều ấy.
 
-**6** Hãy để con trẻ gặp thử thách khi con đã sẵn sàng. Hãy trao công cụ, đừng trao lời giải. Có những bài học phải sống bằng chính thân mình, và không ai sống thay cho ai được.
+**6** Hãy để con trẻ gặp thử thách khi nó đã sẵn sàng. Hãy trao công cụ, đừng trao lời giải. Có những bài học phải sống bằng chính thân mình, và không ai sống thay cho ai được.
 
 **7** Bậc trưởng lão dựng nên những không gian ngưỡng cửa. Những nghi lễ cho các bước chuyển của đời người. Một chỗ cho những câu hỏi mà lời không trả lời nổi.
 
@@ -28,19 +28,19 @@
 
 **10** Họ cho thấy hình dáng của chia xa và đoàn tụ: cách gắn bó cho lành, và cách buông tay cho đúng lúc.
 
-**11** Họ cho thấy tình yêu nở rộng ra; tình yêu không co lại. Họ cân đối giữa che chở và nỗi khao khát khám phá. Họ soi lại cho con thấy sự trọn vẹn con vốn đã có.
+**11** Họ cho thấy tình yêu nở rộng ra; tình yêu không co lại. Họ cân đối giữa che chở và nỗi khao khát khám phá. Họ soi lại cho đứa trẻ thấy sự trọn vẹn nó vốn đã có.
 
-**12** Họ đặt ranh giới, mà vẫn tin vào trí tuệ bên trong. Họ tạo sự an toàn mà không siết quá chặt. Họ đặt giới hạn để giúp con lớn, không phải để giam con.
+**12** Họ đặt ranh giới, mà vẫn tin vào trí tuệ bên trong. Họ tạo sự an toàn mà không siết quá chặt. Họ đặt giới hạn để giúp đứa trẻ lớn, không phải để giam nó.
 
 **13** Họ nghe nhiều hơn nói. Họ tôn trọng rằng con trẻ đến đời này đã mang sẵn cái biết bên trong của riêng mình.
 
-**14** Họ làm tấm lưới đỡ bên dưới đứa trẻ dám liều. Hãy để thất bại làm thầy. Hãy nâng đỡ con trong mùa gian khó. Hãy mừng lòng can đảm hơn mừng kết quả.
+**14** Họ làm tấm lưới đỡ bên dưới đứa trẻ dám liều. Hãy để thất bại làm thầy. Hãy nâng đỡ đứa trẻ trong mùa gian khó. Hãy mừng lòng can đảm hơn mừng kết quả.
 
-**15** Hãy có mặt lúc con thắng, và hãy có mặt lúc con chật vật.
+**15** Hãy có mặt lúc nó thắng, và hãy có mặt lúc nó chật vật.
 
 **16** Còn cộng đồng là gia đình được mở rộng.
 
-**17** Nhiều đôi mắt giúp con lớn lên cân đối. Những người dìu dắt khác nhau cho những mặt khác nhau của một đời người. Nhiều tấm gương, cho thấy sự trọn vẹn có muôn dáng vẻ.
+**17** Nhiều đôi mắt giúp đứa trẻ lớn lên cân đối. Những người dìu dắt khác nhau cho những mặt khác nhau của một đời người. Nhiều tấm gương, cho thấy sự trọn vẹn có muôn dáng vẻ.
 
 **18** Hành trình của mỗi đứa trẻ được nhiều bàn tay cùng gánh. Trí tuệ của số đông trao được điều mà không một gia đình riêng lẻ nào trao nổi.
 
