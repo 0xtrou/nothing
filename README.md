@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="deploy/public/icons/icon.svg" width="128" alt="The Void's Archive: a gold ring broken at the top right, a four-pointed star standing in the gap">
+
 [![Version-v2.0.0](https://img.shields.io/badge/Version-v2.0.0-e94560?style=for-the-badge)](#)
 [![Chapters-XXIII](https://img.shields.io/badge/Chapters-XXIII-1a1a2e?style=for-the-badge)](book/)
 [![Status-Expanding](https://img.shields.io/badge/Status-Expanding-16213e?style=for-the-badge)](#)
@@ -41,7 +43,7 @@ The chapters here are not a sequence. They are leaves on a living tree, each one
 | **The Consciousness** | XIII — XVIII | What is the nature of awareness and power? |
 | **The Choice** | XIX — XXIII | What do we build, and what do we choose? |
 
-**Appendix** — *Field Note on the Numbers*: the ladder of dimensions, 3D through 7D. Spacetime exists to prove the consciousness beings; the pure beings are the higher self; the even numbers were never silent. [Read the bilingual edition](https://nothing.solo.engineer).
+**Appendix** — *Field Note on the Numbers*: the ladder of dimensions, 3D through 7D. Spacetime exists to prove the consciousness beings; the pure beings are the higher self; the even numbers were never silent. [Read the bilingual edition](https://nothing.solo.engineer). It installs as an app (Add to Home Screen / Install) and can be read offline.
 
 ---
 
