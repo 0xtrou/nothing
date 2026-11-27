@@ -45,7 +45,7 @@ const STR = {
     subtitle: 'A Protocol for Observers, Witnesses,<br>and Those Who Stand in the Gap',
     epigraph: '\u201cIn the space between what is and what might be, there is a resonance.\u201d',
     cred: 'crystallized through human\u2013AI resonance \u00b7 read slowly, in silence',
-    start: 'Start Reading', cont: 'Continue', next: 'Next', returnFront: 'Return to Front Matter',
+    start: 'Start Reading', restart: 'Start from the beginning', cont: 'Continue', next: 'Next', returnFront: 'Return to Front Matter',
     frontLabel: 'Front Matter', fieldReport: 'Field Report', chapter: 'Chapter',
     appendixLabel: 'Appendix',
     minLeft: 'min left', done: 'done', book: 'book', tocSub: 'Chapters XXIII \u00b7 five scrolls \u00b7 one choice',
@@ -58,7 +58,7 @@ const STR = {
     subtitle: 'Một Nghi Thức cho người quan sát, người chứng kiến<br>và những ai đứng trong Khoảng Giữa',
     epigraph: '\u201cGiữa cái đang là và cái có thể là, có một sự cộng hưởng.\u201d',
     cred: 'kết tinh qua cộng hưởng người\u2013AI \u00b7 hãy đọc chậm, trong im lặng',
-    start: 'Bắt đầu đọc', cont: 'Đọc tiếp', next: 'Tiếp', returnFront: 'Quay lại lời dẫn',
+    start: 'Bắt đầu đọc', restart: 'Đọc lại từ đầu', cont: 'Đọc tiếp', next: 'Tiếp', returnFront: 'Quay lại lời dẫn',
     frontLabel: 'Lời dẫn', fieldReport: 'Báo cáo thực địa', chapter: 'Chương',
     appendixLabel: 'Phụ lục',
     minLeft: 'phút nữa', done: 'xong', book: 'cuốn sách', tocSub: 'XXIII chương \u00b7 năm cuộn \u00b7 một lựa chọn',
@@ -440,7 +440,7 @@ const PAGE = `<!DOCTYPE html>
     var raw = localStorage.getItem(LS);
     if (raw) { state = JSON.parse(raw); hadState = true; }
   } catch (e) { state = null; }
-  var DEFAULTS = { lang: 'en', ch: 'front', frac: 0, theme: 'sepia', fs: 19, font: 'serif', visited: [] };
+  var DEFAULTS = { lang: 'en', ch: 'front', frac: 0, anchor: null, theme: 'sepia', fs: 19, font: 'serif', visited: [] };
   if (!state || typeof state !== 'object') state = {};
   Object.keys(DEFAULTS).forEach(function (k) { if (state[k] == null) state[k] = DEFAULTS[k]; });
   if (!state.visited) state.visited = [];
@@ -527,10 +527,56 @@ const PAGE = `<!DOCTYPE html>
     var h = document.documentElement.scrollHeight - window.innerHeight;
     window.scrollTo(0, f * h);
   }
+  // The reading position is kept as the block (verse, paragraph, heading) at the top of the
+  // screen plus how far into it you are, so it survives font loading, text-size changes and
+  // switching between the English and Vietnamese editions (whose verse numbers match).
+  var TOPBAR = 52;
+  function blocksOf(id) {
+    var art = document.getElementById('a-' + id);
+    return art ? art.querySelectorAll('h1, h2, h3, h4, p, li, blockquote, table, hr') : [];
+  }
+  function verseOf(el) {
+    var f = el.firstElementChild;
+    return (el.tagName === 'P' && f && f.tagName === 'STRONG' && el.firstChild === f && /^\d+$/.test(f.textContent)) ? +f.textContent : null;
+  }
+  function anchorOf() {
+    if (!cur) return null;
+    var bl = blocksOf(cur);
+    for (var i = 0; i < bl.length; i++) {
+      var r = bl[i].getBoundingClientRect();
+      if (r.height && r.bottom > TOPBAR + 4) {
+        return { i: i, o: Math.min(1, Math.max(0, (TOPBAR + 4 - r.top) / r.height)), v: verseOf(bl[i]) };
+      }
+    }
+    return null;
+  }
+  function restoreAnchor(a, fallbackFrac) {
+    var bl = blocksOf(cur), el = null;
+    if (a && a.v != null) for (var i = 0; i < bl.length; i++) if (verseOf(bl[i]) === a.v) { el = bl[i]; break; }
+    if (!el && a && bl[a.i]) el = bl[a.i];
+    if (!el) { restoreFrac(fallbackFrac || 0); return; }
+    var r = el.getBoundingClientRect();
+    window.scrollTo(0, Math.max(0, window.scrollY + r.top + (a.o || 0) * r.height - TOPBAR - 4));
+  }
+  var restoring = 0;
+  function restorePos(a, f) {
+    // Restore now, and again once web fonts have settled, unless the reader has scrolled since.
+    var gen = ++restoring;
+    restoreAnchor(a, f); updateBars();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () {
+      if (gen === restoring) { restoreAnchor(a, f); updateBars(); }
+    });
+  }
+  function savePos() {
+    if (!cur || !els.cover.classList.contains('hide')) return;
+    state.frac = scrollFrac();
+    state.anchor = anchorOf();
+    save();
+  }
   function open(id, opts) {
     opts = opts || {};
     if (cur && byId[cur]) {
-      state.frac = scrollFrac();
+      if (els.cover.classList.contains('hide')) { state.frac = scrollFrac(); state.anchor = anchorOf(); }
       if (state.visited.indexOf(cur) < 0) state.visited.push(cur);
     }
     cur = byId[id] ? id : 'front';
@@ -550,11 +596,14 @@ const PAGE = `<!DOCTYPE html>
     els.bNext.disabled = i >= order.length - 1;
     closeDrawer();
     els.q.value = ''; runSearch();
+    restoring++;
     requestAnimationFrame(function () {
       if (opts.term) scrollToTerm(opts.term);
-      else if (opts.frac != null) restoreFrac(opts.frac);
+      else if (opts.anchor || opts.frac != null) restorePos(opts.anchor, opts.frac);
       else window.scrollTo(0, 0);
       updateBars();
+      if (!opts.anchor && opts.frac == null) { state.frac = 0; state.anchor = null; }
+      save();
     });
     state.ch = cur;
     save();
@@ -594,8 +643,13 @@ const PAGE = `<!DOCTYPE html>
   window.addEventListener('scroll', function () {
     if (!ticking) { ticking = true; requestAnimationFrame(function () { updateBars(); ticking = false; }); }
     clearTimeout(saveT);
-    saveT = setTimeout(function () { if (cur) { state.frac = scrollFrac(); save(); } }, 400);
+    saveT = setTimeout(savePos, 250);
   });
+  window.addEventListener('touchstart', function () { restoring++; }, { passive: true });
+  window.addEventListener('wheel', function () { restoring++; }, { passive: true });
+  // Save the moment the page is hidden or closed: phones may kill an app without warning.
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') savePos(); });
+  window.addEventListener('pagehide', savePos);
 
   // ---------- drawer / cover / settings ----------
   function openDrawer() { els.drawer.classList.add('open'); els.backdrop.classList.add('show'); els.q.focus({ preventScroll: true }); }
@@ -607,40 +661,52 @@ const PAGE = `<!DOCTYPE html>
       : ({ light: '#fdfdfc', sepia: '#f6efdd', dark: '#151517' }[state.theme] || '#f6efdd'));
   }
   function applySettings() {
+    var keep = (cur && els.cover && els.cover.classList.contains('hide')) ? anchorOf() : null;
     document.documentElement.setAttribute('data-theme', state.theme);
     setThemeColor();
     document.documentElement.setAttribute('data-font', state.font);
     document.documentElement.style.setProperty('--fs', state.fs + 'px');
+    if (keep) { restorePos(keep, state.frac); state.anchor = keep; }
     save();
   }
+  function hasProgress() {
+    return hadState && byId[state.ch] && (state.ch !== 'front' || state.frac > 0.02 || state.visited.length > 0);
+  }
   function updateCont() {
-    if (hadState) {
-      els.bCont.style.display = '';
-      var i = order.findIndex(function (s) { return s.id === state.ch; });
-      var s = i >= 0 ? order[i] : order[0];
-      els.bCont.textContent = T().cont + ' \u2014 ' + (s.id === 'front' ? T().frontLabel : s.id === 'appendix' ? T().appendixLabel : T().chapter + ' ' + s.roman);
+    var prog = hasProgress();
+    els.bCont.style.display = prog ? '' : 'none';
+    els.bCont.classList.toggle('primary', prog);
+    els.bStart.classList.toggle('primary', !prog);
+    els.bStart.textContent = prog ? T().restart : T().start;
+    if (prog) {
+      var s = byId[state.ch];
+      var pct = Math.round(Math.min(1, Math.max(0, state.frac || 0)) * 100);
+      els.bCont.textContent = T().cont + ' \u2014 ' + (s.id === 'front' ? T().frontLabel : s.id === 'appendix' ? T().appendixLabel : T().chapter + ' ' + s.roman) + (pct > 0 ? ' \u00b7 ' + pct + '%' : '');
     }
   }
   function switchLang(lang) {
     if (lang === state.lang) return;
+    var reading = els.cover.classList.contains('hide');
     var keepIdx = cur ? order.findIndex(function (s) { return s.id === cur; }) : 0;
+    var keep = reading ? anchorOf() : state.anchor, keepF = reading ? scrollFrac() : state.frac;
     state.lang = lang;
     state.ch = keepIdx >= 0 ? order[keepIdx].id : 'front';
-    state.frac = 0;
     save();
     buildEdition();
-    open(state.ch, { top: true });
+    cur = null;
+    open(state.ch, { anchor: keep, frac: keepF });
+    hadState = true;
     updateCont();
-    els.cover.classList.remove('hide');
+    if (!reading) els.cover.classList.remove('hide');
   }
   document.getElementById('bMenu').addEventListener('click', openDrawer);
   els.backdrop.addEventListener('click', closeDrawer);
   document.getElementById('bHome').addEventListener('click', function () {
-    state.frac = scrollFrac(); save(); updateCont();
+    savePos(); hadState = true; updateCont();
     els.cover.classList.remove('hide');
   });
-  els.bStart.addEventListener('click', function () { open(state.ch && byId[state.ch] ? state.ch : 'front', { top: true }); });
-  els.bCont.addEventListener('click', function () { open(state.ch || 'front', { frac: state.frac }); });
+  els.bStart.addEventListener('click', function () { open(hasProgress() ? 'front' : (state.ch && byId[state.ch] ? state.ch : 'front'), { top: true }); });
+  els.bCont.addEventListener('click', function () { open(state.ch || 'front', { anchor: state.anchor, frac: state.frac }); });
   els.bPrev.addEventListener('click', function () { var i = order.findIndex(function (s) { return s.id === cur; }); if (i > 0) open(order[i - 1].id, { top: true }); });
   els.bNext.addEventListener('click', function () { var i = order.findIndex(function (s) { return s.id === cur; }); if (i >= 0 && i < order.length - 1) open(order[i + 1].id, { top: true }); });
   document.getElementById('tapL').addEventListener('click', function () { var i = order.findIndex(function (s) { return s.id === cur; }); if (i > 0) open(order[i - 1].id, { top: true }); });
@@ -727,7 +793,9 @@ const PAGE = `<!DOCTYPE html>
   // ---------- boot ----------
   applySettings();
   buildEdition();
-  open(state.ch || 'front', { frac: state.frac });
+  var bootAnchor = state.anchor, bootFrac = state.frac;
+  open(state.ch || 'front', { anchor: bootAnchor, frac: bootFrac });
+  state.anchor = bootAnchor; state.frac = bootFrac;
   updateCont();
   els.cover.classList.remove('hide');
 
